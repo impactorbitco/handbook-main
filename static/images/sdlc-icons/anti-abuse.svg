@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <circle cx="6" cy="27" r="5" fill="none" stroke="#171321" stroke-miterlimit="10" stroke-width="2"/>
+  <circle cx="90" cy="27" r="5" fill="none" stroke="#171321" stroke-miterlimit="10" stroke-width="2"/>
+  <circle cx="48" cy="89" r="5" fill="none" stroke="#171321" stroke-miterlimit="10" stroke-width="2"/>
+  <path fill="none" stroke="#171321" stroke-miterlimit="10" stroke-width="2" d="M86.8 22.98 65.81 2H30.19L15.83 16.35M53 88h12.81L91 62.81V40M5 32v30.81L30.19 88H35m18-36H43l-3-27h16zm-10 6h10v3c0 3.31-2.69 6-6 6h-4z"/>
+</svg>

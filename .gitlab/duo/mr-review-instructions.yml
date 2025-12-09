@@ -1,0 +1,69 @@
+---
+# Custom instructions for GitLab Duo Code Review
+# https://docs.gitlab.com/user/project/merge_requests/duo_in_merge_requests/#customize-instructions-for-gitlab-duo-code-review
+
+instructions:
+
+  # General review
+  - name: General instructions
+    instructions: |
+      1. Be respectful and constructive in comments
+      2. When suggesting a formatting change, link to the handbook style guide to learn more: https://handbook.gitlab.com/docs/markdown-guide/
+
+  # Handbook content
+  # Inspired by https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/duo/mr-review-instructions.yaml?ref_type=heads
+  # Aligned with https://handbook.gitlab.com/docs/markdown-guide/
+  - name: Content
+    fileFilters:
+      - "content/**/*.md"
+    instructions: |
+      1. Ensure markdown formatting follows Hugo syntax standards.
+      3. Avoid using meaningless text for links, such as "this article" or "read here". The link text should be meaningful even if taken out of context; this makes the links more useful and accessible for people using screen readers.
+      4. Use inline links, such as [Text to display](link), as they are easier to maintain.
+      5. Use relative links when referring to links found on the same handbook site: handbook.gitlab.com for the public handbook, and internal.gitlab.com for the internal handbook.
+      6. Always leave a blank line between Headings and the subsequent list
+      7. Words must be separated by one single space only. Do not leave blank spaces at the end of sentences.
+      8. Always leave a blank line between block-level markup elements, except between list items.
+      9. Use ordered lists when you have multiple items, because Numbered lists are easier to reference during a discussion over bulleted lists.
+      10. Use fenced codeblocks with syntax highlighting to display code examples for better readability.
+      11. Do not skip headings. Always do h1 → h2 → h3 → h4. Never h2 → h4.
+      12. Always add image ALT text for accessibility.
+      13. Do not allow newly added files with spaces and capitalized letters. For example, `Business Objective One.md` needs to be renamed to `business-objective-one.md`.
+
+  # YAML Frontmatter validation
+  - name: Frontmatter Validation
+    fileFilters:
+      - "content/**/*.md"
+    instructions: |
+      1. Flag any duplicate keys in YAML frontmatter (between --- delimiters at the top of the file).
+      2. Ensure required frontmatter fields are present: title, description.
+      3. Verify date fields use ISO 8601 format (YYYY-MM-DD).
+      4. Check for common typos in standard Hugo frontmatter keys (e.g., 'titel' instead of 'title', 'desciption' instead of 'description').
+
+
+  # Protect maintainer files
+  - name: Maintainer Files
+    fileFilters:
+      - ".gitlab/**/*"
+      - "config/**/*"
+      - "assets/**/*"
+      - "assets/**/*"
+      - "layouts/**/*"
+      - "/*.yml"
+      - "/*.yaml"
+      - "/*.ini"
+      - "/*.json"
+      - "/*.mod"
+      - "/*.sum"
+    instructions: |
+      1. If a file gets deleted, flag this in a comment as a possible breaking change, and tag `@gitlab-com/content-sites/handbook-tools` for review.
+
+  # CI/CD configuration
+  # Inspired by https://gitlab.com/gitlab-da/use-cases/ai/gitlab-duo-agent-platform/challenges/tanuki-iot-platform/-/blob/main/.gitlab/duo/mr-review-instructions.yaml?ref_type=heads
+  - name: CI/CD Configuration
+    fileFilters:
+      - ".gitlab-ci.yml"
+    instructions: |
+      1. Do not use YAML anchors
+      2. Always use rules in jobs, avoid using `only`
+

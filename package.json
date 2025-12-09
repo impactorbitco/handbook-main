@@ -1,0 +1,29 @@
+{
+  "name": "internal-handbook",
+  "private": true,
+  "description": "View the internal handbook at <https://internal.gitlab.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com:gitlab-com/content-sites/internal-handbook.git"
+  },
+  "scripts": {
+    "sync-data": "./scripts/sync-data.sh",
+    "build": "npm run sync-data && hugo --minify",
+    "start": "hugo server",
+    "preview": "hugo server -D",
+    "deploy": "npm run build && gh-pages -d public"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "chalk": "^5.6.2",
+    "markdownlint-cli2": "^0.18.1",
+    "markdownlint-cli2-formatter-codequality": "^0.0.6",
+    "markdownlint-cli2-formatter-pretty": "^0.0.8",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "gh-pages": "^5.0.0"
+  },
+  "engines": {
+    "node": "22.20.0"
+  }
+}

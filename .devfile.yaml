@@ -1,0 +1,24 @@
+schemaVersion: 2.2.0
+variables:
+  registry-root: registry.gitlab.com
+components:
+  - name: workspace-container
+    attributes:
+      gl/inject-editor: true
+    container:
+      image: "{{registry-root}}/gitlab-org/gitlab-build-images:workspaces-handbook"
+      memoryLimit: 10240Mi
+      memoryRequest: 10240Mi
+      endpoints:
+        - name: hugo-app
+          targetPort: 1313
+          secure: true
+          protocol: https
+commands:
+  - id: install-dependencies
+    exec:
+      component: workspace-container
+      commandLine: "cd /projects/handbook && asdf install && npm install"
+events:
+  postStart:
+    - install-dependencies

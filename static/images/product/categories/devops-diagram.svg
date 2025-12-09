@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="GitLab DevSecOps Lifecycle" viewBox="0 0 1025 500">
+  <style>
+    .text{font-family:Inter,Source Sans Pro,sans-serif;font-size:20px;font-weight:700;fill:#2b2838;letter-spacing:.02em;dominant-baseline:middle;text-anchor:middle}.text2{font-size:26px;fill:#2b2838}.mix{mix-blend-mode:color-burn}.line{fill:none;stroke:#2b2838;stroke-width:2px}.lightline{stroke:#d3d0d4;stroke-width:3px}
+  </style>
+  <linearGradient id="linear-gradient" x1="18" x2="1007" y1="250" y2="250" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#e6dcf4"/>
+    <stop offset="1" stop-color="#ffd0be"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-2" x1="720.88" x2="370.24" y1="337.91" y2="74.18" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#2b2838" stop-opacity=".24"/>
+    <stop offset="1" stop-color="#45424d" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-3" x1="304.12" x2="654.76" y1="162.09" y2="425.82" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#2b2838" stop-opacity=".24"/>
+    <stop offset="1" stop-color="#45424d" stop-opacity="0"/>
+  </linearGradient>
+  <path id="background" fill="#fff" d="M0 0h1025v500H0"/>
+  <path id="upper_arc" d="M0 250A238 238 0 0 1 238 12h549a238 238 0 0 1 238 238" class="line"/>
+  <path id="lower_arc" d="M0 250a238 238 0 0 0 238 238h549a238 238 0 0 0 238-238" class="line"/>
+  <path id="clear_1" fill="#fff" d="M-3 190v120h1031V190"/>
+  <path id="clear_2" fill="#fff" d="M422 0h181v500H422"/>
+  <path id="loop" fill="url(#linear-gradient)" d="m512.5 181.18-142.26-107a220 220 0 1 0 0 351.64L512.5 318.8l142.26 107.02a220 220 0 1 0 0-351.64"/>
+  <path id="cutout_1" fill="#fff" d="m421 250-116.88-87.91a110 110 0 1 0 0 175.82"/>
+  <path id="cutout_2" fill="#fff" d="m604 250 116.88-87.91a110 110 0 1 1 0 175.82"/>
+  <path id="shadow_1" fill="url(#linear-gradient-2)" d="M512.5 181.18 421 250l-116.88-87.91 66.12-87.91" class="mix"/>
+  <path id="shadow_2" fill="url(#linear-gradient-3)" d="M512.5 318.8 604 250l116.88 87.91-66.12 87.91" class="mix"/>
+  <path fill="none" d="m421 256-116.88-87.91A104 104 0 1 0 240 354l-15-13m379-85 116.88-87.91A104 104 0 1 1 785 354l15-13" class="lightline"/>
+  <path fill="#fff" d="M357 205h311a45 45 0 0 1 0 90H357a45 45 0 0 1 0-90" class="lightline"/>
+  <path fill="#e24329" d="m536.514 419-.066-.18-6.785-17.696a1.77 1.77 0 0 0-.698-.841 1.78 1.78 0 0 0-1.602-.165 1.8 1.8 0 0 0-.687.465 1.8 1.8 0 0 0-.402.723l-4.579 14.02h-18.544l-4.58-14.02a1.796 1.796 0 0 0-1.909-1.295 1.8 1.8 0 0 0-.782.272c-.315.2-.56.495-.697.841l-6.78 17.7-.072.176a12.59 12.59 0 0 0 4.18 14.556l.025.019.058.045 10.32 7.735 5.12 3.869 3.111 2.351a2.1 2.1 0 0 0 2.534 0l3.11-2.351 5.12-3.869 10.394-7.78.028-.022A12.59 12.59 0 0 0 536.514 419"/>
+  <path fill="#fc6d26" d="m536.514 419-.066-.18a22.9 22.9 0 0 0-9.12 4.103l-14.897 11.263 9.485 7.169 10.393-7.78.03-.022a12.6 12.6 0 0 0 4.519-6.579 12.6 12.6 0 0 0-.344-7.974"/>
+  <path fill="#fca326" d="m502.914 441.355 5.12 3.869 3.111 2.351a2.1 2.1 0 0 0 2.534 0l3.11-2.351 5.12-3.869-9.484-7.169z"/>
+  <path fill="#fc6d26" d="M497.519 422.923a22.8 22.8 0 0 0-9.116-4.099l-.072.176a12.59 12.59 0 0 0 4.18 14.556l.025.019.058.045 10.32 7.735 9.491-7.169z"/>
+  <text x="50%" y="255" class="text" style="font-size:56px;fill:#000">DevSecOps</text>
+  <text x="353" y="131" class="text">Plan</text>
+  <text x="127" y="131" class="text">Code</text>
+  <text x="127" y="371" class="text">Build</text>
+  <text x="353" y="371" class="text">Test</text>
+  <text x="672" y="131" class="text">Release</text>
+  <text x="898" y="131" class="text">Deploy</text>
+  <text x="898" y="371" class="text">Operate</text>
+  <text x="672" y="371" class="text">Monitor</text>
+  <text x="50%" y="13" class="text text2">Security</text>
+  <text x="50%" y="488" class="text text2">Compliance</text>
+</svg>
