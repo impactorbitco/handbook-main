@@ -1,7 +1,7 @@
 languageCode: en-GB
 locale: en-GB
 title: The Impact Orbit Creative Group Handbook
-baseURL: "https://handbook.impactorbit.co/"
+baseURL: "https://impactorbitco.github.io/handbook-main"
 
 enableRobotsTXT: true
 enableGitInfo: true
