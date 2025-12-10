@@ -1,0 +1,31 @@
+{{ $p := .Page.Params }}
+
+<div class="standards-meta">
+  {{ with $p.iso_number }}
+    <p><strong>ISO Number:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.acronym }}
+    <p><strong>Acronym:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.description }}
+    <p><strong>Description:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.owner }}
+    <p><strong>Owner:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.status }}
+    <p><strong>Status:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.implemented }}
+    <p><strong>Implemented:</strong> {{ . }}</p>
+  {{ end }}
+
+  {{ with $p.version }}
+    <p><strong>Version:</strong> {{ . }}</p>
+  {{ end }}
+</div>

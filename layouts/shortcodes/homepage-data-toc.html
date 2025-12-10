@@ -1,0 +1,31 @@
+<section id="td-lead" class="td-box td-box--white td-box--height-auto">
+  <div class="container" style="max-width: 100%!important">
+    <div class="row text-start mb-md-5">
+      <div class="col-md-8">
+        <h1>Welcome to the Impact Orbit Handbook</h1>
+        <p class="lead">As a remote‑first group, Impact Orbit maintains a handbook‑first approach. Explore the handbook to learn how we operate, collaborate, and govern our work.</p>
+      </div>
+    </div>
+    <div class="row row-cols-3 row-card">
+      {{- range .Site.Data.toc }}
+      <div class="col col-12 col-md-4 mb-4">
+        <div class="lead--card">
+          {{ $svg := .svg | safeHTML }}
+          {{ if $svg }}
+            {{ $svg }}
+          {{ end }}
+          <h2 class="h3">{{ .name }}</h2>
+          <ul class="list-unstyled mb-0">
+            {{- range .links }}
+              {{- $target := .url }}
+              <li>
+                <a href="{{ relref $.Page $target }}">{{ .name }}</a>
+              </li>
+            {{- end }}
+          </ul>
+        </div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>

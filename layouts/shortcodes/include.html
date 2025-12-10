@@ -1,0 +1,24 @@
+{{/* 
+Shortcode: include
+Usage:
+1. Self-closing to include a Markdown or HTML file:
+   {{< include "path/to/file.md" >}}
+2. With inner content:
+   {{< include >}}
+   Some content here
+   {{< /include >}}
+*/}}
+
+{{ $file := .Get 0 }}
+
+{{ if $file }}
+  {{ $content := readFile (printf "%s/%s" .Site.BaseFileDir $file) }}
+  {{ if $content }}
+    {{ $content | markdownify }}
+  {{ else }}
+    <div style="color:red;">Include file not found: {{ $file }}</div>
+  {{ end }}
+{{ else }}
+  {{/* If no file is provided, use inner content */}}
+  {{ .Inner | markdownify }}
+{{ end }}

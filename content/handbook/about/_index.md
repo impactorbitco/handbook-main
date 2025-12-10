@@ -44,11 +44,7 @@ The handbook is over *two* *thousand* pages long. That's a lot of good info!
 
 #### about.gitlab.com/handbook
 
-{{< handbook-counts site="about" >}}
-
 #### handbook.gitlab.com/handbook
-
-{{< handbook-counts site="handbook" >}}
 
 ### Methodology
 

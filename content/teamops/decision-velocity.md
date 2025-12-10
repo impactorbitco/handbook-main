@@ -199,10 +199,5 @@ By being transparent in your virtual work, your team can easily prove productivi
 
 ---
 
-{{< cardpane >}}
-
-{{< panel header="**Next**" header-bg="success" >}}
 Continue the learning experience by exploring <a href="/teamops/measurement-clarity/">TeamOps - Measurement Clarity</a>
-{{< /panel >}}
 
-{{< /cardpane >}}

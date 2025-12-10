@@ -1,6 +1,7 @@
 ---
 title: Contributing to the Handbook
 description: Basic information on contributing to the GitLab Handbook.
+weight: 10
 ---
 
 {{% alert title="Note" color="primary" %}}

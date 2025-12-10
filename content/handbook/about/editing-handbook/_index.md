@@ -1,6 +1,7 @@
 ---
-title: "Editing the Handbook"
-description: "Information on how to edit the handbook including tips and troubleshooting."
+title: Editing the Handbook
+description: Information on how to edit the handbook including tips and troubleshooting.
+weight: 10
 ---
 
 This page focuses on how to edit the handbook.
@@ -108,8 +109,6 @@ This video covers:
 - Editing the marketing handbook as example
 - `Edit this page` action using the Web IDE, overview walkthrough, editing the handbook, again creating a merge request with the same actions.
 - Practical handbook edit tips shown in this handbook.
-
-{{< youtube DJo4bQdawSo >}}
 
 ### Historical videos
 

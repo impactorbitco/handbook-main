@@ -1,0 +1,27 @@
+{{/* 
+  Shortcode: policy-standard-ref
+  Purpose: Display ISO standard references in policies with cross-links
+  Front-matter fields used: iso_number, Clause_Mapping
+*/}}
+
+<div class="policy-standard-ref">
+  {{ with .Page.Params.iso_number }}
+    <p>
+      <strong>ISO Standard:</strong>
+      <a href="/job-families/standards/iso-{{ . | lower }}/">{{ . }}</a>
+    </p>
+  {{ end }}
+
+  {{ with .Page.Params.Clause_Mapping }}
+    <p><strong>Clause(s) referenced:</strong></p>
+    <ul>
+      {{ range . }}
+        <li>
+          <a href="/job-families/standards/iso-{{ $.Page.Params.iso_number | lower }}/#{{ . | urlize }}">
+            {{ . }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</div>

@@ -1,6 +1,7 @@
 ---
-title: "GitLab Handbook Usage"
-description: "About how GitLab uses the handbook."
+title: GitLab Handbook Usage
+description: About how GitLab uses the handbook.
+weight: 10
 ---
 
 ## Flow structure

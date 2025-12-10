@@ -1,6 +1,8 @@
 ---
-title: "Practical Handbook Editing Tips"
-description: "Video recordings and written tips for team members on additional tips to working handbook first."
+title: Practical Handbook Editing Tips
+description: Video recordings and written tips for team members on additional tips
+  to working handbook first.
+weight: 10
 ---
 
 This page contains instructions, tips, and historical recordings for non-technical team members on how to work handbook-first.
@@ -96,8 +98,6 @@ gsed -i 's,<searchtext>,<replacementtext>,g' file.md
 ```
 
 ## How to Find and Replace Content
-
-{{< youtube id="lWBkNqxPxw8" title="How to Find and Replace Content in the Handbook using Terminal and a Code Editor" >}}
 
 There are times when you need to find every instance of a word, phrase or link and searching in the handbook online search field is too cumbersome or does not return accurate results. With an code editor and your terminal, you can find and replace content easily and quickly.
 
@@ -237,4 +237,3 @@ Sometimes the easiest way to fix one - or a few - trailing whitespace lint error
 1. Remove the trailing whitespace from the end of the line
 1. Click `Add comment now` and apply the suggestion
 
-{{< youtube Kfdf2VAk9sM >}}

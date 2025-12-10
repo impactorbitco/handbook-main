@@ -192,10 +192,5 @@ Two GitLab team members have never worked together before, so they set up a [cof
 
 ---
 
-{{< cardpane >}}
-
-{{< panel header="**Next**" header-bg="success" >}}
 Continue the learning experience by exploring <a href="https://handbook.gitlab.com/teamops/equal-contributions/">TeamOps - Everyone Contributes</a>
-{{< /panel >}}
 
-{{< /cardpane >}}

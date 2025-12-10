@@ -1,5 +1,6 @@
 ---
-title: "Handbook Direction"
+title: Handbook Direction
+weight: 10
 ---
 
 ## Overview

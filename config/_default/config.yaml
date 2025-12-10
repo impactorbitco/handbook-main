@@ -1,9 +1,13 @@
 languageCode: en-GB
 locale: en-GB
 title: The Impact Orbit Creative Group Handbook
+baseURL: "https://handbook.impactorbit.co/"
 
 enableRobotsTXT: true
 enableGitInfo: true
+canonifyURLs: true
+pluralizeListTitles: false
+enableEmoji: true
 
 sitemap:
   changefreq: monthly
@@ -21,15 +25,14 @@ params:
     algolia:
       appId: 3IIMMA8IDY
       apiKey: 71feb3efa6044f78ab6b8a7422e727b7
-      indexName: handbook-gitlab
+      indexName: handbook-impactorbit
   images:
-      - images/gitlab-cover.png
+    - images/impactorbit-cover.png
   branch: main
   project: impactorbitco/handbook-main
   repoid: 42817607
   plantuml:
     enable: true
-    # svg: true
   mermaid:
     enable: true
   offlineSearch: false
@@ -41,18 +44,18 @@ params:
     navbar_logo: true
     footer_about_disable: true
     showLightDarkModeMenu: true
-  copyright: "GitLab"
+  copyright: "Impact Orbit Creative Group"
   privacy_policy: https://about.impactorbit.co/privacy/
   links:
     user:
       - name: "Slack"
-        url: "https://gitlab.slack.com/archives/C81PT2ALD"
+        url: "https://slack.impactorbit.co"
         icon: "fab fa-slack"
         desc: "#handbook on Slack"
       - name: "Repository"
         url: "https://github.com/impactorbitco/handbook-main"
         icon: "fa-solid fa-code-branch"
-        desc: "GitLab project"
+        desc: "GitHub project"
       - name: "Edit the site"
         url: "/docs/development"
         icon: "fa-solid fa-edit"
@@ -65,8 +68,10 @@ caches:
     maxAge: 24h
 
 staticDir:
-        - data
-        - static
+  - static
+  - data
+  - assets
+
 menu:
   main:
     - weight: -2
@@ -77,10 +82,12 @@ menu:
 mediaTypes:
   text/netlify:
     delimiter: ""
-    suffixes: [ "" ]
+    suffixes: [""]
+
 outputs:
-  home: [ "HTML", "REDIRECTS" ]
-  section: [ "HTML" ]
+  home: ["HTML", "REDIRECTS"]
+  section: ["HTML"]
+
 outputformats:
   redirects:
     baseName: "_redirects"
@@ -108,11 +115,7 @@ markup:
 
 security:
   funcs:
-    getenv: [ "^HUGO_", "PERISCOPE_EMBED_API_KEY", "PRODUCT_ANALYTICS_APP_KEY", "PRODUCT_ANALYTICS_HOST", "PUBLIC_HANDBOOK_REF" ]
-
-canonifyURLs: true
-pluralizeListTitles: false
-enableEmoji: true
+    getenv: ["^HUGO_", "PERISCOPE_EMBED_API_KEY", "PRODUCT_ANALYTICS_APP_KEY", "PRODUCT_ANALYTICS_HOST", "PUBLIC_HANDBOOK_REF"]
 
 module:
   proxy: https://proxy.golang.org
@@ -120,17 +123,14 @@ module:
     extended: true
     min: 0.123
   imports:
-  - path: gitlab.com/gitlab-com/content-sites/docsy-gitlab
-    disable: false
-  - path: github.com/google/docsy
-    disable: false
-  - path: github.com/google/docsy/dependencies
-    disable: false
+    - path: github.com/impactorbitco/handbook-main
+      disable: false
+    - path: github.com/google/docsy
+      disable: false
+    - path: github.com/google/docsy/dependencies
+      disable: false
 
-# Ignore build errors
 ignoreErrors:
-  # Do not fail to build when we fail to fetch a tweet
-  # https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/178
   - error-tweet-failed
 
-timeout: "300s" # Extend hugo timeout
+timeout: "300s"

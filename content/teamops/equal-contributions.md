@@ -193,10 +193,5 @@ During employee onboarding, [Help Scout](https://www.helpscout.com) teaches new 
 
 ---
 
-{{< cardpane >}}
-
-{{< panel header="**Next**" header-bg="success" >}}
 Continue the learning experience by exploring [TeamOps - Decision Velocity](/teamops/decision-velocity/)
-{{< /panel >}}
 
-{{< /cardpane >}}

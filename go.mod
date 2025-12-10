@@ -2,11 +2,11 @@ module gitlab.com/gitlab-com/content-sites/handbook
 
 go 1.25.4
 
-require github.com/google/docsy v0.12.0
+// Use local path for Impact Orbit handbook module
+replace github.com/impactorbitco/handbook-main => ../handbook-main
 
 require (
-	github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3 // indirect
+	github.com/google/docsy v0.13.0 // indirect
 	github.com/google/docsy/dependencies v0.7.2 // indirect
-	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
-	gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.66 // indirect
+	github.com/impactorbitco/handbook-main v0.0.0-00010101000000-000000000000 // indirect
 )

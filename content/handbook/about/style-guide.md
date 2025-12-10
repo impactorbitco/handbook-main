@@ -1,5 +1,6 @@
 ---
-title: "Handbook Style Guide"
+title: Handbook Style Guide
+weight: 10
 ---
 
 GitLab's general communications practices are detailed at [GitLab Communication](/handbook/communication/), but beyond those we do have some channel-specific guidance available.

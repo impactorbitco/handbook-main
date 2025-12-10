@@ -192,10 +192,5 @@ At the same time each quarter, executive leadership hosts [GitLab Assembly](/han
 
 ---
 
-{{< cardpane >}}
-
-{{< panel header="**Next**" header-bg="success" >}}
 Restart the TeamOps model by learning about <a href="/teamops/shared-reality/">TeamOps - Shared Reality</a>.
-{{< /panel >}}
 
-{{< /cardpane >}}
