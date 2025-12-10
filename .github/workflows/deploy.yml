@@ -1,0 +1,42 @@
+name: Build and Deploy Site
+
+on:
+  push:
+    branches:
+      - master       # or your primary branch
+  workflow_dispatch:  # allows manual runs
+
+permissions:
+  contents: read
+  pages: write        # needed if deploying via GitHub Pages
+  id-token: write
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true   # uncomment if you need the extended build (e.g. SCSS, etc.)
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Deploy to Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
