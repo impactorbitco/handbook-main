@@ -1,11 +1,13 @@
+# config.yaml
+
 languageCode: en-GB
 locale: en-GB
 title: The Impact Orbit Creative Group Handbook
 baseURL: "https://impactorbitco.github.io/handbook-main/"
-
+relativeURLs: true        # Use relative URLs for GitHub Pages subpath
+canonifyURLs: false       # Do not rewrite URLs to absolute
 enableRobotsTXT: true
 enableGitInfo: true
-canonifyURLs: true
 pluralizeListTitles: false
 enableEmoji: true
 

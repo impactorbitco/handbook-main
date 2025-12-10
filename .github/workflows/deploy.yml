@@ -1,4 +1,3 @@
-# .github/workflows/deploy.yml
 name: Build & Deploy Hugo site to GitHub Pages
 
 on:
@@ -28,9 +27,11 @@ jobs:
 
       - name: Build site
         run: |
-          hugo --minify
-          # Ensure nojekyll is present
+          hugo --minify --gc --enableGitInfo
+          # Add .nojekyll for GitHub Pages
           touch public/.nojekyll
+          # List contents for debugging
+          ls -R public
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
