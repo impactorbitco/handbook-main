@@ -1,10 +1,9 @@
 # .github/workflows/deploy.yml
-name: Build and Deploy Hugo site to GitHub Pages
+name: Build & Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches:
-      - main   # or your default branch
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -14,11 +13,9 @@ permissions:
 
 jobs:
   build:
-    name: Build site
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
@@ -32,15 +29,16 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: ./public
+          path: public/
 
   deploy:
-    name: Deploy site
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
