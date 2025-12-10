@@ -1,22 +1,26 @@
-name: Build and Deploy Site
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches:
-      - master       # or your primary branch
-  workflow_dispatch:  # allows manual runs
+      - main      # change if your default branch is different
+  workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write        # needed if deploying via GitHub Pages
+  pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build_and_deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: false
+    defaults:
+      run:
+        shell: bash
 
     steps:
       - name: Checkout repository
@@ -25,16 +29,24 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          # extended: true   # uncomment if you need the extended build (e.g. SCSS, etc.)
+          extended: true
 
-      - name: Build site
+      - name: (Optional) Install Dart Sass
+        run: |
+          if ! command -v sass >/dev/null; then
+            wget https://github.com/sass/dart-sass/releases/download/1.79.2/dart-sass-1.79.2-linux-x64.tar.gz -O /tmp/dart-sass.tar.gz
+            tar -xzf /tmp/dart-sass.tar.gz -C /tmp
+            sudo mv /tmp/dart-sass/sass /usr/local/bin/
+          fi
+
+      - name: Build site with Hugo
         run: hugo --minify
 
-      - name: Deploy to Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/main'
         with:
