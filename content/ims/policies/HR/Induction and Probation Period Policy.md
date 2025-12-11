@@ -15,10 +15,9 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Induction and Probation Period Policy
 **1. Introduction**
 
-At Green Orbit Digital, we believe that a comprehensive induction process and a structured probation period are essential for integrating new employees into our organization and ensuring that they have the necessary support and guidance to succeed in their roles. This policy outlines our approach to induction and probation periods for all new employees.
+At Impact Orbit Creative Group, we believe that a comprehensive induction process and a structured probation period are essential for integrating new employees into our organization and ensuring that they have the necessary support and guidance to succeed in their roles. This policy outlines our approach to induction and probation periods for all new employees.
 
 **2. Induction Process**
 
@@ -54,4 +53,4 @@ This Induction and Probation Period Policy will be reviewed regularly to ensure 
 
 For any questions or clarification regarding this policy, employees should contact the HR department.
 
-This policy is effective as of [insert date] and applies to all new employees joining Green Orbit Digital from this date onwards.
+This policy is effective as of [insert date] and applies to all new employees joining Impact Orbit Creative Group from this date onwards.

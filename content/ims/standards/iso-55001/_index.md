@@ -1,17 +1,27 @@
 ---
-title: Assets Management System
+title: ISO-55001
+iso_number: '55001'
+acronym: AMS
+description: ISO 55001:2015-aligned AMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
+
+# Asset Management System
+
 ## Foreword
 
-Green Orbit Digital, a leader in sustainable marketing within the space and science sectors, recognizes the importance of systematic asset management. This Asset Management System (AMS) is developed in alignment with the ISO 55000 series to optimize asset value, support organizational objectives, and ensure sustainable practices throughout the asset lifecycle.
+Impact Orbit Creative Group, a leader in sustainable marketing within the space and science sectors, recognizes the importance of systematic asset management. This Asset Management System (AMS) is developed in alignment with the ISO 55000 series to optimize asset value, support organizational objectives, and ensure sustainable practices throughout the asset lifecycle.
 Introduction
-In the dynamic landscape of sustainable marketing, effective asset management is crucial. By implementing an AMS based on ISO 55000 standards, Green Orbit Digital aims to manage its diverse assets—ranging from digital content to technological tools—systematically, ensuring they deliver maximum value and align with the company's mission of promoting sustainability through innovative marketing strategies.
+In the dynamic landscape of sustainable marketing, effective asset management is crucial. By implementing an AMS based on ISO 55000 standards, Impact Orbit Creative Group aims to manage its diverse assets—ranging from digital content to technological tools—systematically, ensuring they deliver maximum value and align with the company's mission of promoting sustainability through innovative marketing strategies.
 
 ---
 
 ## 1. Scope
-This AMS encompasses all assets under Green Orbit Digital's control, including:
+This AMS encompasses all assets under Impact Orbit Creative Group's control, including:
 Digital Assets: Marketing content, intellectual property, and proprietary software.
 Technological Tools: Hardware and software used in operations.
 Human Resources: Employee skills and knowledge.
@@ -23,7 +33,7 @@ The system applies to all stages of the asset lifecycle, from acquisition to dis
 ## 2. Asset Management
 
 ### 2.1 General
-Asset management involves coordinated activities to realize value from assets. For Green Orbit Digital, this means ensuring that all assets contribute effectively to delivering sustainable marketing solutions.
+Asset management involves coordinated activities to realize value from assets. For Impact Orbit Creative Group, this means ensuring that all assets contribute effectively to delivering sustainable marketing solutions.
 
 ### 2.2 Benefits of asset management
 Implementing asset management practices offers several benefits:
@@ -116,7 +126,7 @@ Integrating the AMS with other management systems (e.g., [**Quality Management S
 
 ### 4.1 Understanding the Organization and Its Context
 
-Green Orbit Digital operates within the sustainable marketing sector, focusing on space and science industries. Recognizing the dynamic nature of these fields, the organization must consider external factors such as technological advancements, environmental regulations, and market trends. Internally, the company's commitment to innovation and sustainability shapes its operational strategies. Understanding these contexts ensures that the AMS remains relevant and effective.
+Impact Orbit Creative Group operates within the sustainable marketing sector, focusing on space and science industries. Recognizing the dynamic nature of these fields, the organization must consider external factors such as technological advancements, environmental regulations, and market trends. Internally, the company's commitment to innovation and sustainability shapes its operational strategies. Understanding these contexts ensures that the AMS remains relevant and effective.
 
 ### 4.2 Understanding the Needs and Expectations of Stakeholders
 
@@ -124,7 +134,7 @@ Stakeholders include clients, employees, partners, regulatory bodies, and the br
 
 ### 4.3 Determining the Scope of the Asset Management System
 
-The AMS encompasses all assets critical to delivering Green Orbit Digital's services, including digital content, technological tools, and human resources. The system applies to all departments and functions, ensuring a holistic approach to asset management that aligns with organizational objectives and stakeholder expectations.
+The AMS encompasses all assets critical to delivering Impact Orbit Creative Group's services, including digital content, technological tools, and human resources. The system applies to all departments and functions, ensuring a holistic approach to asset management that aligns with organizational objectives and stakeholder expectations.
 
 ### 4.4 Asset Management System
 
@@ -138,7 +148,7 @@ Decision-making processes within the AMS are guided by data-driven insights, ris
 ## 5. Leadership
 
 ### 5.1 Leadership and Commitment
-Top management at Green Orbit Digital demonstrates commitment to the AMS by integrating asset management into the organization's strategic planning, allocating necessary resources, and promoting a culture of continuous improvement. Leadership ensures that asset management objectives align with the company's mission and values.
+Top management at Impact Orbit Creative Group demonstrates commitment to the AMS by integrating asset management into the organization's strategic planning, allocating necessary resources, and promoting a culture of continuous improvement. Leadership ensures that asset management objectives align with the company's mission and values.
 
 ### 5.2 Asset Management Policy
 The asset management policy outlines the organization's commitment to effective asset management practices. It defines objectives, responsibilities, and the framework for decision-making. The policy is communicated across the organization and is subject to regular review to ensure its continued relevance and effectiveness.

@@ -1,10 +1,6 @@
 ---
 title: Time off in lieu policy
 weight: 10
----
-
-# Time off in lieu policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,7 +11,7 @@ Last edited time: 7 October 2025 15:51
 Parent item: Leave of Absence Policy (Leave%20of%20Absence%20Policy%2027ed6625c67980b6b86dea63482c8ea9.md)
 Status: Not started
 Version Number: 1.1
-
+---
 category: Policies
 
 Because your wellbeing is important to us, we keep a close eye on additional hours worked. We don’t want a stressed, overworked team. However, it’s sometimes necessary to put in some extra hours to deal with emergencies or at times of heavy workload.

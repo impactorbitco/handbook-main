@@ -5,7 +5,7 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:41
 ID: POL-97
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 19:11
 Parent item: Information Governance and Data Security Policy (Information%20Governance%20and%20Data%20Security%20Policy%201c0d6625c679813f8302fe82c5e67869.md)
 Status: Not started
@@ -20,4 +20,4 @@ Sub-item: Data Collection & Minimisation Policy (Data%20Collection%20&%20Minimis
 Version Number: 1.1
 weight: 10
 ---
-# Data Lifecycle Management Policy
+

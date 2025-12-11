@@ -1,10 +1,6 @@
 ---
 title: Innovation policy and strategic intent
 weight: 10
----
-
-# Innovation policy and strategic intent
-
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 23 April 2025 09:49
@@ -14,14 +10,12 @@ Last edited time: 7 October 2025 18:33
 Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
 Status: Not started
 Version Number: 1.1
-
-# Innovation Policy and Strategic Intent
-
-Green Orbit Digital is committed to driving innovation through cutting-edge digital solutions that advance sustainability goals in the space industry. This policy establishes our framework for fostering innovation and strategic growth.
+---
+Impact Orbit Creative Group is committed to driving innovation through cutting-edge digital solutions that advance sustainability goals in the space industry. This policy establishes our framework for fostering innovation and strategic growth.
 
 ## Purpose and Scope
 
-This policy applies to all employees, contractors, and partners involved in innovation initiatives within Green Orbit Digital. It provides guidance for creating, developing, and implementing innovative solutions that align with our sustainability mission.
+This policy applies to all employees, contractors, and partners involved in innovation initiatives within Impact Orbit Creative Group. It provides guidance for creating, developing, and implementing innovative solutions that align with our sustainability mission.
 
 ## Strategic Objectives
 

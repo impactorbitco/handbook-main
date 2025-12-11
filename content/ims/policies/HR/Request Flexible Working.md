@@ -1,10 +1,6 @@
 ---
 title: Request Flexible Working
 weight: 10
----
-
-# Request Flexible Working
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,9 +11,7 @@ Last edited time: 7 October 2025 17:28
 Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
 Status: Not started
 Version Number: 1.1
-
-# Request Flexible Working Policy
-
+---
 ## Purpose
 
 The purpose of this policy is to provide employees with a clear framework for requesting flexible working arrangements. Earthwave is committed to promoting a fair working environment that supports the diverse needs of its employees, ensuring a balance between business operations and employee well-being.

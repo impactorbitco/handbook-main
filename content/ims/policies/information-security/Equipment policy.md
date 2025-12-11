@@ -14,7 +14,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-# Equipment policy
 We ask all employees entrusted with products owned by Wholegrain, such as a laptop and mobile phone, to take good care of them at all times. This means using them responsibly, and storing and transporting them safely. Refer to [our security guidelines](https://granary.wholegraindigital.com/security-policy/) for further advice.
 
 # **Requesting a New Equipment**

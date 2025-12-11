@@ -15,7 +15,6 @@ UN Global Compact principles: Principle 3
 Version Number: 1.1
 weight: 10
 ---
-# Activism Policy
 
 ## Purpose and Scope
 

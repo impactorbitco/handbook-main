@@ -11,7 +11,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-![gitlab-cover.png](Anti-Retaliation%20Policy/gitlab-cover.png)
 
 GitLab’s Anti-Retaliation Policy to establish guidance for reporting ethics or compliance concerns or other inappropriate behavior while providing protection against retaliation for reporting in good faith.
 

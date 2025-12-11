@@ -4,18 +4,18 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
-GRI Disclosures: 406-1 Incidents of discrimination and corrective actions taken (https://www.notion.so/406-1-Incidents-of-discrimination-and-corrective-actions-taken-1dad6625c679802e98bff3bb49ca5da0?pvs=21)
+GRI Disclosures: 406-1
 ID: POL-52
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System 
 Last edited time: 7 October 2025 17:35
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Purpose/Scope: Promotes fair treatment and equal opportunities.
 Status: Not started
-UN Global Compact principles: Principle 6 (https://www.notion.so/Principle-6-1d8d6625c67980f9bdcafcc8bdb540d6?pvs=21)
+UN Global Compact principles: Principle 6
 Version Number: 1.1
 weight: 10
 ---
-# Equality, Diversity, and Inclusion Policy
+
 ## Principles of Equality, Diversity, and Inclusion
 
 At Green Orbit Digital Ltd, we uphold the principles of equality, diversity, and inclusion (EDI) as fundamental values that guide our actions, decisions, and culture. These principles are ingrained in every aspect of our organisation, fostering an environment where all individuals are treated with respect, fairness, and equality.

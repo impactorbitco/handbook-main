@@ -5,166 +5,110 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-25
-IMS: Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21)
+IMS: Environmental Management System
 Last edited time: 7 October 2025 17:19
-Parent item: Environmental Management Policy (Environmental%20Management%20Policy%201c0d6625c67981c6b541fa5c32d9fb28.md)
+Parent item: Environmental Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Emissions Reduction Policy
 
-# **Introduction**
+## Introduction
 
-At [Your Business Name], we recognize the critical role businesses play in addressing climate change. This policy outlines our commitment to reducing greenhouse gas emissions from our operations, contributing to global efforts to limit global warming and environmental impact.
+At **Impact Orbit Creative Group**, we recognise the crucial role that businesses play in mitigating climate change. This policy outlines our commitment to reducing greenhouse gas (GHG) emissions across all operations and contributing to global efforts to limit environmental impact and global warming.
 
-**Scope**
+## Scope
 
-This policy applies to all aspects of our business operations and activities, including our employees, contractors, suppliers, and partners.
+This policy applies to all employees, contractors, suppliers, partners, and operations that may influence our greenhouse gas emissions.
 
-**Our Commitment**
+## Commitment
 
-1. **Emissions Reduction Targets:** We commit to setting and pursuing clear, measurable targets for reducing our greenhouse gas emissions, in alignment with scientific recommendations and international agreements.
+1. **Net Zero Ambition**  
+   We are committed to achieving **Net Zero emissions by 2040**, in line with science-based targets to limit global warming to 1.5°C.
 
-2. **Energy Efficiency:** We will prioritize energy efficiency in our operations by:
+2. **Emission Reduction Targets**  
+   - 50% reduction in Scope 1 and 2 emissions by 2030  
+   - 90% reduction in absolute emissions across all scopes by 2040  
 
-- Implementing energy-efficient technologies and practices.
-- Regularly auditing and optimizing our energy use.
-- Encouraging energy-saving behaviours among our employees.
+3. **Energy Efficiency and Renewable Energy**  
+   - Adopt energy-efficient technologies and operational practices.  
+   - Optimise energy use through regular audits.  
+   - Transition to renewable energy sources wherever possible, including exploring on-site generation.  
 
-3. **Renewable Energy:** We aim to increase our use of renewable energy by:
+4. **Sustainable Transportation**  
+   - Promote low-carbon commuting, including public transport, cycling, walking, and carpooling.  
+   - Transition company vehicles to low-emission alternatives.  
+   - Optimise logistics to minimise emissions across the supply chain.  
 
-- Sourcing electricity from renewable sources where possible.
-- Investing in renewable energy projects and technologies.
-- Exploring opportunities for on-site renewable energy generation.
+5. **Waste Reduction and Circular Practices**  
+   - Minimise waste and maximise recycling and reuse.  
+   - Source products and services with low carbon footprints.  
+   - Encourage suppliers and partners to adopt sustainable practices.  
 
-4. **Sustainable Transportation:** We will reduce emissions from transportation by:
+6. **Employee Engagement and Training**  
+   - Provide regular training on carbon reduction and climate change awareness.  
+   - Empower employees to participate in sustainability initiatives.  
+   - Recognise and reward contributions to emission reduction efforts.  
 
-- Encouraging the use of public transportation, carpooling, cycling, and walking among employees.
-- Transitioning to low-emission vehicles for company use.
-- Optimizing logistics and supply chain management to minimize transportation emissions.
+7. **Digital Sustainability**  
+   - Optimise cloud storage and IT infrastructure using energy-efficient, renewable-powered providers.  
+   - Implement device lifecycle management and eliminate digital waste.  
 
-5. **Waste Reduction and Circular Economy:** We commit to reducing waste and embracing circular economy principles, which contribute to emissions reduction by:
+## Baseline Emissions
 
-- Minimizing waste generation and maximizing recycling and reuse.
-- Choosing products and services with lower carbon footprints.
-- Encouraging suppliers and partners to adopt sustainable practices.
+Emissions are measured in **tonnes of CO2 equivalent (CO2e)** following the GHG Protocol corporate standard. We monitor:  
+- **Scope 1:** Direct emissions from owned or controlled sources  
+- **Scope 2:** Indirect emissions from purchased electricity, heat, or steam  
+- **Scope 3:** Other indirect emissions, including supply chain and business travel  
 
-6. **Employee Engagement and Training:** We believe that employee awareness and involvement are key to achieving our emissions reduction goals. We will:
+## Carbon Reduction Measures
 
-- Provide training and resources to educate employees about climate change and emissions reduction.
-- Encourage and facilitate employee-led sustainability initiatives.
-- Recognize and reward contributions to emissions reduction.
+### 1. Facilities and Operations
+- Upgrade lighting, heating, and cooling systems to energy-efficient models.  
+- Optimise operational processes to reduce energy consumption.  
 
-7. **Reporting and Transparency:** We commit to transparent reporting of our emissions and progress towards reduction targets, including:
+### 2. Travel and Commuting
+- Support remote working and virtual collaboration.  
+- Incentivise low-carbon travel choices.  
+- Establish sustainable travel policies for business trips.  
 
-- Regularly measuring and disclosing our carbon footprint.
-- Providing updates on our progress towards emissions reduction targets.
-- Engaging with stakeholders on our emissions reduction strategy and performance.
+### 3. Supply Chain
+- Engage suppliers to collect emissions data and promote reductions.  
+- Encourage suppliers to set science-based emission reduction targets.  
+- Implement sustainable procurement practices.  
 
-**Responsibilities**
+## Monitoring, Reporting, and Transparency
 
-Management is responsible for implementing this policy and ensuring adherence.
+- Measure and report emissions quarterly.  
+- Review progress against reduction targets annually.  
+- Update the carbon management plan regularly.  
+- Publicly disclose emissions and progress to stakeholders.  
 
-All employees are expected to contribute to achieving our emissions reduction goals.
+## Governance
 
-The Sustainability Officer/Department will coordinate and monitor our emissions reduction initiatives.
+The **Board of Directors** reviews this policy quarterly and updates it annually to ensure continuous improvement, alignment with environmental goals, and compliance with relevant standards. Progress is communicated to employees, clients, and partners.
 
-**Compliance and Review**
+## Training and Awareness
 
-We will comply with relevant environmental laws and regulations.
+- Conduct regular workshops and briefings on carbon reduction strategies.  
+- Provide quarterly updates on performance against emission targets.  
+- Train staff on new sustainable technologies and operational practices.  
 
-This policy will be reviewed and updated regularly to reflect new developments and best practices in emissions reduction.
+## Partnerships and Collaboration
 
-**Approval**
+- Participate in industry initiatives to share best practices and align methodologies.  
+- Support collective reporting and climate action with industry peers.  
+- Collaborate with partners to amplify emission reduction efforts.  
 
-This policy has been approved by the highest level of management at [Your Business Name], underscoring our commitment to reducing emissions and addressing climate change.
+## Compliance
 
-**Contact Information**
+- Comply with all relevant environmental laws, regulations, and industry standards.  
+- Breaches of this policy may result in disciplinary or corrective action.  
 
-For more information or inquiries about this policy, please contact [Contact Person/Department].
+## Review and Update
 
-|  | **Page | 1** |
-| --- | --- |
+This policy will be reviewed annually to reflect new scientific insights, evolving regulations, and best practices in emissions reduction and sustainability.
 
-## 1. Commitment to Net Zero
+## Contact Information
 
-Green Orbit Digital is committed to achieving Net Zero emissions by 2040. We aim to reduce our greenhouse gas (GHG) emissions in line with science-based targets to limit global warming to 1.5°C.
-
-## 2. Baseline Emissions
-
-Our emissions are calculated in tonnes of carbon dioxide equivalent (CO2e) using the GHG Protocol corporate standard and appropriate conversion factors. We measure emissions across:
-
-- Scope 1 (Direct emissions)
-- Scope 2 (Indirect emissions from purchased electricity)
-- Scope 3 (Other indirect emissions)
-
-## 3. Emission Reduction Targets
-
-We aim to achieve the following reductions:
-
-- 50% reduction in Scope 1 and 2 emissions by 2030
-- 90% reduction in absolute emissions across all scopes by 2040
-
-## 4. Carbon Reduction Measures
-
-We will implement the following measures to achieve our targets:
-
-### 4.1 Energy and Facilities
-
-- Switch to renewable energy sources where possible
-- Optimize energy efficiency in all facilities
-- Implement energy-efficient lighting and heating systems
-
-### 4.2 Business Travel and Commuting
-
-- Implement sustainable travel policies
-- Support remote working options
-- Provide incentives for low-carbon commuting
-
-### 4.3 Supply Chain
-
-- Engage with suppliers to collect emissions data
-- Encourage suppliers to set their own net-zero targets
-- Implement sustainable procurement practices
-
-## 5. Monitoring and Reporting
-
-We will:
-
-- Calculate and report emissions quarterly
-- Review progress against targets annually
-- Update our carbon management plan regularly
-- Publicly disclose our emissions data and progress
-
-## 6. Governance
-
-This Carbon Emission Policy will be reviewed quarterly by the board of directors and updated annually to ensure continuous improvement, alignment with our environmental goals, and compliance with relevant standards. Progress will be monitored against targets and communicated to all stakeholders through regular reports.
-
-## 7. Training and Awareness
-
-We will implement comprehensive training programs to ensure all employees understand their role in achieving our carbon reduction goals:
-
-- Regular workshops on sustainable practices and carbon reduction
-- Quarterly updates on progress towards emission targets
-- Training on new sustainable technologies and practices
-
-## 8. Partnerships and Industry Collaboration
-
-Green Orbit Digital actively participates in industry initiatives to enhance collective action on climate change:
-
-- Contribute data to industry initiatives to enhance common methodologies
-- Share best practices and lessons learned with industry partners
-- Support collective industry-wide reporting and communications
-
-## 9. Digital Sustainability
-
-As a technology-focused organization, we commit to:
-
-- Optimize cloud storage by using energy-efficient providers powered by renewable energy
-- Implement device lifecycle management practices
-- Regularly audit and eliminate digital waste
-
-This policy will be supported by our Environmental Management System (EMS) and reviewed regularly to ensure alignment with ISO 14001 standards and best practices in carbon reduction.
-
-[Emissions Management ](Emissions%20Reduction%20Policy/Emissions%20Management%201c0d6625c67980249832e5a0ac7eb2db.csv)
+For questions or guidance regarding this policy, please contact the **Sustainability Officer** at [contact email].

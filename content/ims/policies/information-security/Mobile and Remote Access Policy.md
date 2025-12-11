@@ -16,8 +16,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-# Mobile Device and Teleworking Policy
-
 ## Introduction
 
 The Mobile Device and Teleworking Policy serves as a strategic guideline for ensuring the security and proper use of mobile devices and teleworking practices within the organization. This policy is aligned with ISO/IEC 27001 standards and supports the overarching Information Security Management System (ISMS) objectives.

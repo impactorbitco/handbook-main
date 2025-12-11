@@ -1,10 +1,6 @@
 ---
 title: Penetration Testing Policy
 weight: 10
----
-
-# Penetration Testing Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: Yes
@@ -13,6 +9,7 @@ ID: POL-157
 Last edited time: 8 October 2025 06:52
 Status: Not started
 Version Number: 1.1
+---
 
 ### **Tags:** [Security_policy](https://handbook.gitlab.com/tags/security_policy/) [Security_policy_caplscsi](https://handbook.gitlab.com/tags/security_policy_caplscsi/)
 

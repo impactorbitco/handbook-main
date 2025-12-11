@@ -60,7 +60,7 @@ weight: 10
 # Health, Safety, and Wellbeing Policy
 ### Introduction
 
-At Green Orbit Digital, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organization.
+At Impact Orbit Creative Group, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organization.
 
 ### Objectives
 
@@ -114,7 +114,7 @@ Our objectives are to:
 
 ### Conclusion
 
-At Green Orbit Digital, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritizing health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organizational success.
+At Impact Orbit Creative Group, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritizing health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organizational success.
 
 # **Introduction**
 

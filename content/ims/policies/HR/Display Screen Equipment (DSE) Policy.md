@@ -12,23 +12,22 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Display Screen Equipment (DSE) Policy
 
 1. Purpose
 
-Green Orbit Digital is committed to ensuring the health, safety, and well-being of all employees while working with Display Screen Equipment (DSE), including computers, laptops, tablets, and any other technology used for work. This policy is designed to comply with the Health and Safety (Display Screen Equipment) Regulations 1992, which set out legal responsibilities for employers regarding the use of DSE in the workplace.
+Impact Orbit Creative Group is committed to ensuring the health, safety, and well-being of all employees while working with Display Screen Equipment (DSE), including computers, laptops, tablets, and any other technology used for work. This policy is designed to comply with the Health and Safety (Display Screen Equipment) Regulations 1992, which set out legal responsibilities for employers regarding the use of DSE in the workplace.
 
 The goal of this policy is to provide clear guidelines to prevent DSE-related health issues and to promote a productive, healthy working environment.
 
 1. Scope
 
-This policy applies to all employees of Green Orbit Digital who regularly use Display Screen Equipment as part of their job responsibilities, whether they are working in the office or remotely. This includes full-time, part-time, and contract staff.
+This policy applies to all employees of Impact Orbit Creative Group who regularly use Display Screen Equipment as part of their job responsibilities, whether they are working in the office or remotely. This includes full-time, part-time, and contract staff.
 
 1. Responsibilities
 
 Employer Responsibilities:
 
-Green Orbit Digital will ensure that DSE is properly maintained and ergonomically set up to reduce risks of injury.
+Impact Orbit Creative Group will ensure that DSE is properly maintained and ergonomically set up to reduce risks of injury.
 
 The company will provide relevant training and information to employees regarding the safe use of DSE.
 
@@ -46,7 +45,7 @@ Employees should follow the guidance and training provided on proper DSE usage, 
 
 1. Risk Assessment
 
-Green Orbit Digital will conduct regular risk assessments for all DSE workstations. These assessments will include:
+Impact Orbit Creative Group will conduct regular risk assessments for all DSE workstations. These assessments will include:
 
 Evaluating workstation setup to ensure that desks, chairs, screens, and input devices (keyboard, mouse, etc.) are ergonomically suitable.
 
@@ -98,7 +97,7 @@ If employees experience eye discomfort or vision problems due to DSE use, they s
 
 1. Remote Working Considerations
 
-For employees working remotely, Green Orbit Digital will support workstation assessments where possible. Employees working from home should follow the same ergonomic guidelines and best practices for their home office setup. Employees who require adjustments or have health concerns related to remote working will be provided with reasonable support and equipment.
+For employees working remotely, Impact Orbit Creative Group will support workstation assessments where possible. Employees working from home should follow the same ergonomic guidelines and best practices for their home office setup. Employees who require adjustments or have health concerns related to remote working will be provided with reasonable support and equipment.
 
 1. Training and Support
 
@@ -134,12 +133,12 @@ This policy will be reviewed regularly to ensure its effectiveness and complianc
 
 1. Conclusion
 
-Green Orbit Digital aims to provide a safe and healthy working environment for all employees who use Display Screen Equipment. By following this policy, we can prevent DSE-related health problems, increase employee comfort, and enhance productivity. If you have any questions or concerns regarding this policy, please contact your line manager or HR.
+Impact Orbit Creative Group aims to provide a safe and healthy working environment for all employees who use Display Screen Equipment. By following this policy, we can prevent DSE-related health problems, increase employee comfort, and enhance productivity. If you have any questions or concerns regarding this policy, please contact your line manager or HR.
 
 Policy Approved by:
 [Name]
 [Position]
-Green Orbit Digital
+Impact Orbit Creative Group
 
 Date:
 [Approval Date]

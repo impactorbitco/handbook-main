@@ -5,21 +5,13 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 22 April 2025 17:09
 ID: POL-240
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 17:21
-Parent item: Information Governance and Data Security Policy (Information%20Governance%20and%20Data%20Security%20Policy%201c0d6625c679813f8302fe82c5e67869.md)
+Parent item: Information Governance and Data Security Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-
-# Communications and Use of Equipment Policy
-
-| **Doc. ID** | POL/SEC/2025/1473-V1.1 | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented November 2024  | Version 2.0
 
 **Statement of Policy and Purpose of Policy**
 

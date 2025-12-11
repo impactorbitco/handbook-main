@@ -1,10 +1,6 @@
 ---
 title: Manual Handling
 weight: 10
----
-
-# Manual Handling
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,3 +11,4 @@ Last edited time: 7 October 2025 16:27
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---

@@ -1,5 +1,5 @@
 ---
-title: Workplace Safety & Hazard Control Policy
+title: Workplace Safety & Hazard Control
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 7 October 2025 16:46

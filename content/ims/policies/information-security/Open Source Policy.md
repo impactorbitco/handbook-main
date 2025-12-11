@@ -1,5 +1,5 @@
-# Open Source Policy
-
+---
+title: Open Source Policy
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 29 April 2025 14:17
@@ -9,9 +9,8 @@ Last edited time: 7 October 2025 17:30
 Parent item: Quality Management Policy (Quality%20Management%20Policy%201c0d6625c67981229c28f3332cf76ade.md)
 Status: Not started
 Version Number: 1.1
-
 ---
-title: "Open Source Policy"
+
 
 ### **1. Purpose**
 

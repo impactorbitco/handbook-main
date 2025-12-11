@@ -4,29 +4,19 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:41
-GRI Disclosures: 304-1 Operational sites owned, leased, managed in, or adjacent to,
-  protected areas and areas of high biodiversity value outside protected areas (https://www.notion.so/304-1-Operational-sites-owned-leased-managed-in-or-adjacent-to-protected-areas-and-areas-of-high-1dad6625c6798028988cc7187f9fad95?pvs=21),
-  306-1 Waste generation and significant waste-related impacts (https://www.notion.so/306-1-Waste-generation-and-significant-waste-related-impacts-1dad6625c67980d986ebc2ad02e3ab99?pvs=21)
+GRI Disclosures: 304-1, 306-1
 ID: POL-88
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
-Sub-item: Sustainable Materials Policy (Sustainable%20Materials%20Policy%201c0d6625c6798172a087f1f4c19c1a89.md),
-  Sustainable working (home and working) (Sustainable%20working%20(home%20and%20working)%201c0d6625c6798163a2e9e1217aadfaba.md),
-  Sustainable ICT Policy (Sustainable%20ICT%20Policy%201e2d6625c67980bf9cc9df6c1cf9dd64.md),
-  Biodiversity Policy (Biodiversity%20Policy%20285d6625c6798035b099c6b4ef1ba778.md),
-  Waste Management Policy (Waste%20Management%20Policy%20285d6625c6798087a548dfebf99f8400.md),
-  Environmental Sustainability for Virtual Offices (Environmental%20Sustainability%20for%20Virtual%20Offices%201dbd6625c67980c3a773c3b854e04355.md),
-  Water and Effluents Policy (Water%20and%20Effluents%20Policy%201c0d6625c67981259292f760cec9581b.md),
-  Impact Policy (Impact%20Policy%20224d6625c67980c69306f3f642c9c1e2.md), ESG policy
-  (ESG%20policy%201c0d6625c679811d9838c1a2a39f7c58.md)
+Sub-item: Sustainable Materials Policy, Sustainable working (home and working), Sustainable ICT Policy, Biodiversity Policy, Waste Management Policy, Environmental Sustainability for Virtual Offices, Water and Effluents Policy, Impact Policy, ESG policy
 Version Number: 1.1
 weight: 10
 ---
 ## Our Commitment to Sustainability
 
-Green Orbit Digital is a purpose-driven digital marketing agency advancing sustainable transformation through innovative communications and space-enabled solutions. As a responsible business, we embed sustainability at the core of our operations and strategy—minimising our environmental impact, championing equity and ethical practices, and delivering long-term value for people, planet, and profit.
+Impact Orbit Creative Group is a purpose-driven digital marketing agency advancing sustainable transformation through innovative communications and space-enabled solutions. As a responsible business, we embed sustainability at the core of our operations and strategy—minimising our environmental impact, championing equity and ethical practices, and delivering long-term value for people, planet, and profit.
 
 This policy complements our **Environmental Policy**, **Corporate Social Responsibility (CSR) Policy**, and **Code of Ethics**, forming part of a comprehensive suite of sustainability and governance documents that guide our internal operations and external impact.
 
@@ -61,7 +51,7 @@ Scotland's approach to space sustainability is defined through three interlinked
 
 As space becomes increasingly congested, contested, and commercially essential, ensuring its long-term sustainability is vital. The **United Nations Committee on the Peaceful Uses of Outer Space (UN COPUOS)** defines long-term sustainability as "the ability to maintain the conduct of space activities indefinitely into the future in a manner that realises the objectives of equitable access to the benefits of outer space for all, in accordance with international law."
 
-Green Orbit Digital supports this vision and the **21 voluntary LTS Guidelines** adopted by UN COPUOS, which promote:
+Impact Orbit Creative Group supports this vision and the **21 voluntary LTS Guidelines** adopted by UN COPUOS, which promote:
 
 - **Space debris mitigation** and implementation of end-of-life planning.
 - **Transparency and data sharing** to support space situational awareness.
@@ -79,11 +69,11 @@ The **Space4SDGs** initiative, led by the United Nations Office for Outer Space 
 - **Quality Education (SDG 4)** and **Gender Equality (SDG 5)** – through space-enabled connectivity and inclusion.
 - **Sustainable Cities (SDG 11)** and **Clean Energy (SDG 7)** – by enabling infrastructure planning and renewable monitoring.
 
-At Green Orbit Digital, we help organisations communicate how their space-enabled solutions contribute to these global goals. We champion space as a driver of sustainability, resilience, and equity.
+At Impact Orbit Creative Group, we help organisations communicate how their space-enabled solutions contribute to these global goals. We champion space as a driver of sustainability, resilience, and equity.
 
 ## Our Environmental Objectives
 
-Green Orbit Digital is committed to achieving ambitious environmental goals, including:
+Impact Orbit Creative Group is committed to achieving ambitious environmental goals, including:
 
 - Reducing **greenhouse gas emissions** through energy efficiency and carbon-conscious digital infrastructure.
 - Minimising **waste generation** and promoting reuse, recycling, and sustainable procurement.
@@ -114,7 +104,7 @@ Our sustainability strategy is grounded in best practices and global standards, 
 
 ## Monitoring, Accountability & Continuous Improvement
 
-This policy underpins Green Orbit Digital’s sustainability performance framework. It guides our:
+This policy underpins Impact Orbit Creative Group’s sustainability performance framework. It guides our:
 
 - Goal setting and implementation.
 - Environmental and social impact reviews.
@@ -135,7 +125,7 @@ We commit to:
 
 ## Conclusion
 
-Sustainability is not a trend—it is our shared responsibility. At Green Orbit Digital, we view Earth and space as interconnected environments vital to the prosperity of current and future generations.
+Sustainability is not a trend—it is our shared responsibility. At Impact Orbit Creative Group, we view Earth and space as interconnected environments vital to the prosperity of current and future generations.
 
 Through alignment with frameworks such as **Space4SDGs**, the **UN COPUOS LTS Guidelines**, and **Scotland’s Space Sustainability Roadmap**, we aim to catalyse a greener, more inclusive, and resilient future. By embedding sustainability in our services, values, and operations, we empower others to act for the benefit of people, planet, and beyond.
 
@@ -144,11 +134,11 @@ title: "Sustainability Environmental Policy"
 
 For further reference, please consult:
 
-- **Green Orbit Digital Environmental Policy**
+- **Impact Orbit Creative Group Environmental Policy**
 - **CSR Policy**
 - **Code of Ethics**
 
-Here is a comprehensive sustainability policy for Green Orbit Digital, now available as a live document. Let me know if you'd like to customise it further—such as adding visual elements, client-facing versions, or mapping it to reporting templates.
+Here is a comprehensive sustainability policy for Impact Orbit Creative Group, now available as a live document. Let me know if you'd like to customise it further—such as adding visual elements, client-facing versions, or mapping it to reporting templates.
 
 # **SUSTAINABILITY POLICY**
 
@@ -158,9 +148,9 @@ Here is a comprehensive sustainability policy for Green Orbit Digital, now avail
 
 Implemented November 2024  | Version 2.0
 
-**Green Orbit Digital Sustainability Policy**
+**Impact Orbit Creative Group Sustainability Policy**
 
-Green Orbit Digital is a pioneering digital marketing agency committed to sustainable, environmentally conscious practices. We believe that businesses in the digital age have a unique opportunity—and responsibility—to contribute to a healthier planet by embedding sustainability into their operations. This policy outlines our dedication to reducing our environmental footprint, promoting social responsibility, and maintaining financial stability while delivering innovative marketing solutions.
+Impact Orbit Creative Group is a pioneering digital marketing agency committed to sustainable, environmentally conscious practices. We believe that businesses in the digital age have a unique opportunity—and responsibility—to contribute to a healthier planet by embedding sustainability into their operations. This policy outlines our dedication to reducing our environmental footprint, promoting social responsibility, and maintaining financial stability while delivering innovative marketing solutions.
 
 **1. Our Approach to Sustainability**
 
@@ -203,7 +193,7 @@ Sustainability is a shared journey. We are committed to collaborating with our c
 
 **Conclusion**
 
-Green Orbit Digital strives to set the standard for sustainability in the digital marketing industry. By aligning our values with our actions, we aim to lead by example, demonstrating that businesses can thrive while protecting the planet and fostering a fair and inclusive society. Together, we can create a positive, lasting impact for generations to come.
+Impact Orbit Creative Group strives to set the standard for sustainability in the digital marketing industry. By aligning our values with our actions, we aim to lead by example, demonstrating that businesses can thrive while protecting the planet and fostering a fair and inclusive society. Together, we can create a positive, lasting impact for generations to come.
 
 This Sustainability Policy reflects our dedication to making a difference and will be reviewed annually to ensure it continues to align with our mission and vision.
 

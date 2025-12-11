@@ -1,10 +1,6 @@
 ---
 title: Physical and Environmental Security Policy
 weight: 10
----
-
-# Physical and Environmental Security Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -16,8 +12,7 @@ Last edited time: 7 October 2025 19:18
 Parent item: Data Handling & Security Policy (Data%20Handling%20&%20Security%20Policy%201c0d6625c679812a8c51c544b53c58b7.md)
 Status: Not started
 Version Number: 1.1
-
-# Physical and Environmental Security Policy
+---
 
 ## Introduction
 

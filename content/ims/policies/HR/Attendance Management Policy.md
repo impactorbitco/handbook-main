@@ -4,20 +4,18 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
-GRI Disclosures: 403-10 Work-related ill health (https://www.notion.so/403-10-Work-related-ill-health-1dad6625c6798019be2efc9bb364734d?pvs=21)
+GRI Disclosures: 403-10
 ID: POL-106
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Social Responsibility Management System, Occupational Health and Safety Management
 Last edited time: 7 October 2025 17:33
-Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
+Parent item: Fair Employment and Labour Standards Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Attendance Management Policy
 ### Introduction
 
-At Green Orbit Digital, we value attendance and punctuality as essential components of a productive and cohesive work environment. Our Attendance Management Policy outlines our expectations regarding attendance, tardiness, and leave procedures to ensure the smooth operation of our business and the fair treatment of all employees.
+At Impact Orbit Creative Group, we value attendance and punctuality as essential components of a productive and cohesive work environment. Our Attendance Management Policy outlines our expectations regarding attendance, tardiness, and leave procedures to ensure the smooth operation of our business and the fair treatment of all employees.
 
 ### Policy Statement
 
@@ -26,7 +24,7 @@ At Green Orbit Digital, we value attendance and punctuality as essential compone
 3. **Communication**: In the event of unexpected absences or tardiness, employees must notify their immediate supervisor or the Human Resources department as soon as possible. Failure to communicate absences may result in disciplinary action.
 4. **Leave Requests**: Employees must adhere to the company's leave request procedures when requesting time off for vacation, personal reasons, medical appointments, or other reasons. Leave requests should be submitted in advance whenever possible, except in cases of emergency.
 5. **Documentation**: Employees may be required to provide documentation, such as a doctor's note or other supporting evidence, for absences due to illness or medical appointments. Failure to provide documentation may result in the absence being considered unauthorized.
-6. **Flexible Work Arrangements**: Green Orbit Digital may offer flexible work arrangements, such as remote work or flexible hours, to accommodate employees' needs and promote work-life balance. However, employees must adhere to the agreed-upon schedule and meet their work obligations.
+6. **Flexible Work Arrangements**: Impact Orbit Creative Group may offer flexible work arrangements, such as remote work or flexible hours, to accommodate employees' needs and promote work-life balance. However, employees must adhere to the agreed-upon schedule and meet their work obligations.
 
 ### Responsibilities
 
@@ -48,7 +46,7 @@ At Green Orbit Digital, we value attendance and punctuality as essential compone
 
 ### Conclusion
 
-Green Orbit Digital is committed to promoting a culture of attendance and accountability among all employees. By adhering to the guidelines outlined in this policy, we aim to maintain a productive and efficient work environment while supporting the well-being and success of our employees.
+Impact Orbit Creative Group is committed to promoting a culture of attendance and accountability among all employees. By adhering to the guidelines outlined in this policy, we aim to maintain a productive and efficient work environment while supporting the well-being and success of our employees.
 
 Skip to content
 

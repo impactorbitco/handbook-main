@@ -1,10 +1,6 @@
 ---
 title: Internships Policy
 weight: 10
----
-
-# Internships Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,10 +11,10 @@ Last edited time: 7 October 2025 17:27
 Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
 Status: Not started
 Version Number: 1.1
-
+---
 **Introduction**
 
-While Green Orbit Digital rarely has the opportunity to accommodate interns within our small business, when we do, we aim to ensure that the experience is both enriching and mutually beneficial. Our internship program is designed to provide valuable learning opportunities for students and recent graduates while contributing to the development of talent within our organization and the broader industry.
+While Impact Orbit Creative Group rarely has the opportunity to accommodate interns within our small business, when we do, we aim to ensure that the experience is both enriching and mutually beneficial. Our internship program is designed to provide valuable learning opportunities for students and recent graduates while contributing to the development of talent within our organization and the broader industry.
 
 **Objectives of the Internship Program**
 
@@ -52,7 +48,7 @@ All interns participating in our program will receive compensation in accordance
 
 **Conclusion**
 
-Our internship program reflects our commitment to supporting the growth and development of emerging talent while contributing to a culture of learning and innovation within Green Orbit Digital. We are dedicated to providing interns with a valuable and enriching experience that prepares them for success in their future careers.
+Our internship program reflects our commitment to supporting the growth and development of emerging talent while contributing to a culture of learning and innovation within Impact Orbit Creative Group. We are dedicated to providing interns with a valuable and enriching experience that prepares them for success in their future careers.
 
 | **Policy Number** | S | **Date of Last Revision** | 5 December 2024 |
 | --- | --- | --- | --- |
@@ -62,7 +58,7 @@ Implemented 03 January 2025  | Version 2.0
 
 **Introduction**
 
-While Green Orbit Digital rarely has the opportunity to accommodate interns within our small business, when we do, we aim to ensure that the experience is both enriching and mutually beneficial. Our internship program is designed to provide valuable learning opportunities for students and recent graduates while contributing to the development of talent within our organisation and the broader industry.
+While Impact Orbit Creative Group rarely has the opportunity to accommodate interns within our small business, when we do, we aim to ensure that the experience is both enriching and mutually beneficial. Our internship program is designed to provide valuable learning opportunities for students and recent graduates while contributing to the development of talent within our organisation and the broader industry.
 
 **Objectives of the Internship Programme**
 
@@ -81,4 +77,4 @@ All interns participating in our programme will receive compensation in accordan
 
 **Conclusion**
 
-Our internship programme reflects our commitment to supporting the growth and development of emerging talent while contributing to a culture of learning and innovation within Green Orbit Digital. We are dedicated to providing interns with a valuable and enriching experience that prepares them for success in their future careers.
+Our internship programme reflects our commitment to supporting the growth and development of emerging talent while contributing to a culture of learning and innovation within Impact Orbit Creative Group. We are dedicated to providing interns with a valuable and enriching experience that prepares them for success in their future careers.

@@ -1,10 +1,6 @@
 ---
 title: IT Asset Management
 weight: 10
----
-
-# IT Asset Management
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,12 +11,13 @@ Last edited time: 7 October 2025 17:17
 Parent item: Asset Management Policy (Asset%20Management%20Policy%201ded6625c67981729dd5c3880849729e.md)
 Status: Not started
 Version Number: 1.1
+---
 
-Green Orbit Digital IT Asset Management Policy
+Impact Orbit Creative Group IT Asset Management Policy
 
 1. Introduction
 
-IT Asset Management (ITAM) at Green Orbit Digital is a key process for efficiently and securely managing technology resources throughout their lifecycle. This guidance outlines the procedures for acquiring, maintaining, and disposing of IT assets. It ensures that assets are properly tracked, managed, and utilised to support business operations while minimising security risks, costs, and environmental impact.
+IT Asset Management (ITAM) at Impact Orbit Creative Group is a key process for efficiently and securely managing technology resources throughout their lifecycle. This guidance outlines the procedures for acquiring, maintaining, and disposing of IT assets. It ensures that assets are properly tracked, managed, and utilised to support business operations while minimising security risks, costs, and environmental impact.
 
 1. Purpose
 
@@ -36,7 +33,7 @@ Enhance security by maintaining accurate records and ensuring that all assets ar
 
 1. Scope
 
-This policy applies to all IT assets within Green Orbit Digital, including:
+This policy applies to all IT assets within Impact Orbit Creative Group, including:
 
 Computers, laptops, and mobile devices
 
@@ -56,15 +53,15 @@ Regular Audits: Periodic audits will be carried out to ensure all assets are acc
 
 1. Acquisition and Procurement
 
-Approval Process: All IT asset acquisitions must be approved through the appropriate channels, with justification for the purchase aligned with Green Orbit Digital’s needs and budget.
+Approval Process: All IT asset acquisitions must be approved through the appropriate channels, with justification for the purchase aligned with Impact Orbit Creative Group’s needs and budget.
 
-Vendor Selection: When procuring IT assets, Green Orbit Digital will choose vendors that offer reliable products, warranty services, and competitive pricing. Preference will be given to vendors who align with our sustainability goals and provide energy-efficient, eco-friendly products.
+Vendor Selection: When procuring IT assets, Impact Orbit Creative Group will choose vendors that offer reliable products, warranty services, and competitive pricing. Preference will be given to vendors who align with our sustainability goals and provide energy-efficient, eco-friendly products.
 
 1. Asset Maintenance and Usage
 
 Routine Maintenance: IT assets should be regularly maintained to ensure optimal performance. This includes software updates, security patches, and hardware checks.
 
-Responsible Usage: Employees must use IT assets in accordance with Green Orbit Digital’s policies, particularly concerning security and confidentiality. Access to certain IT assets or systems should be restricted to authorised personnel.
+Responsible Usage: Employees must use IT assets in accordance with Impact Orbit Creative Group’s policies, particularly concerning security and confidentiality. Access to certain IT assets or systems should be restricted to authorised personnel.
 
 Security Measures: IT assets must be protected by appropriate security measures, including encryption, password protection, and secure networks. Regular backups of critical data should be taken and stored securely.
 
@@ -76,7 +73,7 @@ Decommissioning and Disposal: When IT assets are no longer needed or have reache
 
 1. Asset Disposal and Recycling
 
-Environmental Considerations: Green Orbit Digital is committed to sustainability and, when possible, will dispose of IT assets via certified electronic waste recycling companies. Devices that can be refurbished or resold should be repurposed to extend their lifecycle.
+Environmental Considerations: Impact Orbit Creative Group is committed to sustainability and, when possible, will dispose of IT assets via certified electronic waste recycling companies. Devices that can be refurbished or resold should be repurposed to extend their lifecycle.
 
 Secure Data Deletion: All data must be securely deleted or wiped from devices before disposal to prevent the risk of data leakage or cyber threats. This process should follow industry best practices and be documented.
 
@@ -92,11 +89,11 @@ IT Department: The IT department is responsible for managing the IT asset lifecy
 
 Employees: Employees are responsible for the proper use and care of IT assets assigned to them. They must report any issues or damage to IT assets immediately and follow the organisation’s policies on asset usage.
 
-Procurement Team: The procurement team is responsible for acquiring IT assets and ensuring that purchasing decisions align with Green Orbit Digital’s needs, budget, and sustainability goals.
+Procurement Team: The procurement team is responsible for acquiring IT assets and ensuring that purchasing decisions align with Impact Orbit Creative Group’s needs, budget, and sustainability goals.
 
 1. Compliance and Auditing
 
-Green Orbit Digital will regularly audit its IT asset management practices to ensure compliance with this policy and any relevant legal, regulatory, or contractual obligations. Non-compliance will be addressed promptly and may result in corrective actions or disciplinary measures.
+Impact Orbit Creative Group will regularly audit its IT asset management practices to ensure compliance with this policy and any relevant legal, regulatory, or contractual obligations. Non-compliance will be addressed promptly and may result in corrective actions or disciplinary measures.
 
 1. Review and Updates
 
@@ -104,12 +101,12 @@ This guidance will be reviewed annually or when necessary, in response to change
 
 1. Conclusion
 
-By adhering to these IT Asset Management guidelines, Green Orbit Digital ensures that its technology resources are efficiently managed, secure, and aligned with the organisation’s business needs and sustainability goals. Proper asset management helps to maximise the value of IT investments, improve operational efficiency, and reduce environmental impact.
+By adhering to these IT Asset Management guidelines, Impact Orbit Creative Group ensures that its technology resources are efficiently managed, secure, and aligned with the organisation’s business needs and sustainability goals. Proper asset management helps to maximise the value of IT investments, improve operational efficiency, and reduce environmental impact.
 
 Approved by:
 [Name]
 [Position]
-Green Orbit Digital
+Impact Orbit Creative Group
 
 Date:
 [Approval Date]

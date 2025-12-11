@@ -11,7 +11,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# External Links Policy
 
 ## Overview
 

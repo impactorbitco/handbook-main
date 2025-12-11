@@ -1,10 +1,6 @@
 ---
 title: Remuneration policies
 weight: 10
----
-
-# Remuneration policies
-
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 15 October 2025 19:07
@@ -13,3 +9,4 @@ ID: POL-299
 Last edited time: 15 October 2025 19:07
 Status: Not started
 Version Number: 1.1
+---

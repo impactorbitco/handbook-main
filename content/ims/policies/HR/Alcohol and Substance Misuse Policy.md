@@ -12,16 +12,15 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Alcohol and Substance Misuse Policy
 ### Introduction
 
-At Green Orbit Digital, we are committed to maintaining a safe, healthy, and productive work environment for all employees. Our Alcohol and Substance Misuse Policy outlines our approach to addressing alcohol and substance misuse in the workplace to ensure the well-being and safety of our employees and the integrity of our organization.
+At Impact Orbit Creative Group, we are committed to maintaining a safe, healthy, and productive work environment for all employees. Our Alcohol and Substance Misuse Policy outlines our approach to addressing alcohol and substance misuse in the workplace to ensure the well-being and safety of our employees and the integrity of our organization.
 
 ### Policy Statement
 
-1. **Prohibition of Alcohol and Substance Misuse**: The consumption, possession, distribution, or being under the influence of alcohol or illegal substances during work hours, while on company premises, or while representing Green Orbit Digital in any capacity is strictly prohibited.
+1. **Prohibition of Alcohol and Substance Misuse**: The consumption, possession, distribution, or being under the influence of alcohol or illegal substances during work hours, while on company premises, or while representing Impact Orbit Creative Group in any capacity is strictly prohibited.
 2. **Prescription Medication**: The use of prescription medication that may impair cognitive or physical abilities is permitted only if prescribed by a licensed healthcare provider and does not pose a safety risk to the individual or others in the workplace.
-3. **Drug-Free Workplace**: Green Orbit Digital is committed to maintaining a drug-free workplace. Any employee found to be using, possessing, or distributing illegal drugs on company premises will be subject to disciplinary action, up to and including termination of employment.
+3. **Drug-Free Workplace**: Impact Orbit Creative Group is committed to maintaining a drug-free workplace. Any employee found to be using, possessing, or distributing illegal drugs on company premises will be subject to disciplinary action, up to and including termination of employment.
 
 ### Responsibilities
 
@@ -43,4 +42,4 @@ At Green Orbit Digital, we are committed to maintaining a safe, healthy, and pro
 
 ### Conclusion
 
-Green Orbit Digital is committed to promoting a safe, healthy, and drug-free workplace for all employees. By adhering to the guidelines outlined in this policy, we aim to prevent alcohol and substance misuse, support employees in need of assistance, and maintain a positive and productive work environment for everyone.
+Impact Orbit Creative Group is committed to promoting a safe, healthy, and drug-free workplace for all employees. By adhering to the guidelines outlined in this policy, we aim to prevent alcohol and substance misuse, support employees in need of assistance, and maintain a positive and productive work environment for everyone.

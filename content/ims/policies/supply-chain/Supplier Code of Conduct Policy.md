@@ -3,28 +3,13 @@ title: Supplier Code of Conduct Policy
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 27 April 2025 19:52
-GRI Disclosures: 308-1 New suppliers that were screened using environmental criteria
-  (https://www.notion.so/308-1-New-suppliers-that-were-screened-using-environmental-criteria-1dad6625c67980b3a262ead0c390920e?pvs=21),
-  308-2 Negative environmental impacts in the supply chain and actions taken (https://www.notion.so/308-2-Negative-environmental-impacts-in-the-supply-chain-and-actions-taken-1dad6625c67980299406f3439bb37e0c?pvs=21),
-  407-1 Operations and suppliers in which the right to freedom of association and
-  collective bargaining may be at risk (https://www.notion.so/407-1-Operations-and-suppliers-in-which-the-right-to-freedom-of-association-and-collective-bargainin-1dad6625c67980ea8d85f89d4190ce62?pvs=21),
-  408-1 Operations and suppliers at significant risk for incidents of child labor
-  (https://www.notion.so/408-1-Operations-and-suppliers-at-significant-risk-for-incidents-of-child-labor-1dad6625c67980a48db7c525fc445681?pvs=21),
-  409-1 Operations and suppliers at significant risk for incidents of forced or compulsory
-  labor (https://www.notion.so/409-1-Operations-and-suppliers-at-significant-risk-for-incidents-of-forced-or-compulsory-labor-1dad6625c67980bdae4ac5cd593de86e?pvs=21),
-  410-1 Security personnel trained in human rights policies or procedures (https://www.notion.so/410-1-Security-personnel-trained-in-human-rights-policies-or-procedures-1dad6625c67980a7ab0dfa0c2e160f80?pvs=21),
-  414-1 New suppliers that were screened using social criteria (https://www.notion.so/414-1-New-suppliers-that-were-screened-using-social-criteria-1dad6625c67980aca321ece19388d6f8?pvs=21),
-  201-2 Financial implications and other risks and opportunities due to climate change
-  (https://www.notion.so/201-2-Financial-implications-and-other-risks-and-opportunities-due-to-climate-change-1dad6625c67980d38eb2e64976bff487?pvs=21)
+GRI Disclosures: 308-1, 308-2, 407-1, 408-1, 409-1, 410-1, 414-1, 201-2
 ID: POL-221
-IMS: Supply Chain Security Management (https://www.notion.so/Supply-Chain-Security-Management-1b5d6625c6798010a208eb0e026912ab?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Collaborative Business Relationship Management (https://www.notion.so/Collaborative-Business-Relationship-Management-1b5d6625c67980dc8b2dc08864940c12?pvs=21),
-  Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21)
+IMS: Supply Chain Security Management, Social Responsibility Management System, Collaborative Business Relationship Management, Quality Management System,
 Last edited time: 7 October 2025 16:31
-Parent item: Code of Conduct / Ethics Policy (Code%20of%20Conduct%20Ethics%20Policy%201dcd6625c67981b6ab8beabeb801334d.md)
+Parent item: Code of Conduct / Ethics Policy
 Status: Not started
-UN Global Compact principles: Principle 2 (https://www.notion.so/Principle-2-1d8d6625c6798091b8aeee96fa0b8ef0?pvs=21)
+UN Global Compact principles: Principle 2
 Version Number: 1.1
 weight: 10
 ---

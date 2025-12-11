@@ -5,15 +5,14 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 22 April 2025 18:21
 ID: POL-2
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System 
 Last edited time: 7 October 2025 18:46
-Parent item: Data Handling & Security Policy (Data%20Handling%20&%20Security%20Policy%201c0d6625c679812a8c51c544b53c58b7.md)
+Parent item: Data Handling & Security Policy 
 Status: Not started
-Sub-item: Secure Use of Cryptography (Secure%20Use%20of%20Cryptography%201e2d6625c679801ebe7bf6d92e840cc7.md)
+Sub-item: Secure Use of Cryptography 
 Version Number: 1.1
 weight: 10
 ---
-# Encryption Policy
 ## 1. Purpose and Scope
 
 This policy establishes requirements for cryptographic controls to protect the confidentiality, integrity, and authenticity of Green Orbit Digital's information assets. It applies to all employees, contractors, and systems that utilize cryptographic technologies.

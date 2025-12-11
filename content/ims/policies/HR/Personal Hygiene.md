@@ -1,10 +1,6 @@
 ---
 title: Personal Hygiene
 weight: 10
----
-
-# Personal Hygiene
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,10 +11,9 @@ Last edited time: 7 October 2025 16:32
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---
 
-# Personal Hygiene Policy
-
-Green Orbit Digital is committed to maintaining high standards of personal hygiene to ensure a healthy and safe working environment for all employees.
+Impact Orbit Creative Group is committed to maintaining high standards of personal hygiene to ensure a healthy and safe working environment for all employees.
 
 ## Purpose
 
@@ -26,7 +21,7 @@ This policy establishes guidelines for personal hygiene standards to promote wor
 
 ## Scope
 
-This policy applies to all employees, contractors, and visitors at Green Orbit Digital facilities.
+This policy applies to all employees, contractors, and visitors at Impact Orbit Creative Group facilities.
 
 ## Policy Statement
 

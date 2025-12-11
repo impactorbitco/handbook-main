@@ -1,10 +1,6 @@
 ---
 title: Management Review Policy
 weight: 10
----
-
-# Management Review Policy
-
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 7 October 2025 18:17
@@ -14,3 +10,4 @@ Last edited time: 7 October 2025 18:34
 Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
 Status: Not started
 Version Number: 1.1
+---

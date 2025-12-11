@@ -17,27 +17,9 @@ Version Number: 1.1
 weight: 10
 ---
 
-Here’s the **updated Firewall and Network Boundary Security Policy (v1.1)** — refined for clarity, compliance, and practical implementation.
-
-This version includes **explicit risk controls, review cadence, BYOD clarification, and integration with your asset register**.
-
-**Organisation:** Green Orbit Digital
-
-**Policy Owner:** IT Security Lead
-
-**Version:** 1.1
-
-**Approved by:** Director
-
-**Last Reviewed:** 16 October 2025
-
-**Next Review:** 16 October 2026
-
----
-
 ## **1. Purpose**
 
-This policy defines how Green Orbit Digital implements and manages **firewalls and network boundary controls** to protect against unauthorised access, data loss, or malicious activity.
+This policy defines how Impact Orbit Creative Group implements and manages **firewalls and network boundary controls** to protect against unauthorised access, data loss, or malicious activity.
 
 The purpose is to:
 
@@ -161,7 +143,7 @@ If a firewall or router compromise is suspected:
 - BYOD devices are **not part of the asset register** but must:
     - Use an **active host firewall**.
     - Connect via **secure VPN** when accessing company systems.
-    - Comply with Green Orbit Digital’s **Acceptable Use Policy**.
+    - Comply with Impact Orbit Creative Group’s **Acceptable Use Policy**.
 
 ---
 
@@ -211,7 +193,7 @@ If a firewall or router compromise is suspected:
 - [NCSC: Securing Your Network – Firewalls and Gateways](https://www.ncsc.gov.uk/guidance/securing-your-network)
 - IASME Cyber Essentials Technical Controls 2025
 - ISO/IEC 27001:2022 – Annex A.8.20 Network Security Controls
-- Green Orbit Digital: Asset Register and Incident Response Policy
+- Impact Orbit Creative Group: Asset Register and Incident Response Policy
 
 ---
 

@@ -5,18 +5,16 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-8
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21),
-  Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Information Security Management System, Occupational Health and Safety Management
 Last edited time: 7 October 2025 16:24
-Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
+Parent item: Health, Safety, and Wellbeing Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Electrical Devices policy
 # Purpose and Scope
 
-This policy establishes guidelines for the safe and efficient use of electrical devices within Green Orbit Digital, applying to all employees, contractors, and visitors using electrical equipment on company premises or for company work.
+This policy establishes guidelines for the safe and efficient use of electrical devices within Impact Orbit Creative Group, applying to all employees, contractors, and visitors using electrical equipment on company premises or for company work.
 
 # Definitions
 
@@ -24,7 +22,7 @@ Electrical Devices: Any device that operates using electrical power, including b
 
 # Policy Statement
 
-Green Orbit Digital is committed to ensuring the safe and sustainable use of electrical devices while maintaining information security and environmental responsibility.
+Impact Orbit Creative Group is committed to ensuring the safe and sustainable use of electrical devices while maintaining information security and environmental responsibility.
 
 ## Device Management
 

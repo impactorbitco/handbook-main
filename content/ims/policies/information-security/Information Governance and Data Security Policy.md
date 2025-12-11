@@ -7,7 +7,7 @@ Created time: 24 March 2025 10:40
 GRI Disclosures: 410-1 Security personnel trained in human rights policies or procedures
   (https://www.notion.so/410-1-Security-personnel-trained-in-human-rights-policies-or-procedures-1dad6625c67980a7ab0dfa0c2e160f80?pvs=21)
 ID: POL-155
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 18:33
 Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
 Purpose/Scope: Framework for safeguarding information assets.

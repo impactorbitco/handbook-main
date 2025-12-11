@@ -5,11 +5,11 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 23 April 2025 00:52
 ID: POL-69
-IMS: Knowledge Management System (https://www.notion.so/Knowledge-Management-System-1b5d6625c67980c3b86fc38778e465bb?pvs=21)
+IMS: Knowledge Management System
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
-Sub-item: Lessons Learned & Knowledge Management Policy (Lessons%20Learned%20&%20Knowledge%20Management%20Policy%20285d6625c67980478038e568eded367f.md)
+Sub-item: Lessons Learned & Knowledge Management Policy
 Version Number: 1.1
 weight: 10
 ---

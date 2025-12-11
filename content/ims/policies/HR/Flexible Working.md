@@ -5,18 +5,16 @@ Owner: Ryan Laird
 Company Handbook: true
 Created time: 24 March 2025 10:41
 ID: POL-171
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Occupational Health and Safety Management
 Last edited time: 7 October 2025 17:27
-Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
+Parent item: Fair Employment and Labour Standards Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Flexible Working Policy
-
 ## 1. Purpose and Scope
 
-This policy outlines our approach to flexible working arrangements and applies to all employees of Green Orbit Digital.
+This policy outlines our approach to flexible working arrangements and applies to all employees of Impact Orbit Creative Group.
 
 ## 2. Definition of Flexible Working
 
@@ -117,7 +115,7 @@ Implemented November 2024  | Version 2.0
 
 **Statement and Purpose of Policy**
 
-1. Green Orbit Digital (the **Employer**, **we**, **our** or **us**) is committed to an equal opportunities workplace and recognises the importance of supporting our employees in maintaining a healthy balance between work and their outside lives.
+1. Impact Orbit Creative Group (the **Employer**, **we**, **our** or **us**) is committed to an equal opportunities workplace and recognises the importance of supporting our employees in maintaining a healthy balance between work and their outside lives.
 2. The purpose of this policy is to help us achieve our equal opportunities and work-life balance aims by ensuring that:
     1. qualifying staff have a structured opportunity to formally request a change to their working pattern and are clear about how to make such a request; and
     2. managers are clear about the process that should be followed if they receive a request for flexible working and the terms that apply to flexible working arrangements. Managers have a specific responsibility to support colleagues and to ensure that this policy is a success by trying to accommodate flexible working requests where operationally possible.

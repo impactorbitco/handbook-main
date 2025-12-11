@@ -13,55 +13,60 @@ UN Global Compact principles: Principle 1, Principle 2
 Version Number: 1.1
 weight: 10
 ---
-# Anti-Slavery and Anti-Trafficking Policy
 
-# **Introduction**
+## Introduction
 
-This policy outlines our approach to identifying and preventing slavery and human trafficking in our operations and supply chains. It is aligned with our commitment to uphold human rights and conduct business in an ethical manner.
+At **Impact Orbit Creative Group**, we are committed to upholding human rights and conducting business ethically. This policy sets out our approach to identifying, preventing, and addressing slavery, servitude, forced labour, and human trafficking across our operations and supply chains.
 
-**Scope**
+## Scope
 
-**This policy applies to all individuals working at or with [Your Business Name], including employees, contractors, suppliers, and other business partners.**
+This policy applies to all individuals working with or on behalf of Impact Orbit Creative Group, including employees, contractors, suppliers, and other business partners.
 
-**Our Commitment**
+## Our Commitments
 
-1. **Zero Tolerance for Slavery and Human Trafficking:** We strictly prohibit any form of slavery, servitude, forced or compulsory labour, and human trafficking in our operations and supply chains.
+1. **Zero Tolerance**  
+   - We prohibit all forms of slavery, servitude, forced or compulsory labour, and human trafficking within our operations and supply chains.
 
-2. **Compliance with Laws:** We are committed to complying with all laws and regulations regarding the prohibition of slavery and human trafficking in the countries where we operate.
+2. **Legal Compliance**  
+   - We comply with all relevant laws and regulations regarding the prohibition of slavery and human trafficking in the countries where we operate.
 
-3. **Due Diligence and Risk Assessment:** We conduct due diligence and risk assessments to identify, prevent, and mitigate risks of slavery and human trafficking in our operations and supply chain. This includes:
+3. **Due Diligence and Risk Assessment**  
+   - Assess potential suppliers and contractors prior to engagement.  
+   - Regularly review existing suppliers for compliance.  
+   - Implement procedures to mitigate any identified risks related to slavery or human trafficking.
 
-- Evaluating potential suppliers and contractors before entering into agreements.
-- Regularly reviewing our existing suppliers and contractors for compliance.
-- Implementing procedures to address any identified risks of slavery and human trafficking.
+4. **Supplier Standards and Contracts**  
+   - Require suppliers and contractors to adhere to our anti-slavery and anti-trafficking standards.  
+   - Include contractual clauses enforcing compliance with this policy and applicable laws.
 
-4. **Supplier Standards and Contracts:** We expect our suppliers and contractors to uphold our values regarding anti-slavery and anti-trafficking. We include clauses in our contracts requiring them to comply with this policy and the relevant laws.
+5. **Training and Awareness**  
+   - Provide regular training to employees, particularly in procurement and supply chain roles, to identify and respond to potential risks.
 
-5. **Training and Awareness**: We provide training to our employees, particularly those in procurement and supply chain management, to recognize and respond to signs of slavery and human trafficking.
+6. **Reporting Mechanisms**  
+   - Maintain clear channels for employees and external parties to report concerns or suspicions safely and confidentially.  
+   - Ensure protection from retaliation for individuals reporting in good faith.
 
-6. **Reporting Mechanisms:** We establish clear channels for employees and external parties to report concerns or suspicions of slavery and human trafficking in our operations or supply chains, without fear of retaliation.
+7. **Investigation and Remediation**  
+   - Promptly investigate any reports of suspected slavery or human trafficking.  
+   - Take appropriate corrective actions to address confirmed issues.
 
-7. **Investigation and Remediation**: We promptly and thoroughly investigate any claims or indications of slavery or human trafficking and take appropriate remedial actions.
+8. **Continuous Improvement**  
+   - Review and update policies and procedures regularly to strengthen our ability to prevent slavery and human trafficking.
 
-8. **Continuous Improvement:** We regularly review and update our policies and procedures to improve our ability to identify and prevent slavery and human trafficking.
+## Responsibilities
 
-**Responsibilities**
+- **Senior Management**: Ensure implementation and enforcement of this policy.  
+- **All Employees, Suppliers, and Contractors**: Comply with this policy and report concerns.  
+- **Compliance Officer/Department**: Oversee enforcement, conduct audits, and assess risk mitigation measures.
 
-- Senior Management is responsible for ensuring the implementation of this policy.
-- All employees, suppliers, and contractors are expected to comply with this policy.
-- The Compliance Officer/Department is tasked with overseeing the enforcement of this policy and conducting regular audits and assessments.
+## Review and Update
 
-**Review and Update**
+This policy is reviewed annually and updated as necessary to ensure effectiveness and alignment with current laws, regulations, and best practices.
 
-This policy will be reviewed annually and updated as necessary to ensure its effectiveness and alignment with current laws and best practices.
+## Approval
 
-**Approval**
+This policy is endorsed by the executive management of **Impact Orbit Creative Group**, demonstrating our commitment to combating slavery and human trafficking.
 
-This policy and statement are endorsed by the highest level of management at [Your Business Name], reflecting our unwavering commitment to combatting slavery and human trafficking.
+## Contact Information
 
-**Contact Information**
-
-For more information, to report concerns, or seek guidance related to this policy, please contact [Contact Person/Department].
-
-|  | **Page | 1** |
-| --- | --- |
+For more information, to raise concerns, or seek guidance regarding this policy, please contact **[Compliance Officer/Department]**.

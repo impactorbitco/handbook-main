@@ -1,10 +1,16 @@
 ---
-title: Occupational Health and Safety Management
+title: ISO-45001
+iso_number: '45001'
+acronym: OHSMS
+description: ISO 45001:2015-aligned OHSMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
 
-
-# **Occupational health and safety management system (OHSMS)**
+# Occupational health and safety management system (OHSMS)
 
 | **Version** | **Date** | **Amendments** | **Author** |
 | --- | --- | --- | --- |

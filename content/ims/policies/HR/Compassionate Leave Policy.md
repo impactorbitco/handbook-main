@@ -13,7 +13,7 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Compassionate Leave Policy
+
 **Paid Leave**
 
 1. In the event of the passing of an immediate relative, employees will be entitled to __________ working days' paid leave. An immediate relative includes a:

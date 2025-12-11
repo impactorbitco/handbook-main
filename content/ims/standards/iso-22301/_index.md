@@ -1,8 +1,16 @@
 ---
-title: Event Sustainability Management System
+title: ISO-22301
+iso_number: '22301'
+acronym: ESMS
+description: ISO 22301:2015-aligned ESMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-# **EVENT SUSTAINABILITY MANAGEMENT SYSTEM (ESMS)**
+
+# Event Sustainability Management System 
 
 Implemented November 2024  | Version 2.0
 

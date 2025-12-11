@@ -4,9 +4,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 7 October 2025 16:44
 ID: POL-251
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System 
 Last edited time: 7 October 2025 17:38
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
 Sub-item: "Flexible Working (Flexible%20Working%201c0d6625c67981d78fecf1616f75e200.md),\
   \ Flexitime Policy (Flexitime%20Policy%201c0d6625c67981df9da2ebbee00f2f3c.md), Grievance\
@@ -37,8 +37,7 @@ Sub-item: "Flexible Working (Flexible%20Working%201c0d6625c67981d78fecf1616f75e2
   \ Disciplinary\_Policy and Procedure (Disciplinary%20Policy%20and%20Procedure%201c0d6625c67981a98ad2c7293ead53e1.md),\
   \ Decent Work Policy (Decent%20Work%20Policy%201c0d6625c679816ea62ecbce9694aa93.md),\
   \ Leave of Absence Policy (Leave%20of%20Absence%20Policy%2027ed6625c67980b6b86dea63482c8ea9.md)"
-UN Global Compact principles: Principle 4 (https://www.notion.so/Principle-4-1d8d6625c67980e2a09cdc68e42e1737?pvs=21)
+UN Global Compact principles: Principle 4
 Version Number: 1.1
 weight: 10
 ---
-# Fair Employment and Labour Standards Policy

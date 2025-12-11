@@ -36,7 +36,7 @@ weight: 10
 
 **1. Introduction**
 
-At Green Orbit Digital, we believe in the continuous growth and development of our employees to enhance their skills, knowledge, and capabilities. Our Learning and Development Policy aims to provide a framework for fostering a culture of learning, enabling career advancement, and supporting the long-term success of our organization.
+At Impact Orbit Creative Group, we believe in the continuous growth and development of our employees to enhance their skills, knowledge, and capabilities. Our Learning and Development Policy aims to provide a framework for fostering a culture of learning, enabling career advancement, and supporting the long-term success of our organization.
 
 **2. Objectives**
 
@@ -73,31 +73,31 @@ At Green Orbit Digital, we believe in the continuous growth and development of o
 
 **7. Conclusion**
 
-At Green Orbit Digital, we are committed to investing in the growth and development of our employees to support their professional success and contribute to the overall success of our organization. By fostering a culture of continuous learning and development, we empower our employees to thrive in their roles, drive innovation, and achieve their career aspirations.
+At Impact Orbit Creative Group, we are committed to investing in the growth and development of our employees to support their professional success and contribute to the overall success of our organization. By fostering a culture of continuous learning and development, we empower our employees to thrive in their roles, drive innovation, and achieve their career aspirations.
 
-# Green Orbit Digital
+# Impact Orbit Creative Group
 
 ## Training and Development Policy
 
 ### 1. **Purpose**
 
-Green Orbit Digital is committed to fostering a culture of continuous learning and development, ensuring that all employees have the knowledge, skills, and opportunities to grow professionally. This Training and Development Policy outlines the framework for employee growth, skill enhancement, and professional advancement, aligned with the company's mission and values.
+Impact Orbit Creative Group is committed to fostering a culture of continuous learning and development, ensuring that all employees have the knowledge, skills, and opportunities to grow professionally. This Training and Development Policy outlines the framework for employee growth, skill enhancement, and professional advancement, aligned with the company's mission and values.
 
 ### 2. **Scope**
 
-This policy applies to all full-time, part-time, and contract employees of Green Orbit Digital, across all departments and levels of the organization. It covers training initiatives, professional development programs, skill-building opportunities, and leadership development.
+This policy applies to all full-time, part-time, and contract employees of Impact Orbit Creative Group, across all departments and levels of the organization. It covers training initiatives, professional development programs, skill-building opportunities, and leadership development.
 
 ### 3. **Objectives**
 
 - To enhance the skill set and capabilities of employees to meet current and future job demands.
-- To align employee development with the strategic goals and objectives of Green Orbit Digital.
+- To align employee development with the strategic goals and objectives of Impact Orbit Creative Group.
 - To ensure employees are equipped with the latest industry knowledge, tools, and technologies.
 - To foster a work culture of innovation, collaboration, and continuous improvement.
 - To support career progression, job satisfaction, and retention of top talent.
 
 ### 4. **Types of Training and Development**
 
-Green Orbit Digital offers a range of training and development opportunities, including but not limited to:
+Impact Orbit Creative Group offers a range of training and development opportunities, including but not limited to:
 
 - **Onboarding and Orientation**: Structured programs for new hires to ensure they are familiar with the company culture, values, and operational processes.
 - **Technical Training**: Skill development programs in areas such as digital marketing, software development, data analysis, project management, and other technical competencies that align with business needs.
@@ -120,7 +120,7 @@ Green Orbit Digital offers a range of training and development opportunities, in
 
 ### 6. **Training and Development Budget**
 
-Green Orbit Digital allocates a dedicated budget for employee training and development each fiscal year. Managers and team leaders are encouraged to prioritize skill development initiatives within their departments, and employees may request funding for specific learning opportunities, subject to approval.
+Impact Orbit Creative Group allocates a dedicated budget for employee training and development each fiscal year. Managers and team leaders are encouraged to prioritize skill development initiatives within their departments, and employees may request funding for specific learning opportunities, subject to approval.
 
 ### 7. **Employee Involvement**
 
@@ -129,11 +129,11 @@ Green Orbit Digital allocates a dedicated budget for employee training and devel
 
 ### 8. **Performance and Career Development**
 
-Training and development are integral to career progression at Green Orbit Digital. Employee performance is assessed not only based on job duties but also on their ability to apply new skills and knowledge. Employees who actively participate in training programs and demonstrate growth may be considered for promotions or new responsibilities.
+Training and development are integral to career progression at Impact Orbit Creative Group. Employee performance is assessed not only based on job duties but also on their ability to apply new skills and knowledge. Employees who actively participate in training programs and demonstrate growth may be considered for promotions or new responsibilities.
 
 ### 9. **Equal Opportunity**
 
-Green Orbit Digital ensures equal access to training and development opportunities for all employees, regardless of age, gender, ethnicity, or other factors. The company is committed to fostering an inclusive and diverse workplace where all employees can reach their full potential.
+Impact Orbit Creative Group ensures equal access to training and development opportunities for all employees, regardless of age, gender, ethnicity, or other factors. The company is committed to fostering an inclusive and diverse workplace where all employees can reach their full potential.
 
 ### 10. **Role of Managers and Leaders**
 
@@ -150,11 +150,11 @@ Employees who show exemplary commitment to their professional development or dem
 
 ### 12. **Review and Continuous Improvement**
 
-This policy will be reviewed annually to ensure it remains aligned with Green Orbit Digital’s goals, industry trends, and employee needs. Adjustments to the training framework and processes will be made based on feedback, evaluation results, and emerging industry developments.
+This policy will be reviewed annually to ensure it remains aligned with Impact Orbit Creative Group’s goals, industry trends, and employee needs. Adjustments to the training framework and processes will be made based on feedback, evaluation results, and emerging industry developments.
 
 ### 13. **Conclusion**
 
-Green Orbit Digital views employee training and development as a key investment in the future success of both the company and its employees. By providing access to continuous learning opportunities, we aim to cultivate a skilled, motivated, and innovative workforce capable of adapting to the challenges of the digital age.
+Impact Orbit Creative Group views employee training and development as a key investment in the future success of both the company and its employees. By providing access to continuous learning opportunities, we aim to cultivate a skilled, motivated, and innovative workforce capable of adapting to the challenges of the digital age.
 
 **Effective Date**: [Insert Date]
 

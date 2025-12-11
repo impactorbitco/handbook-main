@@ -1,8 +1,16 @@
 ---
-title: Business Continuity Management System
+title: ISO-22301
+iso_number: '22301'
+acronym: QMS
+description: ISO 22301:2015-aligned BCMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-### ISO 22301: Business Continuity Management Systems (BCMS) - Outline for Green Orbit Digital
+
+# Business Continuity Management Systems (BCMS)
 
 **1. Introduction**
 

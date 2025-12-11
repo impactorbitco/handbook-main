@@ -1,10 +1,6 @@
 ---
 title: Morale Events Policy
 weight: 10
----
-
-# Morale Events Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,14 +11,15 @@ Last edited time: 7 October 2025 17:13
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---
 
 **1. Introduction**
 
-At Green Orbit Digital, we recognize the importance of fostering a positive work environment that promotes employee satisfaction, motivation, and well-being. Morale events play a vital role in achieving these objectives by providing opportunities for employees to socialize, bond, and recharge outside of their regular work duties. This policy outlines the guidelines and procedures for organizing and conducting morale events within our organization.
+At Impact Orbit Creative Group, we recognize the importance of fostering a positive work environment that promotes employee satisfaction, motivation, and well-being. Morale events play a vital role in achieving these objectives by providing opportunities for employees to socialize, bond, and recharge outside of their regular work duties. This policy outlines the guidelines and procedures for organizing and conducting morale events within our organization.
 
 **2. Objectives**
 
-The objectives of morale events at Green Orbit Digital are as follows:
+The objectives of morale events at Impact Orbit Creative Group are as follows:
 
 - Enhance employee morale, satisfaction, and engagement.
 - Foster a sense of community and camaraderie among employees.
@@ -85,4 +82,4 @@ Morale events may take various forms and can include, but are not limited to, th
 
 For questions or clarification regarding this policy, employees should contact the HR department.
 
-This Morale Events Policy is effective as of [insert date] and applies to all morale events organized and conducted by Green Orbit Digital from this date onwards.
+This Morale Events Policy is effective as of [insert date] and applies to all morale events organized and conducted by Impact Orbit Creative Group from this date onwards.

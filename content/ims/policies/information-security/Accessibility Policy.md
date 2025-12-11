@@ -7,15 +7,15 @@ Created time: 24 March 2025 10:40
 ID: POL-44
 IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
 Last edited time: 7 October 2025 17:33
-Parent item: Information Governance and Data Security Policy (Information%20Governance%20and%20Data%20Security%20Policy%201c0d6625c679813f8302fe82c5e67869.md)
+Parent item: Information Governance and Data Security Policy 
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Accessibility Policy
+
 ## Purpose and Scope
 
-Green Orbit Digital is committed to ensuring digital accessibility for all users across our platforms, products, and services. This policy establishes our framework for creating, maintaining, and improving accessible digital experiences.
+Impact Orbit Creative Group is committed to ensuring digital accessibility for all users across our platforms, products, and services. This policy establishes our framework for creating, maintaining, and improving accessible digital experiences.
 
 ## Policy Statement
 
@@ -84,7 +84,7 @@ This policy aligns with:
 - Industry best practices for digital accessibility
 
 <aside>
-Green Orbit Digital Ltd
+Impact Orbit Creative Group Ltd
 86-90 Paul Street, London EC2A 4NE
 Company number: 15207389 registered in England and Wales
 VAT number: GB462243312

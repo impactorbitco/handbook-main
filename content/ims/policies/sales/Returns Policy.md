@@ -5,21 +5,14 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 9 September 2024 23:57
 ID: POL-37
-IMS: Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21),
-  Risk Management System (https://www.notion.so/Risk-Management-System-1b6d6625c67980bdb161f333b4bd4c00?pvs=21),
-  Compliance Management System (https://www.notion.so/Compliance-Management-System-1b5d6625c679802ba50ee129ca1d1028?pvs=21)
+IMS: Quality Management System, Risk Management System, Compliance Management System
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
-Sub-item: Return of Goods Policy (Return%20of%20Goods%20Policy%201ddd6625c6798018bab7e93064f9b33e.md),
-  Event Refund Policy (Event%20Refund%20Policy%201c0d6625c67981e0a247d3442ff70105.md)
+Sub-item: Return of Goods Policy, Event Refund Policy
 Version Number: 1.1
 weight: 10
 ---
-
-| **Policy Number** | POL/SL/2024/1359-V1.1 | **Date of Last Revision** | 14/12/2024 |
-| --- | --- | --- | --- |
-| **Effective Date** | 14/12/2024 | **Version Number** | 1.0 |
 
 **Introduction**
 

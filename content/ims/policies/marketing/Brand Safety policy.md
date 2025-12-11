@@ -16,7 +16,7 @@ weight: 10
 
 ## 1. Purpose and Scope
 
-Green Orbit Digital is committed to maintaining brand safety across all digital marketing activities. This policy outlines our approach to protecting brand reputation and ensuring content appears in appropriate contexts.
+Impact Orbit Creative Group is committed to maintaining brand safety across all digital marketing activities. This policy outlines our approach to protecting brand reputation and ensuring content appears in appropriate contexts.
 
 ## 2. Content Guidelines
 

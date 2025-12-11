@@ -12,8 +12,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Data Breach Management Policy
-# Data Breach Policies
 
 ## Overview
 

@@ -1,10 +1,6 @@
 ---
 title: Smoke Free Policy
 weight: 10
----
-
-# Smoke Free Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Category: Human Resources
@@ -16,10 +12,10 @@ Last edited time: 7 October 2025 16:25
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---
 
-# Smoke Free Policy
 
-Green Orbit Digital is committed to providing a safe and healthy work environment for all employees, contractors, visitors, and stakeholders. This policy establishes our commitment to maintaining a smoke-free workplace.
+Impact Orbit Creative Group is committed to providing a safe and healthy work environment for all employees, contractors, visitors, and stakeholders. This policy establishes our commitment to maintaining a smoke-free workplace.
 
 ## Purpose and Scope
 
@@ -49,7 +45,7 @@ Failure to comply with this policy may result in disciplinary action in accordan
 
 ## Support for Smokers
 
-Green Orbit Digital is committed to supporting employees who wish to stop smoking. Employees seeking help to quit smoking will be provided with information about local smoking cessation services and support programs.
+Impact Orbit Creative Group is committed to supporting employees who wish to stop smoking. Employees seeking help to quit smoking will be provided with information about local smoking cessation services and support programs.
 
 ## Review
 

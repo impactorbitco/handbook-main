@@ -13,12 +13,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-| **Policy Number** | S | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented November 2024  | Version 2.0
-
 Due to the nature of the industry we work in, we are frequently going to come into direct contact with a lot of sensitive & confidential information and it is **all of our responsibility** to take the relevant steps to make sure all sensitive data and information are kept secure. All staff must do at least a 6 monthly review of software on all devices (laptops, tablets, and phones) and uninstall software/apps that are no longer required, which in addition to security will also help to ensure the fast performance of the devices.
 
 Remember, security is a process, not a destination and is important for everyone from the outset.

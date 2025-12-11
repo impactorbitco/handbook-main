@@ -33,7 +33,7 @@ Version Number: 1.1
 weight: 10
 ---
 
-At Green Orbit Digital, we are committed to delivering excellence in sustainable marketing services for the space industry. This Quality Policy reflects our dedication to maintaining the highest quality standards while ensuring continuous improvement, customer satisfaction, and operational excellence. It is aligned with the principles and requirements of ISO 9001:2015.
+At Impact Orbit Creative Group, we are committed to delivering excellence in sustainable marketing services for the space industry. This Quality Policy reflects our dedication to maintaining the highest quality standards while ensuring continuous improvement, customer satisfaction, and operational excellence. It is aligned with the principles and requirements of ISO 9001:2015.
 
 ## Vision
 
@@ -57,7 +57,7 @@ Our leadership team sets the direction for quality by fostering a culture of int
 
 We recognize that every employee plays a vital role in maintaining quality. We are committed to training and engaging all team members to actively participate in the Quality Management System (QMS).
 
-- **Commitment:** “Green Orbit Digital invests in employee development and engages everyone in upholding quality standards.”
+- **Commitment:** “Impact Orbit Creative Group invests in employee development and engages everyone in upholding quality standards.”
 
 ### 4. **Process Approach**
 
@@ -103,11 +103,11 @@ While we focus on service delivery rather than physical products, we ensure the 
 
 ## Implementation and Review
 
-This Quality Policy is communicated to all employees and made available to relevant stakeholders. It is regularly reviewed to ensure its relevance and alignment with Green Orbit Digital’s objectives and ISO 9001 standards. Our leadership team takes responsibility for ensuring this policy is implemented effectively across all operations.
+This Quality Policy is communicated to all employees and made available to relevant stakeholders. It is regularly reviewed to ensure its relevance and alignment with Impact Orbit Creative Group’s objectives and ISO 9001 standards. Our leadership team takes responsibility for ensuring this policy is implemented effectively across all operations.
 
 ## Endorsement
 
-This Quality Policy is endorsed by Green Orbit Digital’s senior management and will be reviewed annually to ensure its continued effectiveness and alignment with the organisation’s strategic direction.
+This Quality Policy is endorsed by Impact Orbit Creative Group’s senior management and will be reviewed annually to ensure its continued effectiveness and alignment with the organisation’s strategic direction.
 
 Signed: [Senior Management Signature]
 
@@ -115,4 +115,4 @@ Date: [Review Date]
 
 ---
 
-This policy establishes the framework for setting and reviewing quality objectives, meeting customer needs, ensuring compliance, and continuously improving the effectiveness of the Quality Management System. By adhering to these commitments, Green Orbit Digital ensures high standards in all aspects of its operations while remaining compliant with ISO 9001:2015.
+This policy establishes the framework for setting and reviewing quality objectives, meeting customer needs, ensuring compliance, and continuously improving the effectiveness of the Quality Management System. By adhering to these commitments, Impact Orbit Creative Group ensures high standards in all aspects of its operations while remaining compliant with ISO 9001:2015.

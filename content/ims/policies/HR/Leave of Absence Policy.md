@@ -22,7 +22,7 @@ weight: 10
 
 **Statement and Purpose of Policy**
 
-1. Green Orbit Digital (**we** or **us** or **our**) acknowledges the personal nature of bereavement and is committed to supporting employees in practical and reasonable ways.
+1. Impact Orbit Creative Group (**we** or **us** or **our**) acknowledges the personal nature of bereavement and is committed to supporting employees in practical and reasonable ways.
 2. Bereavement or compassionate leave is leave that allows an employee time off to deal with their personal distress and related practical arrangements, primarily, but not limited to, when a member of their family passes away.
 3. This Policy shows the minimum leave employees are entitled to in different circumstances.
 4. We further acknowledge that:

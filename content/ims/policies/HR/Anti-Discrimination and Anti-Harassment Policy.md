@@ -14,7 +14,6 @@ UN Global Compact principles: Principle 6
 Version Number: 1.1
 weight: 10
 ---
-# Anti-Discrimination and Anti-Harassment Policy
 
 ### Introduction
 

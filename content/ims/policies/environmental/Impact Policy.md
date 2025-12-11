@@ -4,19 +4,13 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 2 July 2025 15:10
 ID: POL-236
-IMS: Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21)
+IMS: Environmental Management System
 Last edited time: 7 October 2025 16:21
-Parent item: Sustainability / Environmental Policy (Sustainability%20Environmental%20Policy%201c0d6625c6798155ad1af5cbca409855.md)
+Parent item: Sustainability / Environmental Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-
-| **Doc. ID** | S | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented November 2024  | Version 2.0
 
 We are committed to making The Better Business Summit an event that is accessible, sustainable and impactful. We want this to be something other event organisers can recreate so that the impact of these choices goes further than the Better Business Summit.
 

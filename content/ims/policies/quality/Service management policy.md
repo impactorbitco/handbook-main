@@ -5,9 +5,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 23 April 2025 09:49
 ID: POL-11
-IMS: IT Service Management System (https://www.notion.so/IT-Service-Management-System-1b5d6625c67980c9a30bd487bffe9a47?pvs=21)
+IMS: IT Service Management System
 Last edited time: 7 October 2025 17:31
-Parent item: Quality Management Policy (Quality%20Management%20Policy%201c0d6625c67981229c28f3332cf76ade.md)
+Parent item: Quality Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

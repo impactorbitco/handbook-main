@@ -1,10 +1,6 @@
 ---
 title: Lone and Vulnerable Worker Policies
 weight: 10
----
-
-# Lone and Vulnerable Worker Policies
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: Yes
@@ -15,10 +11,11 @@ Last edited time: 7 October 2025 16:27
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---
 
 **1. Introduction**
 
-At Green Orbit Digital, we recognize that some employees may work alone or in isolation as part of their roles. This Lone Worker Policy is designed to ensure the safety, health, and well-being of lone workers by providing guidelines and procedures to minimize risks associated with working alone. The policy applies to all employees who may work alone or in isolated conditions as part of their duties.
+At Impact Orbit Creative Group, we recognize that some employees may work alone or in isolation as part of their roles. This Lone Worker Policy is designed to ensure the safety, health, and well-being of lone workers by providing guidelines and procedures to minimize risks associated with working alone. The policy applies to all employees who may work alone or in isolated conditions as part of their duties.
 
 **2. Definition of a Lone Worker**
 
@@ -43,7 +40,7 @@ A lone worker is defined as an employee who performs tasks or duties without clo
 
 **6. Training and Awareness**
 
-- **Lone Worker Training:** Green Orbit Digital will provide comprehensive training to lone workers on safety procedures, hazard awareness, emergency response protocols, and the use of safety equipment and communication devices.
+- **Lone Worker Training:** Impact Orbit Creative Group will provide comprehensive training to lone workers on safety procedures, hazard awareness, emergency response protocols, and the use of safety equipment and communication devices.
 - **Awareness Campaigns:** The company will conduct regular awareness campaigns to educate all employees about lone working risks, safety precautions, and the importance of supporting lone workers.
 
 **7. Equipment and Resources**
@@ -63,4 +60,4 @@ A lone worker is defined as an employee who performs tasks or duties without clo
 
 **10. Conclusion**
 
-The Lone Worker Policy at Green Orbit Digital is designed to promote the safety, health, and well-being of lone workers by establishing clear procedures, providing necessary training and resources, and fostering a culture of support and communication. By adhering to this policy, we demonstrate our commitment to safeguarding the welfare of all employees, even in isolated or remote working environments.
+The Lone Worker Policy at Impact Orbit Creative Group is designed to promote the safety, health, and well-being of lone workers by establishing clear procedures, providing necessary training and resources, and fostering a culture of support and communication. By adhering to this policy, we demonstrate our commitment to safeguarding the welfare of all employees, even in isolated or remote working environments.

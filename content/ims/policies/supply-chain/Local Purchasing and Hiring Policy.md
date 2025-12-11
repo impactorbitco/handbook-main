@@ -5,20 +5,19 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 20 April 2025 17:50
 ID: POL-89
-IMS: Supply Chain Security Management (https://www.notion.so/Supply-Chain-Security-Management-1b5d6625c6798010a208eb0e026912ab?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Supply Chain Security Management, Social Responsibility Management System
 Last edited time: 7 October 2025 17:23
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
 
-Green Orbit Digital is committed to supporting local economic development through strategic local purchasing and hiring practices. This policy outlines our approach to prioritizing local suppliers and talent while maintaining our high standards for quality and sustainability.
+Impact Orbit Creative Group is committed to supporting local economic development through strategic local purchasing and hiring practices. This policy outlines our approach to prioritizing local suppliers and talent while maintaining our high standards for quality and sustainability.
 
 ## 1. Purpose and Scope
 
-This policy applies to all procurement activities and hiring processes within Green Orbit Digital. It aims to maximize our positive impact on local communities while ensuring business efficiency and compliance with our sustainability goals.
+This policy applies to all procurement activities and hiring processes within Impact Orbit Creative Group. It aims to maximize our positive impact on local communities while ensuring business efficiency and compliance with our sustainability goals.
 
 ## 2. Definitions
 

@@ -1,10 +1,6 @@
 ---
 title: Modern Slavery and Human Trafficking Policy
 weight: 10
----
-
-# Modern Slavery and Human Trafficking Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -16,10 +12,10 @@ Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
 Status: Not started
 UN Global Compact principles: Principle 1 (https://www.notion.so/Principle-1-1d8d6625c67980809dbdd453c77d17ed?pvs=21), Principle 2 (https://www.notion.so/Principle-2-1d8d6625c6798091b8aeee96fa0b8ef0?pvs=21)
 Version Number: 1.1
-
+---
 **Introduction**
 
-At Green Orbit Digital, we are deeply committed to combating slavery and human trafficking in all its forms. Our dedication to ethical practices and integrity extends across our organisation and supply chains. We align our efforts with the requirements of the Modern Slavery Act 2015, ensuring transparency and accountability in our operations.
+At Impact Orbit Creative Group, we are deeply committed to combating slavery and human trafficking in all its forms. Our dedication to ethical practices and integrity extends across our organisation and supply chains. We align our efforts with the requirements of the Modern Slavery Act 2015, ensuring transparency and accountability in our operations.
 
 **Our Policies**
 
@@ -36,7 +32,7 @@ To uphold our commitment, we have established various policies accessible to all
 
 **Our Business**
 
-Green Orbit Digital operates as a provider of marketing, creative, and production services.
+Impact Orbit Creative Group operates as a provider of marketing, creative, and production services.
 
 **Our Supply Chains**
 
@@ -70,7 +66,7 @@ We are committed to further actions, including:
 
 **Conclusion:**
 
-This statement, approved by the Green Orbit Digital leadership, underscores our dedication to combating modern slavery and human trafficking. We remain steadfast in our commitment to ethical practices and continuous improvement in this critical area.
+This statement, approved by the Impact Orbit Creative Group leadership, underscores our dedication to combating modern slavery and human trafficking. We remain steadfast in our commitment to ethical practices and continuous improvement in this critical area.
 
 Green Economy
 
@@ -82,7 +78,7 @@ Good Business Accredited
 
 **Introduction**
 
-At Green Orbit Digital, we are deeply committed to combating slavery and human trafficking in all its forms. Our dedication to ethical practices and integrity extends across our organisation and supply chains. We align our efforts with the requirements of the Modern Slavery Act 2015, ensuring transparency and accountability in our operations.
+At Impact Orbit Creative Group, we are deeply committed to combating slavery and human trafficking in all its forms. Our dedication to ethical practices and integrity extends across our organisation and supply chains. We align our efforts with the requirements of the Modern Slavery Act 2015, ensuring transparency and accountability in our operations.
 
 **Our Policies**
 
@@ -99,7 +95,7 @@ To uphold our commitment, we have established various policies accessible to all
 
 **Our Business**
 
-Green Orbit Digital operates as a provider of marketing, creative, and production services.
+Impact Orbit Creative Group operates as a provider of marketing, creative, and production services.
 
 **Our Supply Chains**
 
@@ -133,7 +129,7 @@ We are committed to further actions, including:
 
 **Conclusion:**
 
-This statement, approved by the Green Orbit Digital leadership, underscores our dedication to combating modern slavery and human trafficking. We remain steadfast in our commitment to ethical practices and continuous improvement in this critical area.
+This statement, approved by the Impact Orbit Creative Group leadership, underscores our dedication to combating modern slavery and human trafficking. We remain steadfast in our commitment to ethical practices and continuous improvement in this critical area.
 
 Green Economy
 

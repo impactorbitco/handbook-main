@@ -5,7 +5,7 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-203
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 8 October 2025 04:38
 Status: Not started
 Sub-item: Network Security Policy (Network%20Security%20Policy%201e2d6625c67980deabdbe3780b4a6186.md),
@@ -29,4 +29,4 @@ Sub-item: Network Security Policy (Network%20Security%20Policy%201e2d6625c67980d
 Version Number: 1.1
 weight: 10
 ---
-# Data Handling & Security Policy
+

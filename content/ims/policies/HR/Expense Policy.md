@@ -12,7 +12,7 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Expense Policy
+
 # Purpose and Scope
 
 This policy establishes guidelines for business-related expenses at Green Orbit Digital. It applies to all employees, contractors, and temporary staff members.

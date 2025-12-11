@@ -16,13 +16,13 @@ weight: 10
 
 *Implemented December 2024 | Version 1.1*
 
-Green Orbit Digital Ltd is committed to ensuring that all events we organise are fully accessible, inclusive, and welcoming to everyone, regardless of physical, sensory, or cognitive abilities, as well as hidden disabilities. Accessibility is integral to our values and is embedded in every stage of event planning and delivery.
+Impact Orbit Creative Group Ltd is committed to ensuring that all events we organise are fully accessible, inclusive, and welcoming to everyone, regardless of physical, sensory, or cognitive abilities, as well as hidden disabilities. Accessibility is integral to our values and is embedded in every stage of event planning and delivery.
 
 ---
 
 ### **1. Guiding Principles**
 
-At Green Orbit Digital Ltd, we celebrate **“Infinite Diversity in Infinite Combination”** (IDIC), recognising that diversity in all forms strengthens our events and enriches our collective experiences.
+At Impact Orbit Creative Group Ltd, we celebrate **“Infinite Diversity in Infinite Combination”** (IDIC), recognising that diversity in all forms strengthens our events and enriches our collective experiences.
 
 Accessibility is a foundational principle, not an afterthought. We aim to create events where everyone can fully engage, participate, and contribute without barriers.
 
@@ -114,7 +114,7 @@ Accessibility is a foundational principle, not an afterthought. We aim to create
 
 ### **6.3 Continuous Learning**
 
-- Organisers will stay informed of best practices in accessibility, ensuring Green Orbit Digital events remain inclusive and progressive.
+- Organisers will stay informed of best practices in accessibility, ensuring Impact Orbit Creative Group events remain inclusive and progressive.
 
 ---
 
@@ -122,13 +122,13 @@ Accessibility is a foundational principle, not an afterthought. We aim to create
 
 - **Partnerships**: We will collaborate with accessibility consultants and advocacy organisations to ensure best practices are integrated into our events.
 - **Commitment to Innovation**: Accessibility is a journey, and we will leverage new technologies and strategies to continually improve the inclusivity of our events.
-- **Accountability**: Responsibility for accessibility will rest with the event organising team, guided by the Accessibility Coordinator and Green Orbit Digital leadership.
+- **Accountability**: Responsibility for accessibility will rest with the event organising team, guided by the Accessibility Coordinator and Impact Orbit Creative Group leadership.
 
 ---
 
 ## **8. Statement of Inclusivity**
 
-Green Orbit Digital Ltd believes that accessible events benefit everyone. By fostering a culture of respect, inclusion, and adaptability, we aim to create a space where all participants—regardless of ability, background, or identity—can thrive.
+Impact Orbit Creative Group Ltd believes that accessible events benefit everyone. By fostering a culture of respect, inclusion, and adaptability, we aim to create a space where all participants—regardless of ability, background, or identity—can thrive.
 
 For accessibility-related queries or requests, please contact:
 

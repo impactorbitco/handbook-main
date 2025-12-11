@@ -4,65 +4,65 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 20 April 2025 17:50
 ID: POL-180
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 17:34
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
-UN Global Compact principles: Principle 4 (https://www.notion.so/Principle-4-1d8d6625c67980e2a09cdc68e42e1737?pvs=21)
+UN Global Compact principles: Principle 4
 Version Number: 1.1
 weight: 10
 ---
-# Child and Forced Labour Prevention Policy
-# **Introduction**
 
-At [Your Business Name], we are committed to upholding the rights of children and prohibiting the use of child labour in any form within our operations and supply chain. This policy reflects our dedication to ethical business practices and adherence to international standards on child labour.
+## Introduction
 
-**Scope**
+At **Impact Orbit Creative Group**, we are committed to protecting the rights of children and preventing the use of child labour or forced labour in any form within our operations and supply chain. This policy reflects our dedication to ethical business practices and adherence to international human rights standards.
 
-This policy applies to all employees, contractors, suppliers, and business partners of [Your Business Name].
+## Scope
 
-**Our Commitment**
+This policy applies to all employees, contractors, suppliers, and business partners of Impact Orbit Creative Group.
 
-1. **Prohibition of Child Labour:** We strictly prohibit the use of child labour, defined as the employment of individuals under the age of 15 (or 14 where allowed by the International Labour Organization), or under the minimum age for employment stipulated by the law of the country, whichever is greater.
+## Our Commitment
 
-2. **Compliance with Laws and Regulations:** We adhere to all national and international laws and regulations pertaining to child labour and employment. This includes the International Labour Organization (ILO) conventions and the United Nations Convention on the Rights of the Child.
+1. **Prohibition of Child Labour**  
+   - We strictly forbid the employment of individuals under the age of 15 (or 14 where permitted by law) or below the minimum legal employment age in the relevant country, whichever is higher.
 
-3. **Due Diligence and Risk Assessment:** We conduct thorough due diligence and risk assessments to ensure that child labour is not used in our operations and supply chain. This includes:
+2. **Compliance with Laws and Standards**  
+   - We comply with all applicable national and international laws regarding child and forced labour, including relevant ILO conventions and the UN Convention on the Rights of the Child.
 
-- Regularly auditing and monitoring our workplaces and supply chain.
-- Implementing strict supplier standards and contractual obligations against child labour.
+3. **Due Diligence and Risk Assessment**  
+   - Conduct regular audits and monitoring of workplaces and the supply chain.  
+   - Apply strict supplier standards and contractual requirements prohibiting child and forced labour.
 
-4. **Education and Training:** We promote education and awareness about child labour among our employees and supply chain partners. This includes:
+4. **Education and Training**  
+   - Provide training to employees and supply chain partners to identify and prevent child and forced labour.  
+   - Raise awareness among suppliers to ensure understanding and adherence to this policy.
 
-- Providing training to relevant staff on identifying and preventing child labour.
-- Engaging with suppliers to raise awareness and ensure understanding of this policy.
+5. **Reporting and Remediation**  
+   - Maintain clear channels to report suspected cases of child or forced labour.  
+   - Investigate reports promptly and implement remedial actions, including support for affected children.
 
-5. **Reporting and Remediation:** We establish clear reporting mechanisms for any incidents or suspicions of child labour in our operations or supply chain. Remediation measures include:
+6. **Support for Affected Children**  
+   - Assist children identified as victims of child labour in accessing education and support services.  
+   - Provide support to affected families to facilitate safe and sustainable transitions.
 
-- Promptly investigating reports of child labour.
-- Taking appropriate actions to address confirmed cases, including assisting affected children in accessing education and support services.
+7. **Continuous Improvement and Collaboration**  
+   - Regularly review and enhance our policies and practices to prevent child and forced labour.  
+   - Collaborate with NGOs, government bodies, and industry partners to strengthen prevention efforts.
 
-6. **Support for Affected Children:** In cases where child labour is identified, we commit to supporting the affected children’s transition to education and providing assistance to meet their needs and those of their families.
+## Responsibilities
 
-7. **Continuous Improvement and Collaboration:** We are committed to continuously improving our efforts to prevent child labour and collaborating with NGOs, government bodies, and other organizations in this endeavour.
+- **Management**: Ensure implementation and enforcement of this policy.  
+- **Employees and Business Partners**: Adhere to the policy and report concerns.  
+- **Child Labour Compliance Officer/Department**: Oversee compliance, training, and response measures.
 
-**Responsibilities**
+## Review and Update
 
-- Management is responsible for implementing and enforcing this policy.
-- All employees and business partners must comply with this policy.
-- The designated Child Labour Compliance Officer/Department oversees policy compliance, training, and response procedures.
+This policy will be reviewed at least annually and updated as needed to remain effective and aligned with international standards and best practices.
 
-**Review and Update**
+## Approval
 
-This policy will be reviewed regularly and updated as necessary to ensure its effectiveness and alignment with international standards and best practices.
+This policy is approved by the executive management of **Impact Orbit Creative Group**, reaffirming our commitment to eliminating child and forced labour.
 
-**Approval**
+## Contact Information
 
-This policy is endorsed by the highest level of management at [Your Business Name], underscoring our commitment to the elimination of child labour.
-
-**Contact Information**
-
-For more information, to report concerns, or seek guidance related to this policy, please contact [Contact Person/Department].
-
-|  | **Page | 1** |
-| --- | --- |
+For more information, guidance, or to report concerns regarding this policy, please contact **[Contact Person/Department]**.

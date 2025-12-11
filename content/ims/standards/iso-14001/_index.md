@@ -1,9 +1,16 @@
 ---
-title: Environmental Management System
+title: ISO-14001
+iso_number: '14001'
+acronym: EMS
+description: ISO 14001:2015-aligned EMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
----
 
+# Environmental Management System
 ## Amendments
 
 - Version 1.0: Initial release – [Date]

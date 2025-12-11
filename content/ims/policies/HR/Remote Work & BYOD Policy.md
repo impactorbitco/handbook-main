@@ -1,5 +1,5 @@
 ---
-title: Remote Work & BYOD Policy
+title: Computer Equipment away from the Workplace
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
@@ -15,8 +15,6 @@ Sub-item: Mobile and Remote Access Policy  (Mobile%20and%20Remote%20Access%20Pol
 Version Number: 1.1
 weight: 10
 ---
-
-# Computer Equipment away from the Workplace
 
 ## Purpose
 

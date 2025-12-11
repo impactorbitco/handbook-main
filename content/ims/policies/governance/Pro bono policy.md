@@ -1,25 +1,20 @@
 ---
 title: Pro bono policy
 weight: 10
----
-
-# Pro bono policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 24 March 2025 10:40
-GRI Disclosures: 413-1 Operations with local community engagement, impact assessments, and development programs (https://www.notion.so/413-1-Operations-with-local-community-engagement-impact-assessments-and-development-programs-1dad6625c67980159663d86e50506835?pvs=21)
+GRI Disclosures: 413-1
 ID: POL-31
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 17:23
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
 Version Number: 1.1
+---
 
-# Pro Bono Policy
-
-This policy outlines Green Orbit Digital's commitment to providing professional services on a pro bono basis to eligible organizations and initiatives.
+This policy outlines Impact Orbit Creative Group's commitment to providing professional services on a pro bono basis to eligible organisations and initiatives.
 
 ## Purpose
 
@@ -27,7 +22,7 @@ We believe in leveraging our expertise to create positive social impact by provi
 
 ## Scope
 
-This policy applies to all employees of Green Orbit Digital and covers the provision of our core professional services on a pro bono basis.
+This policy applies to all employees of Impact Orbit Creative Group and covers the provision of our core professional services on a pro bono basis.
 
 ## Eligibility Criteria
 
@@ -41,7 +36,7 @@ Organizations eligible for pro bono services must meet the following criteria:
 
 ## Annual Commitment
 
-Green Orbit Digital commits to:
+Impact Orbit Creative Group commits to:
 
 - Dedicating a minimum of 5% of our total billable hours to pro bono work annually
 - Supporting at least four pro bono projects per year
@@ -104,7 +99,7 @@ Implemented November 2024  | Version 2.0
 
 # **Introduction**
 
-At Green Orbit Digital, we believe in the transformative power of pro bono work to create positive impacts on our community and environment. This policy outlines our commitment to providing sustainable marketing services to charities aligned with our values and mission.
+At Impact Orbit Creative Group, we believe in the transformative power of pro bono work to create positive impacts on our community and environment. This policy outlines our commitment to providing sustainable marketing services to charities aligned with our values and mission.
 
 # **Defining Pro Bono Sustainable Marketing Services**
 
@@ -112,7 +107,7 @@ Pro bono sustainable marketing services involve the donation of our professional
 
 # **Criteria for Pro Bono Partnerships**
 
-To ensure alignment with Green Orbit Digital's values, we consider the following criteria for pro bono partnerships:
+To ensure alignment with Impact Orbit Creative Group's values, we consider the following criteria for pro bono partnerships:
 
 1. **Shared Values:** Both our agency and the not-for-profit organisation must share a passion for the cause and have aligned organisational values.
 2. **Relevance:** The nature of the work needed, the community served, and the geographic location should align with our expertise and commitment to sustainability.

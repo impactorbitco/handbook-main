@@ -5,11 +5,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-22
-IMS: Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Quality Management System, Social Responsibility Management System, Information Security Management System
 Last edited time: 7 October 2025 17:22
-Parent item: Returns Policy (Returns%20Policy%20a3e5bd5d10f94319b860bdb49a854ac0.md)
+Parent item: Returns Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

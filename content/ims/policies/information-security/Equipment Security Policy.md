@@ -11,17 +11,14 @@ IMS: IT Service Management System (https://www.notion.so/IT-Service-Management-S
   Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21)
 Last edited time: 7 October 2025 16:29
 Parent item: Information Systems Acquisition, Development, and Maintenance Policy
-  (Information%20Systems%20Acquisition,%20Development,%20and%20%201e2d6625c67980d4a5d6f48b1dacfcfb.md)
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
 
-# Equipment Security Policy
-
 ## Purpose
 
-The purpose of this policy is to establish a framework for securing company equipment to prevent unauthorized access, loss, or misuse. This policy aligns with the organization's commitment to maintaining information security as part of the ISO/IEC 27001 standards.
+The purpose of this policy is to establish a framework for securing company equipment to prevent unauthorized access, loss, or misuse. This policy aligns with the organisation's commitment to maintaining information security as part of the ISO/IEC 27001 standards.
 
 ## Scope
 
@@ -29,7 +26,7 @@ This policy applies to all company-owned or managed equipment, including but not
 
 ## Policy Statement
 
-The organization is dedicated to ensuring the security of its equipment through proper management, handling, and usage protocols. All equipment must be safeguarded against unauthorized access, accidental loss, and theft to protect the confidentiality, integrity, and availability of information.
+The organisation is dedicated to ensuring the security of its equipment through proper management, handling, and usage protocols. All equipment must be safeguarded against unauthorized access, accidental loss, and theft to protect the confidentiality, integrity, and availability of information.
 
 ## Responsibilities
 
@@ -47,7 +44,7 @@ The organization is dedicated to ensuring the security of its equipment through 
 
 ## Compliance
 
-This policy is a part of the organization’s Information Security Management System (ISMS) and aligns with the ISO/IEC 27001 standards. Non-compliance may result in disciplinary actions in accordance with the company handbook.
+This policy is a part of the organisation’s Information Security Management System (ISMS) and aligns with the ISO/IEC 27001 standards. Non-compliance may result in disciplinary actions in accordance with the company handbook.
 
 ## Review and Maintenance
 
@@ -59,22 +56,10 @@ This policy will be reviewed annually or as needed to ensure its effectiveness a
 - **IMS Reference**: ISMS/A8/POL/1883
 - **ISO Group**: A8, Annex A7 Control Group - Technological
 
-## Document Details
-
-- **ID**: 1883
-- **Version Number**: 1.1
-- **Date Created**: May 1, 2025
-- **Last Edited By**: Ryan Laird
-- **Last Edited Time**: May 1, 2025
-- **Status**: In Review
-- **Priority Level**: Low
-- **Owner**: Ryan Laird
-- **Visibility**: Public
-- **Publishing Status**: In Progress
 
 ## Summary
 
-This Equipment Security Policy outlines the required practices for securing company equipment. By adhering to this policy, the organization ensures compliance with ISO/IEC 27001 standards and demonstrates its commitment to safeguarding information assets.
+This Equipment Security Policy outlines the required practices for securing company equipment. By adhering to this policy, the organisation ensures compliance with ISO/IEC 27001 standards and demonstrates its commitment to safeguarding information assets.
 
 ## Verification
 

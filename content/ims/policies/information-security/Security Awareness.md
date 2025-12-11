@@ -9,9 +9,9 @@ GRI Disclosures: 410-1 Security personnel trained in human rights policies or pr
   418-1 Substantiated complaints concerning breaches of customer privacy and losses
   of customer data (https://www.notion.so/418-1-Substantiated-complaints-concerning-breaches-of-customer-privacy-and-losses-of-customer-data-1dad6625c6798038b6aae44bb8e7a4fb?pvs=21)
 ID: POL-131
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 19:04
-Parent item: Training and Development Policy (Training%20and%20Development%20Policy%201c0d6625c6798171873cded3ba2b4463.md)
+Parent item: Training and Development Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
@@ -19,7 +19,7 @@ weight: 10
 
 1. Introduction
 
-At Green Orbit Digital, we are committed to maintaining a secure working environment where our information, assets, and resources are protected from threats, whether internal or external. Security awareness is a key component of our strategy to safeguard the company’s information and infrastructure, and it is essential that all employees, contractors, and third-party service providers understand the importance of security practices in maintaining a safe digital environment.
+At Impact Orbit Creative Group, we are committed to maintaining a secure working environment where our information, assets, and resources are protected from threats, whether internal or external. Security awareness is a key component of our strategy to safeguard the company’s information and infrastructure, and it is essential that all employees, contractors, and third-party service providers understand the importance of security practices in maintaining a safe digital environment.
 
 This document outlines our approach to security awareness, ensuring that all stakeholders are educated about security risks, best practices, and their role in protecting the company’s assets.
 
@@ -39,11 +39,11 @@ Equip staff with the knowledge and tools to prevent security incidents.
 
 1. Scope
 
-This policy applies to all employees, contractors, interns, temporary workers, and third-party service providers who have access to Green Orbit Digital’s IT infrastructure, systems, or data. It encompasses all forms of communication and data handling, both digital and physical.
+This policy applies to all employees, contractors, interns, temporary workers, and third-party service providers who have access to Impact Orbit Creative Group’s IT infrastructure, systems, or data. It encompasses all forms of communication and data handling, both digital and physical.
 
 1. Security Awareness Training
 
-To foster a culture of security, Green Orbit Digital requires all employees to participate in mandatory security awareness training. This training should be completed as part of the onboarding process and refreshed regularly to ensure up-to-date knowledge of emerging threats and security practices.
+To foster a culture of security, Impact Orbit Creative Group requires all employees to participate in mandatory security awareness training. This training should be completed as part of the onboarding process and refreshed regularly to ensure up-to-date knowledge of emerging threats and security practices.
 
 The training programme will cover:
 
@@ -59,7 +59,7 @@ Incident Response: Procedures for reporting potential security threats or incide
 
 1. Security Policies and Procedures
 
-All employees must be familiar with and adhere to Green Orbit Digital’s security policies, which are designed to protect company data and assets. Key policies include:
+All employees must be familiar with and adhere to Impact Orbit Creative Group’s security policies, which are designed to protect company data and assets. Key policies include:
 
 Password Management Policy: Guidelines on creating strong, unique passwords and using 1Password for password storage.
 
@@ -93,7 +93,7 @@ Data Encryption: Sensitive company data should be encrypted both in transit and 
 
 1. Reporting Security Incidents
 
-Green Orbit Digital encourages a proactive approach to security, where employees feel empowered to report any potential security incidents or concerns. All employees must:
+Impact Orbit Creative Group encourages a proactive approach to security, where employees feel empowered to report any potential security incidents or concerns. All employees must:
 
 Report Suspicious Activity: Immediately report any suspicious emails, communications, or activities to the IT department or the designated security officer.
 
@@ -103,7 +103,7 @@ Cooperate with Investigations: Employees must cooperate with any investigations 
 
 1. Continuous Improvement
 
-Security awareness is not a one-time activity but an ongoing process. Green Orbit Digital will continuously assess the effectiveness of our security awareness programme and make improvements based on:
+Security awareness is not a one-time activity but an ongoing process. Impact Orbit Creative Group will continuously assess the effectiveness of our security awareness programme and make improvements based on:
 
 Regular Training Updates: Training content will be regularly updated to address emerging threats and the latest security trends.
 
@@ -117,7 +117,7 @@ It is the responsibility of all employees to comply with this Security Awareness
 
 1. Conclusion
 
-Security awareness is essential to protecting the confidentiality, integrity, and availability of Green Orbit Digital’s information and assets. By actively participating in training, adhering to security policies, and promoting a culture of vigilance, every employee plays a crucial role in safeguarding the company from cyber threats. We are committed to ensuring that security awareness remains a core part of our organisational culture, and we will continue to improve our practices to mitigate risks and enhance the overall security posture of the company.
+Security awareness is essential to protecting the confidentiality, integrity, and availability of Impact Orbit Creative Group’s information and assets. By actively participating in training, adhering to security policies, and promoting a culture of vigilance, every employee plays a crucial role in safeguarding the company from cyber threats. We are committed to ensuring that security awareness remains a core part of our organisational culture, and we will continue to improve our practices to mitigate risks and enhance the overall security posture of the company.
 
 ---
 title: "Security Awareness"

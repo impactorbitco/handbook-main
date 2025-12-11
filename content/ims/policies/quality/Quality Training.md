@@ -4,11 +4,11 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
-GRI Disclosures: 404-1 Average hours of training per year per employee (https://www.notion.so/404-1-Average-hours-of-training-per-year-per-employee-1dad6625c6798013aeccd679301d2315?pvs=21)
+GRI Disclosures: 404-1
 ID: POL-166
-IMS: Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21)
+IMS: Quality Management System
 Last edited time: 7 October 2025 18:22
-Parent item: Training and Development Policy (Training%20and%20Development%20Policy%201c0d6625c6798171873cded3ba2b4463.md)
+Parent item: Training and Development Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

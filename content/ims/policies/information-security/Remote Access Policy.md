@@ -5,9 +5,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-41
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 19:14
-Parent item: Remote Work & BYOD Policy (Remote%20Work%20&%20BYOD%20Policy%201e2d6625c679803ba8b8cb33aadd132e.md)
+Parent item: Remote Work & BYOD Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

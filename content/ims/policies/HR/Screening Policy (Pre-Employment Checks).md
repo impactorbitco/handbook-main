@@ -1,10 +1,6 @@
 ---
 title: Screening Policy (Pre-Employment Checks)
 weight: 10
----
-
-# Screening Policy (Pre-Employment Checks)
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,8 +11,7 @@ Last edited time: 7 October 2025 17:29
 Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
 Status: Not started
 Version Number: 1.1
-
-# Screening Policy (Pre-Employment Checks)
+---
 
 ## Overview
 

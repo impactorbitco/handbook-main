@@ -5,9 +5,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 22 April 2025 17:31
 ID: POL-4
-IMS: Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21)
+IMS: Quality Management System
 Last edited time: 7 October 2025 17:10
-Parent item: Returns Policy (Returns%20Policy%20a3e5bd5d10f94319b860bdb49a854ac0.md)
+Parent item: Returns Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

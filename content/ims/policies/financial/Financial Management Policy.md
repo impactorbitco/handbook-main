@@ -5,22 +5,15 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:41
 ID: POL-93
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 17:38
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
-Sub-item: Expense Policy (Expense%20Policy%2014fd6625c67980ef9fd4f6459857169e.md),
-  Financial Control & Reporting Policy (Financial%20Control%20&%20Reporting%20Policy%201c0d6625c679811e8d73d325c8b55069.md),
-  Cash management policy (Cash%20management%20policy%201c0d6625c679819280a1c281414f9358.md),
-  Green Investment Policy (Green%20Investment%20Policy%201dbd6625c679803d8fbadeaedf27c9b8.md),
-  Pay Advances (Pay%20Advances%201c0d6625c679819a893fee3da527a2bb.md), Travel & Expense
-  Policies (Travel%20&%20Expense%20Policies%201ebd6625c67981fcada8f3e89c14ed7c.md),
-  Accounting (Accounting%201c0d6625c67981ec901ac71bca7f6772.md), Costing and Valuation
-  Policy (Costing%20and%20Valuation%20Policy%201c0d6625c67981b68005e08c7ab2c6e8.md)
+Sub-item: Expense Policy, Cash management policy, Green Investment Policy, Pay Advances,Travel & Expense
+  Policies, Accounting, Costing and Valuation Policy
 Version Number: 1.1
 weight: 10
 ---
-# Financial Management Policy
 
 **Policy Statement:**
 Green Orbit Digital is committed to sound financial management practices to ensure accountability, transparency, and prudent use of resources. This policy outlines the procedures for managing the finances of Green Orbit Digital in a responsible manner.

@@ -14,11 +14,11 @@ Version Number: 1.1
 weight: 10
 ---
 
-Green Orbit Digital is committed to maintaining the highest standards of data quality across all operations. This policy establishes the framework for ensuring data accuracy, reliability, and integrity in alignment with our ISO 9001:2015 quality management system.
+Impact Orbit Creative Group is committed to maintaining the highest standards of data quality across all operations. This policy establishes the framework for ensuring data accuracy, reliability, and integrity in alignment with our ISO 9001:2015 quality management system.
 
 ## Purpose and Scope
 
-This policy applies to all data managed within Green Orbit Digital's systems and processes. It ensures that data is accurate, complete, consistent, and reliable for decision-making and operational purposes.
+This policy applies to all data managed within Impact Orbit Creative Group's systems and processes. It ensures that data is accurate, complete, consistent, and reliable for decision-making and operational purposes.
 
 ## Data Quality Principles
 

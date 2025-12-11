@@ -5,27 +5,25 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-18
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21),
-  Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21)
+IMS: Occupational Health and Safety Management, Quality Management System
 Last edited time: 7 October 2025 17:27
-Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
+Parent item: Fair Employment and Labour Standards Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Flexitime Policy
 
 **1. Introduction**
 
-At Green Orbit Digital, we value the well-being and work-life balance of our employees. We understand that everyone has unique scheduling needs and responsibilities outside of work. Therefore, we offer a flexitime policy to provide flexibility in work hours while ensuring that business needs are met.
+At Impact Orbit Creative Group, we value the well-being and work-life balance of our employees. We understand that everyone has unique scheduling needs and responsibilities outside of work. Therefore, we offer a flexitime policy to provide flexibility in work hours while ensuring that business needs are met.
 
 **2. Eligibility**
 
-All full-time employees of Green Orbit Digital are eligible to participate in the flexitime program. Part-time employees may also be considered for flexible working arrangements based on their role and workload.
+All full-time employees of Impact Orbit Creative Group are eligible to participate in the flexitime program. Part-time employees may also be considered for flexible working arrangements based on their role and workload.
 
 **3. Core Hours**
 
-While employees have flexibility in their work schedules, there are core hours during which they are expected to be available for meetings, collaboration, and communication. The core hours for Green Orbit Digital are from 10:00 a.m. to 4:00 p.m. Employees are required to be present or accessible during these core hours unless otherwise agreed upon with their supervisor.
+While employees have flexibility in their work schedules, there are core hours during which they are expected to be available for meetings, collaboration, and communication. The core hours for Impact Orbit Creative Group are from 10:00 a.m. to 4:00 p.m. Employees are required to be present or accessible during these core hours unless otherwise agreed upon with their supervisor.
 
 **4. Flexitime Arrangements**
 
@@ -61,7 +59,7 @@ This flexitime policy will be reviewed periodically to assess its effectiveness 
 
 **12. Approval**
 
-This flexitime policy has been approved by the management of Green Orbit Digital and is effective as of [Effective Date]. All employees are expected to familiarize themselves with the policy and comply with its guidelines.
+This flexitime policy has been approved by the management of Impact Orbit Creative Group and is effective as of [Effective Date]. All employees are expected to familiarize themselves with the policy and comply with its guidelines.
 
 **Signed:**
 
@@ -73,7 +71,7 @@ This flexitime policy has been approved by the management of Green Orbit Digital
 
 **Acknowledgment of Receipt:**
 
-I acknowledge that I have received a copy of the Flexitime Policy of Green Orbit Digital and understand my responsibilities under this policy.
+I acknowledge that I have received a copy of the Flexitime Policy of Impact Orbit Creative Group and understand my responsibilities under this policy.
 
 Employee Name: _______________________
 

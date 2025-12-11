@@ -1,10 +1,6 @@
 ---
 title: Sick Leave Policy
 weight: 10
----
-
-# Sick Leave Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -16,6 +12,7 @@ Last edited time: 8 October 2025 04:30
 Parent item: Leave of Absence Policy (Leave%20of%20Absence%20Policy%2027ed6625c67980b6b86dea63482c8ea9.md)
 Status: Not started
 Version Number: 1.1
+---
 
 Team members are entitled to Statutory Sick Pay (“SSP”)for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three “waiting” days.
 

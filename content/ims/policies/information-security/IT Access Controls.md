@@ -1,5 +1,5 @@
-# IT Access Controls
-
+---
+title: IT Access Controls
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: Yes
@@ -10,12 +10,11 @@ Last edited time: 7 October 2025 19:12
 Parent item: Data Handling & Security Policy (Data%20Handling%20&%20Security%20Policy%201c0d6625c679812a8c51c544b53c58b7.md)
 Status: Not started
 Version Number: 1.1
-
-IT Access Controls Policy
+---
 
 1. Introduction
 
-At Green Orbit Digital, we recognise the importance of controlling access to our IT systems and data to protect the integrity, confidentiality, and availability of sensitive information. Effective access control is essential for safeguarding business assets, complying with data protection regulations, and ensuring that only authorised individuals can access critical resources.
+At Impact Orbit Creative Group, we recognise the importance of controlling access to our IT systems and data to protect the integrity, confidentiality, and availability of sensitive information. Effective access control is essential for safeguarding business assets, complying with data protection regulations, and ensuring that only authorised individuals can access critical resources.
 
 This document outlines our approach to IT access controls, providing a clear framework for managing user access rights, monitoring access activities, and mitigating the risks associated with unauthorized access.
 
@@ -35,11 +34,11 @@ Provide clear guidelines on how to handle access requests, reviews, and revocati
 
 1. Scope
 
-This policy applies to all employees, contractors, consultants, third-party service providers, and anyone else who requires access to Green Orbit Digital's IT infrastructure, systems, networks, and data. This includes both digital and physical access to organisational resources.
+This policy applies to all employees, contractors, consultants, third-party service providers, and anyone else who requires access to Impact Orbit Creative Group's IT infrastructure, systems, networks, and data. This includes both digital and physical access to organisational resources.
 
 1. Access Control Principles
 
-Green Orbit Digital follows the following principles in managing access to IT systems and resources:
+Impact Orbit Creative Group follows the following principles in managing access to IT systems and resources:
 
 Least Privilege: Users are granted only the minimum level of access required to perform their job responsibilities. This reduces the potential impact of any unauthorized access.
 
@@ -51,7 +50,7 @@ Role-Based Access Control (RBAC): Access is assigned based on job roles and resp
 
 1. User Account Management
 
-To ensure access controls are properly implemented, Green Orbit Digital follows the following user account management procedures:
+To ensure access controls are properly implemented, Impact Orbit Creative Group follows the following user account management procedures:
 
 User Authentication: All users must authenticate through strong means, including but not limited to username and password combinations, multi-factor authentication (MFA), or biometrics, depending on the system and sensitivity of the data involved.
 
@@ -65,7 +64,7 @@ Temporary Access: Temporary access can be granted in exceptional cases, such as 
 
 1. Access Control Mechanisms
 
-Green Orbit Digital employs the following access control mechanisms to protect systems and data:
+Impact Orbit Creative Group employs the following access control mechanisms to protect systems and data:
 
 Authentication: Multi-factor authentication (MFA) is required for access to critical systems, especially for remote access. Passwords must meet minimum complexity standards (e.g., a combination of letters, numbers, and special characters) and must be changed regularly.
 
@@ -79,7 +78,7 @@ Role-Based Access Control (RBAC): Access permissions are assigned based on an in
 
 1. Access Review and Audits
 
-Green Orbit Digital conducts regular reviews and audits of user access rights to ensure that:
+Impact Orbit Creative Group conducts regular reviews and audits of user access rights to ensure that:
 
 Access Permissions are Appropriate: Access rights are reviewed periodically, especially after role changes, department transfers, or when there are changes in job responsibilities.
 
@@ -91,7 +90,7 @@ Audit Trails: Detailed logs of user activities (e.g., login times, systems acces
 
 Access rights must be revoked promptly in the following scenarios:
 
-Termination of Employment: When an employee leaves Green Orbit Digital, all access to company systems must be terminated immediately. The user’s access credentials will be disabled or deleted.
+Termination of Employment: When an employee leaves Impact Orbit Creative Group, all access to company systems must be terminated immediately. The user’s access credentials will be disabled or deleted.
 
 Change in Role or Responsibilities: If a user’s role changes and their new role does not require the same level of access, their access rights should be adjusted accordingly.
 
@@ -99,7 +98,7 @@ Breach of Security: If an employee or contractor is found to have violated secur
 
 1. Remote Access and Third-Party Access
 
-For employees and third parties requiring remote access to Green Orbit Digital’s systems:
+For employees and third parties requiring remote access to Impact Orbit Creative Group’s systems:
 
 Virtual Private Network (VPN): Remote access must be secured through a company-approved VPN to ensure encrypted communication with the organisation’s network.
 
@@ -125,7 +124,7 @@ Failure to comply with this IT Access Controls Policy may result in disciplinary
 
 1. Conclusion
 
-Effective access control is critical for the security of Green Orbit Digital’s information and systems. By following the guidelines outlined in this policy, we aim to prevent unauthorized access, protect sensitive data, and maintain compliance with relevant regulations. It is the responsibility of all employees, contractors, and third parties to adhere to these access control measures to help safeguard the organisation’s IT infrastructure.
+Effective access control is critical for the security of Impact Orbit Creative Group’s information and systems. By following the guidelines outlined in this policy, we aim to prevent unauthorized access, protect sensitive data, and maintain compliance with relevant regulations. It is the responsibility of all employees, contractors, and third parties to adhere to these access control measures to help safeguard the organisation’s IT infrastructure.
 
 ---
 title: "IT Access Controls"

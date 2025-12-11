@@ -1,22 +1,17 @@
 ---
 title: Information Systems Acquisition, Development, and
 weight: 10
----
-
-# Information Systems Acquisition, Development, and Maintenance Policy
-
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 27 April 2025 19:52
 ID: POL-226
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 19:18
-Parent item: Data Lifecycle Management Policy (Data%20Lifecycle%20Management%20Policy%201c0d6625c67981848e13e92440a5702f.md)
+Parent item: Data Lifecycle Management Policy
 Status: Not started
-Sub-item: Equipment Security Policy (Equipment%20Security%20Policy%201e2d6625c67980a48467c6ec2b9e5a3a.md), Equipment policy (Equipment%20policy%201c0d6625c67981d4af86e03cb42dcd5d.md)
+Sub-item: Equipment Security Policy
 Version Number: 1.1
-
-# Information Systems Acquisition, Development, and Maintenance Policy
+---
 
 ## 1. Purpose
 

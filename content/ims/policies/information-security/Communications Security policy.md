@@ -5,14 +5,14 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-238
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System 
 Last edited time: 7 October 2025 19:19
-Parent item: Data Handling & Security Policy (Data%20Handling%20&%20Security%20Policy%201c0d6625c679812a8c51c544b53c58b7.md)
+Parent item: Data Handling & Security Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Communications Security policy
+
 # 1. Purpose
 
 This Communications Security Policy establishes guidelines for secure communications at Green Orbit Digital, ensuring the confidentiality, integrity, and availability of information exchanged through various communication channels.

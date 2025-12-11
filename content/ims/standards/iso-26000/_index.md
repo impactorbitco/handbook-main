@@ -1,8 +1,16 @@
 ---
-title: Social Responsibility Management System
+title: ISO-26000
+iso_number: '26000'
+acronym: SRMS
+description: ISO 26000:2015-aligned SRMS
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-### ISO 26000 Social Responsibility Framework: Outline for Green Orbit Digital
+
+# Social Responsibility Framework
 
 **1. Introduction**
 

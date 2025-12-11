@@ -14,9 +14,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-| **Policy Number** | NOT/WEB/2025/1142-V1.1 | **Date of Last Revision** |  |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** |  |
 
 **Introduction**
 
@@ -28,7 +25,6 @@ Breach of the data protection legislation, including the GDPR rules can cause di
 
 If you are in any doubt about what you can or cannot disclose and to whom, do not disclose the personal information until you have sought further advice from **the Company’s CHOOSE ONE: [Data Protection Officer - INSERT NAME AND CONTACT DETAILS ] OR [Data Representative - INSERT NAME AND CONTACT DETAILS ].
 This policy does not form part of a contract of employment. However, it is mandatory that all employees, workers or contractors must read, understand and comply with the content of this policy and you must attend associated training relating to its content and operation. Failure to adhere to this policy is likely to be regarded as a serious disciplinary matter and will be dealt with under the Company’s disciplinary rules and procedures.
-
 **Definitions**
 
 Data Subject: a living individual.

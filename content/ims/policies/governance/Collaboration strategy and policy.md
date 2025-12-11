@@ -5,14 +5,14 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 23 April 2025 09:49
 ID: POL-101
-IMS: Collaborative Business Relationship Management (https://www.notion.so/Collaborative-Business-Relationship-Management-1b5d6625c67980dc8b2dc08864940c12?pvs=21)
+IMS: Collaborative Business Relationship Management
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Collaboration strategy and policy
+
 ## 1. Purpose and Scope
 
 This policy establishes the framework for effective collaboration at Green Orbit Digital, ensuring sustainable partnerships and aligned objectives across all stakeholders.

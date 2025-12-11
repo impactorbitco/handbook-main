@@ -4,29 +4,25 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
-GRI Disclosures: 415-1 Political contributions (https://www.notion.so/415-1-Political-contributions-1dad6625c67980b2ba15d94179b2505f?pvs=21),
-  411-1 Incidents of violations involving rights of indigenous peoples (https://www.notion.so/411-1-Incidents-of-violations-involving-rights-of-indigenous-peoples-1dad6625c6798049a1edd8e5ae380385?pvs=21)
+GRI Disclosures: 415-1, 411-1
 ID: POL-125
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 17:36
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Donation Policy Framework
-
-*Last updated: July 2025*
 
 ## 🎯 Purpose
 
-Green Orbit Digital is committed to using our resources—including surplus products, digital skills, and financial contributions—to support charitable organisations aligned with our mission: advancing sustainable, inclusive, and digitally empowered futures, especially within the space sector and local communities.
+Impact Orbit Creative Group is committed to using our resources—including surplus products, digital skills, and financial contributions—to support charitable organisations aligned with our mission: advancing sustainable, inclusive, and digitally empowered futures, especially within the space sector and local communities.
 
 ---
 
 ## 🔍 Scope
 
-This policy covers all forms of charitable giving by Green Orbit Digital, including:
+This policy covers all forms of charitable giving by Impact Orbit Creative Group, including:
 
 - Surplus product redistribution
 - Monetary donations

@@ -1,5 +1,5 @@
-# Password Management Policy
-
+---
+title: Password Management Policy
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -13,11 +13,10 @@ Status: Not started
 Version Number: 1.1
 
 ---
-title: "Password Management Policy"
 
 ## 1. Introduction
 
-At Green Orbit Digital, the protection of our sensitive business data and personal information relies heavily on secure password practices. With the increasing threat of cybercrime, particularly the harvesting of usernames, passwords, and financial details, strong password management is essential. Criminals exploit weak passwords to launch attacks, steal identities, and disrupt operations.
+At Impact Orbit Creative Group, the protection of our sensitive business data and personal information relies heavily on secure password practices. With the increasing threat of cybercrime, particularly the harvesting of usernames, passwords, and financial details, strong password management is essential. Criminals exploit weak passwords to launch attacks, steal identities, and disrupt operations.
 
 This Password Policy outlines our approach to creating, managing, storing, and sharing passwords securely. It combines best practice guidelines with our mandatory use of **1Password**, our trusted password management platform.
 
@@ -26,13 +25,13 @@ This Password Policy outlines our approach to creating, managing, storing, and s
 This policy is designed to:
 
 - Ensure strong, secure password practices are consistently followed.
-- Protect Green Orbit Digital’s digital assets, systems, and sensitive information.
+- Protect Impact Orbit Creative Group’s digital assets, systems, and sensitive information.
 - Establish clear guidelines for generating, managing, storing, and sharing passwords.
 - Promote secure behaviours that mitigate the risk of password-related breaches.
 
 ## 3. Scope
 
-This policy applies to all employees, contractors, consultants, and third parties who access Green Orbit Digital’s systems, networks, and data—whether using company-issued or personal devices for work purposes.
+This policy applies to all employees, contractors, consultants, and third parties who access Impact Orbit Creative Group’s systems, networks, and data—whether using company-issued or personal devices for work purposes.
 
 ## 4. Understanding the Importance of Password Security
 
@@ -99,7 +98,7 @@ MFA significantly strengthens account security by requiring a second method of v
 ## 12. Training and Awareness
 
 - **Employee Training**: All employees must complete training on secure password creation, 1Password usage, and overall password hygiene.
-- **Continuous Awareness**: Green Orbit Digital will provide regular updates, reminders, and best practice guidance regarding password security.
+- **Continuous Awareness**: Impact Orbit Creative Group will provide regular updates, reminders, and best practice guidance regarding password security.
 
 ## 13. Compliance and Auditing
 
@@ -112,7 +111,7 @@ This policy will be reviewed **annually**, or more frequently if necessary, in r
 
 ## 15. Conclusion
 
-By following this Password Policy, Green Orbit Digital strengthens its defence against cyber threats and protects the integrity of our operations. The adoption of 1Password ensures that passwords are stored securely, shared safely, and managed efficiently across the organisation.
+By following this Password Policy, Impact Orbit Creative Group strengthens its defence against cyber threats and protects the integrity of our operations. The adoption of 1Password ensures that passwords are stored securely, shared safely, and managed efficiently across the organisation.
 
 ---
 
@@ -122,13 +121,13 @@ By following this Password Policy, Green Orbit Digital strengthens its defence a
 
 [Position]
 
-Green Orbit Digital
+Impact Orbit Creative Group
 
 **Date:**
 
 [Approval Date]
 
-Here’s a **comprehensive Password Policy** aligned with **IASME Cyber Essentials Step 9 (Use of Passwords)**, **NCSC guidance**, and **ISO 27001 Annex A.9 (Access Control)**. It is written for organisational use — suitable for inclusion in Green Orbit Digital’s information security documentation or Cyber Essentials submission.
+Here’s a **comprehensive Password Policy** aligned with **IASME Cyber Essentials Step 9 (Use of Passwords)**, **NCSC guidance**, and **ISO 27001 Annex A.9 (Access Control)**. It is written for organisational use — suitable for inclusion in Impact Orbit Creative Group’s information security documentation or Cyber Essentials submission.
 
 ---
 
@@ -146,7 +145,7 @@ Here’s a **comprehensive Password Policy** aligned with **IASME Cyber Essentia
 
 ## **1. Purpose**
 
-This policy defines how Green Orbit Digital manages passwords to protect access to systems, applications, and data.
+This policy defines how Impact Orbit Creative Group manages passwords to protect access to systems, applications, and data.
 
 It ensures compliance with **IASME Cyber Essentials**, **UK GDPR**, and **NCSC security principles**, and supports the transition toward **passwordless authentication** where technically feasible.
 
@@ -156,7 +155,7 @@ It ensures compliance with **IASME Cyber Essentials**, **UK GDPR**, and **NCSC s
 
 This policy applies to:
 
-- All employees, contractors, and third parties with access to Green Orbit Digital systems, networks, or cloud services.
+- All employees, contractors, and third parties with access to Impact Orbit Creative Group systems, networks, or cloud services.
 - All user accounts (local, cloud, and federated) and privileged accounts.
 - All devices including desktops, laptops, mobile devices, and servers.
 
@@ -221,7 +220,7 @@ The following controls must be implemented on all systems where feasible:
 
 ## **7. Passwordless Authentication**
 
-Green Orbit Digital actively supports a **transition to passwordless authentication** technologies (e.g., FIDO2, biometrics, passkeys).
+Impact Orbit Creative Group actively supports a **transition to passwordless authentication** technologies (e.g., FIDO2, biometrics, passkeys).
 
 Where passwordless solutions are deployed:
 
@@ -306,4 +305,4 @@ All updates must be approved by the **Information Security Lead** and **Managing
 
 ---
 
-Would you like me to format this into a **company-branded policy document (Word or PDF)** for Green Orbit Digital — complete with sections for approval signatures, version control, and Cyber Essentials references?
+Would you like me to format this into a **company-branded policy document (Word or PDF)** for Impact Orbit Creative Group — complete with sections for approval signatures, version control, and Cyber Essentials references?

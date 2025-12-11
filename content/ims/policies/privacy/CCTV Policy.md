@@ -5,7 +5,7 @@ Company Handbook: false
 Created time: 30 September 2025 16:11
 ID: POL-247
 Last edited time: 7 October 2025 18:46
-Parent item: Privacy Policy (Privacy%20Policy%201c0d6625c679818489a7c77fb4454a31.md)
+Parent item: Privacy Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

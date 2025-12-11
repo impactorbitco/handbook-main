@@ -4,29 +4,78 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 7 October 2025 18:07
 ID: POL-273
-IMS: Energy Management System (https://www.notion.so/Energy-Management-System-1b5d6625c6798099a75ad3638967935d?pvs=21),
-  Facility Management System (https://www.notion.so/Facility-Management-System-1b5d6625c67980fc8911cf753d275394?pvs=21),
-  IT Service Management System (https://www.notion.so/IT-Service-Management-System-1b5d6625c67980c9a30bd487bffe9a47?pvs=21),
-  Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21),
-  Supply Chain Security Management (https://www.notion.so/Supply-Chain-Security-Management-1b5d6625c6798010a208eb0e026912ab?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Knowledge Management System (https://www.notion.so/Knowledge-Management-System-1b5d6625c67980c3b86fc38778e465bb?pvs=21),
-  Assets Management System (https://www.notion.so/Assets-Management-System-1b5d6625c6798030adf8e68571961f1e?pvs=21),
-  Collaborative Business Relationship Management (https://www.notion.so/Collaborative-Business-Relationship-Management-1b5d6625c67980dc8b2dc08864940c12?pvs=21),
-  UN Global Compact (https://www.notion.so/UN-Global-Compact-1b5d6625c67980a3b175c5a15d87b249?pvs=21),
-  Compliance Management System (https://www.notion.so/Compliance-Management-System-1b5d6625c679802ba50ee129ca1d1028?pvs=21),
-  Risk Management System (https://www.notion.so/Risk-Management-System-1b6d6625c67980bdb161f333b4bd4c00?pvs=21),
-  Innovation Management System (https://www.notion.so/Innovation-Management-System-1b5d6625c67980ff851afbbabdf60f0d?pvs=21),
-  Documentation and Records Management (https://www.notion.so/Documentation-and-Records-Management-1b5d6625c6798087831bf44f4c4550a4?pvs=21),
-  Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21),
-  Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21),
-  Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21),
-  Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21),
-  Event Sustainability Management System (https://www.notion.so/Event-Sustainability-Management-System-1e2d6625c679808fa8a2f0412ac81423?pvs=21)
+IMS: Energy Management System, Facility Management System, IT Service Management System, Business Continuity Management System, Supply Chain Security Management, Social Responsibility Management System, Knowledge Management System, Assets Management System, Collaborative Business Relationship Management, UN Global Compact, Compliance Management System, Risk Management System, Innovation Management System, Documentation and Records Management, Environmental Management System, Quality Management System, Occupational Health and Safety Management, Information Security Management System, Event Sustainability Management System
 Last edited time: 7 October 2025 18:34
 Parent item: Integrated Management System Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Corporate Governance & Accountability Policy
+
+## Introduction
+
+Impact Orbit Creative Group is committed to maintaining high standards of corporate governance, accountability, and ethical conduct across all aspects of our operations. This policy outlines our framework for governance, oversight, and responsibility to ensure transparency, compliance, and sustainable business practices.
+
+## Purpose
+
+The purpose of this policy is to:
+
+- Provide clear principles for corporate governance and accountability.
+- Define roles, responsibilities, and reporting lines within the organization.
+- Promote transparency, integrity, and ethical decision-making.
+- Support compliance with legal, regulatory, and industry standards.
+
+## Scope
+
+This policy applies to:
+
+- The Board of Directors, senior management, and all employees.
+- Contractors, consultants, and partners acting on behalf of the organization.
+- Governance structures, decision-making processes, and accountability mechanisms across all business units.
+
+## Key Principles
+
+1. **Transparency and Reporting**  
+   - Maintain open and accurate reporting of financial, operational, and compliance information.  
+   - Ensure timely communication with stakeholders regarding governance practices and performance.
+
+2. **Roles and Responsibilities**  
+   - Clearly define duties and accountabilities at all levels of the organization.  
+   - Establish oversight structures to monitor adherence to policies and ethical standards.
+
+3. **Ethical Conduct**  
+   - Promote ethical behaviour in all business dealings.  
+   - Ensure that conflicts of interest are disclosed and appropriately managed.
+
+4. **Compliance and Risk Management**  
+   - Implement processes to ensure compliance with relevant laws, regulations, and internal standards.  
+   - Identify, assess, and manage risks associated with governance and organizational accountability.
+
+5. **Decision-Making and Oversight**  
+   - Ensure decisions are made with appropriate authority, documentation, and consideration of legal and ethical obligations.  
+   - Provide mechanisms for internal review, audit, and corrective action where necessary.
+
+6. **Continuous Improvement**  
+   - Regularly review governance structures, policies, and procedures to ensure effectiveness.  
+   - Incorporate feedback from audits, stakeholders, and best practice standards to strengthen accountability.
+
+## Responsibilities
+
+- **Board of Directors**: Ensure governance principles are embedded across the organization and oversee compliance with this policy.  
+- **Senior Management**: Implement governance practices within their areas of responsibility and ensure employees adhere to accountability standards.  
+- **Employees and Partners**: Follow governance policies, act ethically, and report any concerns regarding misconduct or non-compliance.  
+- **Governance/Compliance Department**: Monitor adherence to policies, conduct regular audits, provide guidance, and report findings to senior management.
+
+## Review and Update
+
+- This policy will be reviewed annually or as needed to reflect changes in legislation, business operations, or governance best practices.  
+- Updates will be communicated to all employees, contractors, and relevant stakeholders.
+
+## Approval
+
+This policy is approved by the highest level of management at Impact Orbit Creative Group, reflecting our commitment to strong corporate governance, transparency, and accountability.
+
+## Contact Information
+
+For questions, guidance, or reporting concerns related to corporate governance and accountability, please contact:  
+**Contact Person/Department:** [Insert appropriate contact details]

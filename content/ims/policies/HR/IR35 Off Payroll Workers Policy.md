@@ -18,15 +18,15 @@ weight: 10
 
 **1. Introduction**
 
-This policy outlines Green Orbit Digital's approach to compliance with the Off-Payroll Working Rules, commonly known as IR35, as set out by HM Revenue and Customs (HMRC). The purpose of this policy is to ensure that all engagements with off-payroll workers are assessed and managed in accordance with IR35 legislation and any associated guidance.
+This policy outlines Impact Orbit Creative Group's approach to compliance with the Off-Payroll Working Rules, commonly known as IR35, as set out by HM Revenue and Customs (HMRC). The purpose of this policy is to ensure that all engagements with off-payroll workers are assessed and managed in accordance with IR35 legislation and any associated guidance.
 
 **2. Scope**
 
-This policy applies to all individuals engaged by Green Orbit Digital who provide their services through an intermediary, such as a personal service company (PSC), and are therefore potentially subject to the Off-Payroll Working Rules (IR35).
+This policy applies to all individuals engaged by Impact Orbit Creative Group who provide their services through an intermediary, such as a personal service company (PSC), and are therefore potentially subject to the Off-Payroll Working Rules (IR35).
 
 **3. Compliance Responsibilities**
 
-- **Green Orbit Digital:** It is the responsibility of Green Orbit Digital to assess the employment status of off-payroll workers and determine whether IR35 applies to their engagement. This assessment will be conducted using reasonable care and in accordance with HMRC guidelines.
+- **Impact Orbit Creative Group:** It is the responsibility of Impact Orbit Creative Group to assess the employment status of off-payroll workers and determine whether IR35 applies to their engagement. This assessment will be conducted using reasonable care and in accordance with HMRC guidelines.
 - **Managers and Hiring Teams:** Managers and hiring teams responsible for engaging off-payroll workers must work closely with the HR and Finance departments to ensure that all engagements comply with IR35 legislation. They must provide all necessary information to facilitate the status determination process.
 - **HR Department:** The HR department is responsible for overseeing the status determination process, ensuring that all relevant information is obtained, and ensuring that determinations are made in a timely and accurate manner.
 
@@ -34,16 +34,16 @@ This policy applies to all individuals engaged by Green Orbit Digital who provid
 
 - **Initial Assessment:** When considering engaging an off-payroll worker, the hiring manager must provide the HR department with a detailed description of the role and the services to be provided. The HR department will then conduct an initial assessment to determine whether the engagement falls within the scope of IR35.
 - **Status Determination Statement (SDS):** Based on the initial assessment, the HR department will issue a Status Determination Statement (SDS) to the hiring manager, clearly stating whether IR35 applies to the engagement and the reasons for this determination.
-- **Appeals Process:** Off-payroll workers who disagree with the SDS issued by Green Orbit Digital have the right to appeal. The appeals process will be managed by the HR department, and the decision of the appeal panel will be final.
+- **Appeals Process:** Off-payroll workers who disagree with the SDS issued by Impact Orbit Creative Group have the right to appeal. The appeals process will be managed by the HR department, and the decision of the appeal panel will be final.
 
 **5. Implementation**
 
 - **Compliance Monitoring:** The HR department will monitor all engagements with off-payroll workers to ensure ongoing compliance with IR35 legislation. Any changes to working arrangements or roles that may affect IR35 status will be assessed promptly.
-- **Training and Awareness:** Green Orbit Digital will provide training and guidance to managers, hiring teams, and off-payroll workers to raise awareness of IR35 legislation and their responsibilities under this policy.
+- **Training and Awareness:** Impact Orbit Creative Group will provide training and guidance to managers, hiring teams, and off-payroll workers to raise awareness of IR35 legislation and their responsibilities under this policy.
 
 **6. Record-Keeping**
 
-- **Documentation:** Green Orbit Digital will maintain accurate records of all status determinations, appeals, and associated documentation in accordance with legal requirements.
+- **Documentation:** Impact Orbit Creative Group will maintain accurate records of all status determinations, appeals, and associated documentation in accordance with legal requirements.
 
 **7. Review and Update**
 
@@ -80,19 +80,19 @@ title: "IR35 Off Payroll Workers Policy"
 
 ## **1. Introduction and Purpose**
 
-This policy sets out Green Orbit Digital’s approach to complying with the Off-Payroll Working Rules, commonly known as **IR35**, as defined by HM Revenue and Customs (HMRC). The objective is to ensure that any individual providing services through an intermediary—such as a personal service company (PSC)—is assessed appropriately to determine whether they should be treated as an employee for tax purposes.
+This policy sets out Impact Orbit Creative Group’s approach to complying with the Off-Payroll Working Rules, commonly known as **IR35**, as defined by HM Revenue and Customs (HMRC). The objective is to ensure that any individual providing services through an intermediary—such as a personal service company (PSC)—is assessed appropriately to determine whether they should be treated as an employee for tax purposes.
 
 ---
 
 ## **2. Scope**
 
-This policy applies to all off-payroll workers engaged by Green Orbit Digital, including those operating via intermediaries, where there is a requirement to determine employment status in accordance with IR35 legislation.
+This policy applies to all off-payroll workers engaged by Impact Orbit Creative Group, including those operating via intermediaries, where there is a requirement to determine employment status in accordance with IR35 legislation.
 
 ---
 
 ## **3. Roles and Responsibilities**
 
-### **3.1 Green Orbit Digital**
+### **3.1 Impact Orbit Creative Group**
 
 - Carry out employment status determinations using reasonable care and in accordance with HMRC guidance.
 - Issue a **Status Determination Statement (SDS)** to relevant parties.
@@ -132,7 +132,7 @@ Determinations will consider the full context of the engagement, including but n
 - Mutuality of obligation
 - Financial risk assumed by the contractor
 - Provision and use of equipment
-- Degree of integration into Green Orbit Digital’s business operations
+- Degree of integration into Impact Orbit Creative Group’s business operations
 
 ---
 
@@ -141,7 +141,7 @@ Determinations will consider the full context of the engagement, including but n
 If a worker disputes an SDS:
 
 1. The contractor must submit a written appeal detailing their grounds for disagreement.
-2. Green Orbit Digital will review the appeal within **45 calendar days**.
+2. Impact Orbit Creative Group will review the appeal within **45 calendar days**.
 3. A written outcome will be provided to the contractor.
 4. All challenges and responses will be documented and retained securely.
 

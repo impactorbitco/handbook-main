@@ -1,86 +1,85 @@
 ---
 title: Sustainable Materials Policy
 weight: 10
----
-
-# Sustainable Materials Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 24 March 2025 10:40
-GRI Disclosures: 301-1 Materials used by weight or volume (https://www.notion.so/301-1-Materials-used-by-weight-or-volume-1dad6625c679806a93f8f176d2d874e7?pvs=21), 3-1 Process to determine material topics (https://www.notion.so/3-1-Process-to-determine-material-topics-1dad6625c6798096821ef980815a487f?pvs=21)
+GRI Disclosures: 301-1, 3-1
 ID: POL-91
 Last edited time: 7 October 2025 15:46
-Parent item: Sustainability / Environmental Policy (Sustainability%20Environmental%20Policy%201c0d6625c6798155ad1af5cbca409855.md)
+Parent item: Sustainability / Environmental Policy
 Status: Not started
-UN Global Compact principles: Principle 9 (https://www.notion.so/Principle-9-1d8d6625c67980e8a896ee05761e3f9c?pvs=21)
+UN Global Compact principles: Principle 9
 Version Number: 1.1
+---
 
-# **Introduction**
+## Introduction
 
-At [Your Business Name], we recognize the importance of sustainability in the materials we use in our operations. This policy outlines our commitment to sourcing and using materials in a manner that is environmentally responsible, socially beneficial, and economically viable.
+At **Impact Orbit Creative Group**, we are committed to using materials in a manner that is environmentally responsible, socially beneficial, and economically viable. This policy defines our approach to sourcing, using, and managing materials sustainably across all business operations.
 
-**Scope**
+## Scope
 
-This policy applies to all materials sourced and used by [Your Business Name] in its business operations.
+This policy applies to all materials procured, sourced, and utilized across **Impact Orbit Creative Group**, including all subsidiaries and brands such as Green Orbit Digital, Green Orbit Space Communications & PR, and Green Orbit Academy.
 
-**Our Commitment**
+## Our Commitment
 
-1. **Sustainable Sourcing:** We commit to sourcing materials that are produced sustainably, considering:
+1. **Sustainable Sourcing**  
+   We prioritize sourcing materials produced with sustainability in mind, considering:
+   - Environmental impact of production and processing  
+   - Social and ethical practices of suppliers  
+   - Long-term availability and renewability of resources  
 
-- Environmental impact of material production.
-- Social and ethical practices of suppliers.
-- Long-term availability and renewability of resources.
+2. **Reduced Environmental Impact**  
+   We aim to minimize environmental harm by:
+   - Using recycled, upcycled, or renewable materials wherever possible  
+   - Reducing hazardous substances and pollutants in our materials  
+   - Applying energy-efficient and low-carbon methods in material handling  
 
-2. **Reduced Environmental Impact:** Our aim is to minimize the environmental impact of our materials by:
+3. **Waste Minimization**  
+   We actively reduce material waste through:
+   - Efficient material management and inventory practices  
+   - Reuse and recycling initiatives within our operations  
+   - Innovation-driven approaches to reduce material loss  
 
-- Prioritizing the use of recycled, upcycled, or renewable materials.
-- Reducing the use of hazardous substances and pollutants.
-- Employing energy-efficient and low-carbon methods in material processing.
+4. **Supplier Engagement**  
+   We collaborate with suppliers to enhance sustainability by:
+   - Clearly communicating our sustainability standards and expectations  
+   - Partnering on initiatives for sustainable material production and use  
+   - Evaluating supplier performance based on sustainability criteria  
 
-3. **Waste Minimization:** We are dedicated to reducing waste in our material usage through:
+5. **Continuous Improvement**  
+   We strive to improve our material sustainability practices by:
+   - Regularly reviewing and updating this policy  
+   - Keeping informed about emerging sustainable materials and technologies  
+   - Setting measurable targets and monitoring progress in sustainable material usage  
 
-- Implementing efficient material management and inventory practices.
-- Encouraging reuse and recycling of materials within our operations.
-- Seeking innovative solutions for waste reduction.
+6. **Transparency and Reporting**  
+   We ensure accountability and stakeholder engagement by:
+   - Reporting on progress, challenges, and achievements in sustainable material use  
+   - Disclosing sources and sustainability credentials of our materials  
+   - Engaging stakeholders in dialogue on sustainability initiatives  
 
-4. **Supplier Engagement:** We will work with our suppliers to encourage and support sustainable practices by:
+## Responsibilities
 
-- Communicating our sustainability standards and expectations.
-- Collaborating on initiatives for sustainable material production and use.
-- Evaluating supplier performance on sustainability criteria.
+- **Management**: Oversees enforcement of this policy and allocates necessary resources.  
+- **Procurement Department**: Sources sustainable materials and evaluates supplier compliance.  
+- **All Employees**: Expected to integrate sustainable practices in daily operations and support policy objectives.  
 
-5. **Continuous Improvement:** We commit to continually improving our use of sustainable materials by:
+## Compliance and Review
 
-- Regularly reviewing and updating our sustainable materials policy.
-- Staying informed about new sustainable materials and technologies.
-- Setting and reviewing targets for sustainable material usage.
+- All activities will comply with applicable environmental laws and regulations.  
+- This policy will be reviewed at least annually to ensure relevance and effectiveness.  
 
-6. **Transparency and Reporting:** We believe in transparency regarding our material sustainability practices and will:
+## Approval
 
-- Regularly report on our progress and challenges in sustainable material use.
-- Be open about the sources and sustainability credentials of our materials.
-- Engage with stakeholders on sustainability issues and initiatives.
+This policy has been approved by the executive management of **Impact Orbit Creative Group**, reflecting our ongoing commitment to sustainable material usage and responsible sourcing.
 
-**Responsibilities**
+## Contact Information
 
-- Management is responsible for enforcing this policy and providing the necessary resources.
-- The Procurement Department is tasked with sourcing sustainable materials and vetting suppliers.
-- All employees are encouraged to support and adhere to this policy in their daily activities.
+For questions or further information regarding this policy, please contact **[Sustainability Officer / Procurement Department]**.
 
-**Compliance and Review**
-
-- We will comply with all relevant environmental laws and regulations.
-- This policy will be reviewed annually to ensure its continued relevance and effectiveness.
-
-**Approval**
-
-This policy has been approved by the highest level of management at [Your Business Name], reflecting our commitment to the sustainable use of materials.
-
-**Contact Information**
-
-For more information or inquiries about this policy, please contact [Contact Person/Department].
+---
 
 |  | **Page | 1** |
 | --- | --- |

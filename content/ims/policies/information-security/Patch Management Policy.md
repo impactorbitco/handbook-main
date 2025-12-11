@@ -1,10 +1,6 @@
 ---
 title: Patch Management Policy
 weight: 10
----
-
-# Patch Management Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,8 +11,7 @@ Last edited time: 7 October 2025 19:15
 Parent item: Data Lifecycle Management Policy (Data%20Lifecycle%20Management%20Policy%201c0d6625c67981848e13e92440a5702f.md)
 Status: Not started
 Version Number: 1.1
-
-# Patch Management Policy
+---
 
 ## Overview
 

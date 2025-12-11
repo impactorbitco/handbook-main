@@ -4,7 +4,7 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: true
 Created time: 24 March 2025 10:40
-GRI Disclosures: 2-15 Conflicts of interest (https://www.notion.so/2-15-Conflicts-of-interest-1dad6625c67980818cc0f09bd6a7ea4d?pvs=21)
+GRI Disclosures: 2-15
 ID: POL-184
 IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
   Risk Management System (https://www.notion.so/Risk-Management-System-1b6d6625c67980bdb161f333b4bd4c00?pvs=21),
@@ -31,11 +31,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Conflict of Interest Policy
-
-**Effective Date:** March 18, 2025
-
-**Review Frequency:** Annually or as required
 
 ## **1. Purpose**
 

@@ -5,20 +5,17 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-92
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Assets Management System (https://www.notion.so/Assets-Management-System-1b5d6625c6798030adf8e68571961f1e?pvs=21)
+IMS: Social Responsibility Management System, Assets Management System
 Last edited time: 7 October 2025 17:06
-Parent item: Financial Management Policy (Financial%20Management%20Policy%201c0d6625c679811cb621df302b799d2f.md)
+Parent item: Financial Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
 
-# Financial Controls Policy
-
 ## 1. Purpose and Scope
 
-This policy establishes the framework for financial controls within Green Orbit Digital to ensure proper management of company resources, prevent fraud, and maintain accurate financial records.
+This policy establishes the framework for financial controls within Impact Orbit Creative Group to ensure proper management of company resources, prevent fraud, and maintain accurate financial records.
 
 ## 2. General Principles
 
@@ -33,10 +30,10 @@ The following authorization levels apply to financial transactions:
 
 | Transaction Amount | Required Authorization |
 | --- | --- |
-| Up to $1,000 | Team Leader |
-| $1,001 - $10,000 | Department Manager |
-| $10,001 - $50,000 | Financial Director |
-| Above $50,000 | CEO/Board Approval |
+| Up to £1,000 | Team Leader |
+| £1,001 - $10,000 | Department Manager |
+| £10,001 - $50,000 | Financial Director |
+| Above £50,000 | CEO/Board Approval |
 
 ## 4. Cash Management
 

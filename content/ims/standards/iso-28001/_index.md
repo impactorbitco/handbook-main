@@ -1,8 +1,16 @@
 ---
-title: Supply Chain Security Management
+title: ISO-28001
+iso_number: '28001'
+acronym: QMS
+description: ISO 28001:2015-aligned BCMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-# Supply Chain Security Management Overview
+
+# Supply Chain Security Management
 
 Supply chain security management encompasses the practices and procedures implemented to protect the integrity, safety, and security of the supply chain from potential threats and vulnerabilities.
 

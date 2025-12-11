@@ -13,8 +13,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-# Retirement and Retirement Gift Policy
-
 ## Purpose
 
 The purpose of this policy is to provide guidance on the organization's approach to retirement and retirement gifts. It aims to ensure that retiring employees are recognized for their contributions and that the process is conducted in a manner consistent with the company's ethical standards and commitment to social responsibility.

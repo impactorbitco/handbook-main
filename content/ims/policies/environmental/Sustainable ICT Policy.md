@@ -4,16 +4,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 27 April 2025 19:01
 ID: POL-212
-IMS: IT Service Management System (https://www.notion.so/IT-Service-Management-System-1b5d6625c67980c9a30bd487bffe9a47?pvs=21),
-  Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21),
-  Documentation and Records Management (https://www.notion.so/Documentation-and-Records-Management-1b5d6625c6798087831bf44f4c4550a4?pvs=21),
-  Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21),
-  Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21),
-  Energy Management System (https://www.notion.so/Energy-Management-System-1b5d6625c6798099a75ad3638967935d?pvs=21),
-  Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: IT Service Management System, Quality Management System, Documentation and Records Management, Business Continuity Management System, Occupational Health and Safety Management, Energy Management System, Environmental Management System, Social Responsibility Management System
 Last edited time: 7 October 2025 15:46
-Parent item: Sustainability / Environmental Policy (Sustainability%20Environmental%20Policy%201c0d6625c6798155ad1af5cbca409855.md)
+Parent item: Sustainability / Environmental Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
@@ -105,7 +98,3 @@ This policy covers the full lifecycle of ICT, including:
 - IT Asset Disposal Guidelines
 - Digital Transformation Strategy
 
----
-title: "Sustainable ICT Policy"
-
-Would you like this policy formatted for print or made into a Notion or Word template for your team?

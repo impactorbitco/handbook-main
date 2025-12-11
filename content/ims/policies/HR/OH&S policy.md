@@ -1,10 +1,6 @@
 ---
 title: OH&S policy
 weight: 10
----
-
-# OH&S policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,10 +11,9 @@ Last edited time: 7 October 2025 16:27
 Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
 Status: Not started
 Version Number: 1.1
+---
 
-# Occupational Health and Safety Policy
-
-At Green Orbit Digital, we are committed to providing a safe and healthy work environment for all employees, contractors, visitors, and other stakeholders. This policy demonstrates our dedication to preventing work-related injuries, illnesses, and promoting overall workplace wellbeing.
+At Impact Orbit Creative Group, we are committed to providing a safe and healthy work environment for all employees, contractors, visitors, and other stakeholders. This policy demonstrates our dedication to preventing work-related injuries, illnesses, and promoting overall workplace wellbeing.
 
 ## Policy Objectives
 
@@ -76,7 +71,7 @@ Date: 24 April 2025 23:18
 
 **Introduction**
 
-At Green Orbit Digital, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organisation.
+At Impact Orbit Creative Group, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organisation.
 
 **Objectives**
 
@@ -130,11 +125,11 @@ Our objectives are to:
 
 **Conclusion**
 
-At Green Orbit Digital, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritising health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organisational success.
+At Impact Orbit Creative Group, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritising health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organisational success.
 
 Introduction
 
-At Green Orbit Digital, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organization.
+At Impact Orbit Creative Group, the health and safety of our employees, clients, visitors, and the community are paramount. We are committed to providing a safe and healthy work environment and to ensuring compliance with all relevant health and safety regulations and standards. This policy outlines our commitment to health and safety and the responsibilities of all individuals within our organization.
 
 Objectives
 
@@ -188,4 +183,4 @@ Continuous Improvement
 
 Conclusion
 
-At Green Orbit Digital, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritizing health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organizational success.
+At Impact Orbit Creative Group, we are committed to creating and maintaining a safe and healthy work environment for all. By working together and prioritizing health and safety, we can achieve our goal of preventing accidents, injuries, and work-related illnesses while promoting employee wellbeing and organizational success.

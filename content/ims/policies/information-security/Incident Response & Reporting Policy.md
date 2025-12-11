@@ -17,7 +17,7 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Incident Response & Reporting Policy
+
 ## 1. Purpose and Scope
 
 This policy establishes guidelines for managing security incidents at Green Orbit Digital to ensure prompt detection, response, and recovery. It applies to all employees, contractors, and third parties who have access to company systems and data.

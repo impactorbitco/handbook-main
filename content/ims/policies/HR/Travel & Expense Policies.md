@@ -4,9 +4,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 6 May 2025 03:54
 ID: POL-230
-IMS: Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21)
+IMS: Environmental Management System
 Last edited time: 7 October 2025 17:10
-Parent item: Financial Management Policy (Financial%20Management%20Policy%201c0d6625c679811cb621df302b799d2f.md)
+Parent item: Financial Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

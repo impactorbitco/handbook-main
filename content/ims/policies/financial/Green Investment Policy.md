@@ -14,9 +14,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Green Investment Policy
-
-Green Investment Policy: Funding Projects that Promote Environmental Sustainability (Including Pensions and Banking)
 
 **1. Introduction**
 

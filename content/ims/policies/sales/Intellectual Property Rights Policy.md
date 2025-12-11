@@ -5,14 +5,13 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 27 April 2025 19:52
 ID: POL-61
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Intellectual Property Rights Policy
 
 ## Purpose
 

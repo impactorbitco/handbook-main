@@ -19,12 +19,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-| **Policy Number** | POL/LGL/2025/1220-V1.1 | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented 03 January 2025  | Version 2.0
-
 This Privacy Policy applies between you, the User of this Website, and Green Orbit Digital Ltd, the owner and provider of this Website. Green Orbit Digital Ltd takes the privacy of your information very seriously. This Privacy Policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.
 
 This Privacy Policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at: [https://greenorbit.space/terms-and-conditions/](https://greenorbit.space/terms-and-conditions/)

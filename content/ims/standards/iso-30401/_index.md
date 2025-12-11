@@ -1,8 +1,15 @@
 ---
-title: Knowledge Management System
+title: ISO-30401
+iso_number: '30401'
+acronym: KMS
+description: ISO 30401:2015-aligned KMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-Knowledge Management System Based on ISO 30401
+# Knowledge Management System
 
 ---
 

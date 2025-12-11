@@ -1,8 +1,15 @@
 ---
-title: Risk Management System
+title: ISO-31000
+iso_number: '31000'
+acronym: RMS
+description: ISO 31000:2015-aligned RMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
-### ISO 31000 Risk Management Framework for Green Orbit Digital: Outline
+# Risk Management System
 
 **1. Introduction**
 

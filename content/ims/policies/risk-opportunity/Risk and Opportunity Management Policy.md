@@ -26,8 +26,7 @@ IMS: Assets Management System (https://www.notion.so/Assets-Management-System-1b
 Last edited time: 7 October 2025 18:33
 Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
 Status: Not started
-Sub-item: "Risk Policy and Appetite Statement (Risk%20Policy%20and%20Appetite%20Statement%20223d6625c67980528c57da09ae69e42c.md),\
-  \ Compliance & Regulatory Policy\_ (Compliance%20&%20Regulatory%20Policy%20285d6625c679801b982ec94feb223fd3.md)"
+Sub-item: Risk Policy and Appetite Statement, Compliance & Regulatory Policy
 Version Number: 1.1
 weight: 10
 ---

@@ -5,60 +5,13 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 27 April 2025 19:52
 ID: POL-215
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Occupational Health and Safety Management
 Last edited time: 7 October 2025 17:17
-Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
+Parent item: Health, Safety, and Wellbeing Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-
-## Document Overview
-
-**Archive:** No
-
-**Company Handbook:** No
-
-**Date Created:** May 1, 2025 11:44 PM
-
-**Doc. Classification:** Policy
-
-**Hierarchy:** Level 1 – Strategic Direction
-
-**ID:** 1887
-
-**IMS Ref.:** ISMS/A7/POL/1887
-
-**ISO:** ISMS
-
-**ISO Group:** A7
-
-**ISO Groups:** Annex A8 Control Group - physical
-
-**Last Edited By:** Ryan Laird
-
-**Last Edited Time:** May 1, 2025 11:44 PM
-
-**Owner:** Ryan Laird
-
-**Priority Level:** Low
-
-**Publishing Status:** In progress
-
-**Standards:** ISO/IEC 27001: Information Security Management System
-
-**Status:** In Review
-
-**Summary:** No content
-
-**Verification:** Verified
-
-**Version Number:** 1.1
-
-**Visibility:** Public
-
----
-title: "Logging and Monitoring Policy"
 
 ## Purpose
 

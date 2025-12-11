@@ -18,18 +18,18 @@ weight: 10
 ---
 
 **1. Introduction:**
-At Green Orbit Digital, we uphold the highest standards of ethics and integrity in all aspects of our operations. We recognize that whistleblowing plays a crucial role in identifying and addressing wrongdoing or unethical behavior within the company. This policy is designed to encourage employees and others associated with Green Orbit Digital to confidentially report concerns about illegal or severely unethical conduct.
+At Impact Orbit Creative Group, we uphold the highest standards of ethics and integrity in all aspects of our operations. We recognize that whistleblowing plays a crucial role in identifying and addressing wrongdoing or unethical behavior within the company. This policy is designed to encourage employees and others associated with Impact Orbit Creative Group to confidentially report concerns about illegal or severely unethical conduct.
 
 **2. Objectives of the Policy:**
 The objectives of this policy are to:
 
-- Encourage the reporting of concerns about wrongdoing or malpractice within Green Orbit Digital.
+- Encourage the reporting of concerns about wrongdoing or malpractice within Impact Orbit Creative Group.
 - Provide avenues for reporting concerns and ensure that whistleblowers are protected from victimization or retaliation.
 - Facilitate the investigation of reported concerns and take appropriate action to address them.
 - Maintain confidentiality and protect the identity of whistleblowers to the fullest extent possible.
 
 **3. Scope of the Policy:**
-This policy applies to all employees, contractors, and volunteers associated with Green Orbit Digital. It covers concerns related to:
+This policy applies to all employees, contractors, and volunteers associated with Impact Orbit Creative Group. It covers concerns related to:
 
 - Ethical misconduct
 - Violations of company policies and procedures
@@ -42,19 +42,19 @@ This policy applies to all employees, contractors, and volunteers associated wit
 **4. Protection for Whistleblowers:**
 
 - Whistleblowers are protected under the law, including the Public Interest Disclosure Act 1998, which prohibits victimization or dismissal of employees who report concerns in good faith.
-- Green Orbit Digital is committed to providing support and protection to whistleblowers, including protection from harassment or victimization.
+- Impact Orbit Creative Group is committed to providing support and protection to whistleblowers, including protection from harassment or victimization.
 - Any instances of harassment or victimization against whistleblowers will be treated as serious disciplinary offenses and will be dealt with accordingly.
 
 **5. Reporting Procedure:**
 
-- Concerns should be raised with the People and Office Manager or one of the Directors of Green Orbit Digital.
+- Concerns should be raised with the People and Office Manager or one of the Directors of Impact Orbit Creative Group.
 - Whistleblowers may report concerns via email, telephone, or in person.
 - Whistleblowers should provide detailed information about the nature of their concerns, including relevant background information and any evidence available.
 - Whistleblowers may choose to raise concerns anonymously, although doing so may limit the effectiveness of the investigation.
 
 **6. Handling of Concerns:**
 
-- Upon receiving a concern, Green Orbit Digital will conduct an initial assessment to determine the appropriate course of action.
+- Upon receiving a concern, Impact Orbit Creative Group will conduct an initial assessment to determine the appropriate course of action.
 - Investigations will be carried out promptly and impartially by management or designated personnel.
 - Whistleblowers will be kept informed of the progress and outcome of the investigation to the extent possible, while maintaining confidentiality.
 
@@ -62,7 +62,7 @@ This policy applies to all employees, contractors, and volunteers associated wit
 
 - Whistleblowers will receive full support from the People and Office Manager and Directors throughout the reporting and investigation process.
 - All concerns will be treated with the utmost confidentiality, and whistleblowers' identities will be protected to the fullest extent possible.
-- Records of concerns, investigations, and outcomes will be maintained confidentially and securely by Green Orbit Digital.
+- Records of concerns, investigations, and outcomes will be maintained confidentially and securely by Impact Orbit Creative Group.
 
 **8. Taking Matters Further:**
 
@@ -71,11 +71,11 @@ This policy applies to all employees, contractors, and volunteers associated wit
 
 **9. Record Keeping:**
 
-- Green Orbit Digital will document and keep records of all concerns raised, investigations conducted, and outcomes reached.
+- Impact Orbit Creative Group will document and keep records of all concerns raised, investigations conducted, and outcomes reached.
 - These records will be stored confidentially and will only be accessed when required for investigative or compliance purposes.
 
 **Conclusion:**
-Green Orbit Digital is committed to fostering a culture of transparency, integrity, and accountability. Through the implementation of this whistleblowing policy, we aim to create a safe and supportive environment for reporting concerns and addressing issues of wrongdoing or misconduct. We encourage all employees and stakeholders to speak up if they become aware of any actions that violate our values or principles, and we are committed to taking prompt and appropriate action to address such concerns.
+Impact Orbit Creative Group is committed to fostering a culture of transparency, integrity, and accountability. Through the implementation of this whistleblowing policy, we aim to create a safe and supportive environment for reporting concerns and addressing issues of wrongdoing or misconduct. We encourage all employees and stakeholders to speak up if they become aware of any actions that violate our values or principles, and we are committed to taking prompt and appropriate action to address such concerns.
 
 # **WHISTLEBLOWING POLICY**
 
@@ -85,7 +85,7 @@ Green Orbit Digital is committed to fostering a culture of transparency, integri
 
 # **1. Policy Statement**
 
-Green Orbit Digital promotes a culture of openness and transparency in its interactions with managers, employees, and all stakeholders involved in its business and training activities. The organization recognizes the importance of effective and honest communication to address concerns about breaches or failures and ensure overall success.
+Impact Orbit Creative Group promotes a culture of openness and transparency in its interactions with managers, employees, and all stakeholders involved in its business and training activities. The organization recognizes the importance of effective and honest communication to address concerns about breaches or failures and ensure overall success.
 
 This policy is designed to provide guidance to all those who work with or within the organisation who may from time to time feel that they need to raise certain issues relating to the organisation with someone in confidence.
 
@@ -93,11 +93,11 @@ Workers who in the public interest raise genuine concerns under this policy will
 
 1.1 Objective:
 
-This policy aims to empower and encourage staff to report concerns within Green Orbit Digital. It acknowledges workers' legal rights to make protected disclosures under relevant legislation, fostering a safe and transparent workplace culture.
+This policy aims to empower and encourage staff to report concerns within Impact Orbit Creative Group. It acknowledges workers' legal rights to make protected disclosures under relevant legislation, fostering a safe and transparent workplace culture.
 
 1.2 Commitment to Prevention:
 
-Green Orbit Digital is committed to preventing and addressing fraud, misconduct, and wrongdoing by promptly investigating and addressing reported concerns. Internal mechanisms are in place for reporting malpractice or illegal activities, with a commitment to consistent and fair treatment of all disclosures.
+Impact Orbit Creative Group is committed to preventing and addressing fraud, misconduct, and wrongdoing by promptly investigating and addressing reported concerns. Internal mechanisms are in place for reporting malpractice or illegal activities, with a commitment to consistent and fair treatment of all disclosures.
 
 1.3 Training and Induction:
 
@@ -105,7 +105,7 @@ Regular refresher training is provided to all managers, ensuring they are equipp
 
 1.4 Resources and Accessibility:
 
-Adequate resources are allocated to support the policy's aims, and it is widely promoted. Copies are accessible in Green Orbit Digital's offices and through the staff intranet, ensuring widespread awareness.
+Adequate resources are allocated to support the policy's aims, and it is widely promoted. Copies are accessible in Impact Orbit Creative Group's offices and through the staff intranet, ensuring widespread awareness.
 
 1.5 Protection from Retaliation:
 
@@ -113,7 +113,7 @@ This policy assures staff protection from harassment or victimization for raisin
 
 2. Definitions and Scope:
 
-This policy applies to all staff, including temporary, casual, and agency staff, as well as volunteers, self-employed individuals, and contractors. Whistleblowing, as recognized by Green Orbit Digital, involves passing on information about wrongdoing at work when the whistleblower reasonably believes they are acting in the public interest.
+This policy applies to all staff, including temporary, casual, and agency staff, as well as volunteers, self-employed individuals, and contractors. Whistleblowing, as recognized by Impact Orbit Creative Group, involves passing on information about wrongdoing at work when the whistleblower reasonably believes they are acting in the public interest.
 
 2.1 Categories of Wrongdoing:
 
@@ -240,13 +240,13 @@ While staff may disclose information anonymously, it is noted that anonymous whi
     10. It is best to raise a concern openly, because that makes it easier for Anicca Digital to follow it up. Anicca Digital ****will not disclose the whistleblower’s identity without their consent unless there are legal reasons that require them to do so. This might be, for example, where their information is about a child or vulnerable adult who is at risk, or where there is a possible criminal offence. If this is the case, Anicca Digital may have to tell the police or another official body, or if required to do so by a court. Anicca Digital will let the individual know if it has to do this and that this will identify them to another body.
     11. Staff may, if they wish, disclose information anonymously. However, it should be noted that in such circumstances, Anicca Digital ****will not be able to contact staff to discuss their concern or ask them for further information, nor will they normally be able to give any feedback about any action it takes, although anonymous whistleblowers may seek feedback through a telephone appointment or by using an anonymised email address.
 
-6. How Green Orbit Digital Will Respond:
+6. How Impact Orbit Creative Group Will Respond:
 
 Concerns raised under this policy are thoroughly, promptly, and confidentially investigated. The process involves acknowledging receipt, indicating how the matter will be handled, informing the staff of the investigation's progress, and providing timely feedback on outcomes.
 
 6.1 Investigation and Data Protection:
 
-Internal investigations are objective and evidence-based, processed in line with Green Orbit Digital's data protection policy. The investigation aims to identify and rectify issues, learning lessons to prevent recurrence.
+Internal investigations are objective and evidence-based, processed in line with Impact Orbit Creative Group's data protection policy. The investigation aims to identify and rectify issues, learning lessons to prevent recurrence.
 
 6.2 Outcome Communication:
 
@@ -273,7 +273,7 @@ Upon conclusion of an investigation, the staff raising the concern is informed o
 
 7. Harassment and Victimisation:
 
-Green Orbit Digital strictly prohibits harassment, victimization, or attempts to dissuade whistleblowers. Such behaviour is considered a serious breach of organizational values and may result in disciplinary action.
+Impact Orbit Creative Group strictly prohibits harassment, victimization, or attempts to dissuade whistleblowers. Such behaviour is considered a serious breach of organizational values and may result in disciplinary action.
 
 1. 
     1. Anicca Digital understands that raising a concern can be difficult for staff, especially if they fear reprisal from those responsible for the malpractice. Anicca Digital will not tolerate harassment and victimisation of anyone raising a concern, and there should be no impact on the continued employment and opportunities for future promotion or training of anyone raising a concern. Any such behaviour is a serious breach of our values as an organisation and, if upheld following investigation, could result in disciplinary action potentially leading to dismissal.

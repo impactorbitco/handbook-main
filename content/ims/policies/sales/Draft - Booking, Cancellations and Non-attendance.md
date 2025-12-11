@@ -16,7 +16,7 @@ weight: 10
 
 ## Waitlist Management
 
-To efficiently manage event capacity and accommodate participants, Green Orbit Digital maintains a waitlist system for popular events.
+To efficiently manage event capacity and accommodate participants, Impact Orbit Creative Group maintains a waitlist system for popular events.
 
 - When events reach capacity, interested participants can join a waitlist through our online booking system
 - Waitlisted participants will be automatically notified if spots become available due to cancellations
@@ -32,7 +32,7 @@ To secure event bookings and minimize last-minute cancellations, the following p
 
 ## Communication Channels
 
-Green Orbit Digital maintains clear communication channels for all event-related matters:
+Impact Orbit Creative Group maintains clear communication channels for all event-related matters:
 
 - Primary communication will be conducted via email and SMS
 - Emergency contact numbers will be provided for urgent matters during events
@@ -40,18 +40,18 @@ Green Orbit Digital maintains clear communication channels for all event-related
 
 ## **Introduction**
 
-This policy outlines the procedures and expectations for coaching, conferences, workshops, and other professional development events hosted or organised by Green Orbit Digital. The aim is to ensure efficient management, enhance participant experience, and maintain the highest standards of professional delivery.
+This policy outlines the procedures and expectations for coaching, conferences, workshops, and other professional development events hosted or organised by Impact Orbit Creative Group. The aim is to ensure efficient management, enhance participant experience, and maintain the highest standards of professional delivery.
 
 ## **Booking and Attendance Procedures**
 
 ### **Event Registration:**
 
-- Participants can register for coaching sessions, conferences, and workshops through Green Orbit Digital’s website or via direct invitation.
+- Participants can register for coaching sessions, conferences, and workshops through Impact Orbit Creative Group’s website or via direct invitation.
 - Registration is confirmed upon receipt of payment (where applicable) and completion of any required forms.
 
 ### **Event Non-Attendance (DNA) Policy:**
 
-- If a participant is unable to attend an event, they must notify Green Orbit Digital at least 48 hours before the event to allow for rescheduling or refund requests.
+- If a participant is unable to attend an event, they must notify Impact Orbit Creative Group at least 48 hours before the event to allow for rescheduling or refund requests.
 - Failure to attend without prior notice will result in a "Did Not Attend" (DNA) being recorded, and a refund will not be issued.
 - Participants who accumulate two DNAs may be restricted from future events.
 
@@ -63,10 +63,10 @@ This policy outlines the procedures and expectations for coaching, conferences, 
 - Cancellations within 24-48 hours will be eligible for rescheduling but not a refund.
 - Cancellations made less than 24 hours before the event will be considered a DNA.
 
-### **Cancellation by Green Orbit Digital:**
+### **Cancellation by Impact Orbit Creative Group:**
 
 - In case of unforeseen circumstances requiring the cancellation or rescheduling of an event, participants will be informed immediately.
-- Green Orbit Digital will offer participants a choice between rescheduling or a full refund.
+- Impact Orbit Creative Group will offer participants a choice between rescheduling or a full refund.
 
 ## **Participant Requirements**
 
@@ -81,8 +81,8 @@ This policy outlines the procedures and expectations for coaching, conferences, 
 
 ### **Technology for Virtual Events:**
 
-- Green Orbit Digital uses platforms like Zoom or Microsoft Teams for virtual events.
-- Participants must ensure their internet connection and device are functioning properly before the event starts. Green Orbit Digital offers limited IT support through chat or phone before the event.
+- Impact Orbit Creative Group uses platforms like Zoom or Microsoft Teams for virtual events.
+- Participants must ensure their internet connection and device are functioning properly before the event starts. Impact Orbit Creative Group offers limited IT support through chat or phone before the event.
 
 ## **Event Notifications**
 
@@ -103,14 +103,14 @@ This policy outlines the procedures and expectations for coaching, conferences, 
 
 ### **Rescheduling:**
 
-- Participants may reschedule an event once without penalty, provided they notify Green Orbit Digital at least 24 hours in advance.
+- Participants may reschedule an event once without penalty, provided they notify Impact Orbit Creative Group at least 24 hours in advance.
 - Rescheduling requests made less than 24 hours before the event may not be accommodated.
 
 ## **Event Conduct**
 
 ### **Professional Behaviour:**
 
-- All participants are expected to maintain professional behaviour during Green Orbit Digital events. Disruptive behaviour may result in removal from the event without refund and possible exclusion from future events.
+- All participants are expected to maintain professional behaviour during Impact Orbit Creative Group events. Disruptive behaviour may result in removal from the event without refund and possible exclusion from future events.
 
 ### **Confidentiality:**
 
@@ -120,7 +120,7 @@ This policy outlines the procedures and expectations for coaching, conferences, 
 
 ### **Reasonable Adjustments:**
 
-- Green Orbit Digital is committed to providing accessible events. Participants requiring special accommodations (e.g., accessibility needs, alternative communication methods) must inform the event organiser at least 7 days before the event to ensure proper arrangements.
+- Impact Orbit Creative Group is committed to providing accessible events. Participants requiring special accommodations (e.g., accessibility needs, alternative communication methods) must inform the event organiser at least 7 days before the event to ensure proper arrangements.
 
 ### **Support for Participants:**
 
@@ -130,21 +130,21 @@ This policy outlines the procedures and expectations for coaching, conferences, 
 
 ### **Event Records:**
 
-- Green Orbit Digital will keep records of all events, including participant details and attendance, in compliance with data protection regulations.
+- Impact Orbit Creative Group will keep records of all events, including participant details and attendance, in compliance with data protection regulations.
 - Participant data will be used only for the purposes of event management and communication.
 
 ## **Key Considerations**
 
 - **Privacy:** All personal information collected will be handled in accordance with our privacy policy.
-- **Event Adjustments:** Green Orbit Digital reserves the right to modify event content, schedule, or presenters to accommodate changes without affecting the overall quality.
+- **Event Adjustments:** Impact Orbit Creative Group reserves the right to modify event content, schedule, or presenters to accommodate changes without affecting the overall quality.
 
 If you have any questions or require further clarification, please contact our support team at [email] or visit our FAQ page.
 
 ---
 
-This policy ensures Green Orbit Digital’s professional development offerings are delivered effectively while maintaining participant satisfaction and organisational integrity.
+This policy ensures Impact Orbit Creative Group’s professional development offerings are delivered effectively while maintaining participant satisfaction and organisational integrity.
 
-This policy will be reviewed annually or as needed to ensure it remains current and effective in meeting the needs of both Green Orbit Digital and its participants.
+This policy will be reviewed annually or as needed to ensure it remains current and effective in meeting the needs of both Impact Orbit Creative Group and its participants.
 
 Version Control: This document is version 1.1, last updated on 24 March 2025. Previous versions should be considered obsolete.
 

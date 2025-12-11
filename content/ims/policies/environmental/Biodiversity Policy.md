@@ -3,80 +3,76 @@ title: Biodiversity Policy
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 7 October 2025 15:10
-GRI Disclosures: 101-1 Policies to halt and reverse biodiversity loss (https://www.notion.so/101-1-Policies-to-halt-and-reverse-biodiversity-loss-1dad6625c679803f8cadeb578c28d1ca?pvs=21),
-  304-1 Operational sites owned, leased, managed in, or adjacent to, protected areas
-  and areas of high biodiversity value outside protected areas (https://www.notion.so/304-1-Operational-sites-owned-leased-managed-in-or-adjacent-to-protected-areas-and-areas-of-high-1dad6625c6798028988cc7187f9fad95?pvs=21)
+GRI Disclosures: 
+  - 101-1
+  - 304-1
 ID: POL-249
 Last edited time: 7 October 2025 15:48
-Parent item: Sustainability / Environmental Policy (Sustainability%20Environmental%20Policy%201c0d6625c6798155ad1af5cbca409855.md)
+Parent item: Sustainability / Environmental Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Biodiversity Policy
-# **Introduction**
 
-At [Your Business Name], we recognize the critical importance of biodiversity for the sustainability of our planet. This policy outlines our commitment to protecting and enhancing biodiversity in all areas of our business operations.
+## Introduction
 
-**Scope**
+At **Impact Orbit Creative Group**, we recognise that biodiversity is a cornerstone of environmental sustainability. This policy sets out our commitment to protecting and enhancing biodiversity across all aspects of our business operations, reflecting our dedication to responsible and sustainable practices.
 
-This policy applies to all aspects of our operations and business activities, including our employees, contractors, suppliers, and partners.
+## Scope
 
-**Our Commitment**
+This policy applies to all employees, contractors, suppliers, partners, and stakeholders engaged in activities that may affect natural ecosystems, both directly and indirectly.
 
-1. **Protection of Natural Habitats**: We are committed to protecting natural habitats and ecosystems affected by our operations. Our initiatives include:
+## Our Commitment
 
-- Avoiding operations in ecologically sensitive areas and protected zones.
-- Minimizing our impact on existing natural habitats.
-- Implementing measures to restore habitats that may be affected by our activities.
+1. **Protection of Natural Habitats**  
+   We are committed to safeguarding ecosystems impacted by our operations:  
+   - Avoiding activities in ecologically sensitive areas and legally protected zones.  
+   - Minimising disruption to natural habitats through careful operational planning.  
+   - Implementing habitat restoration projects where impacts cannot be avoided.
 
-2. **Sustainable Resource Use:** We aim to use resources sustainably to minimize our impact on biodiversity. This includes:
+2. **Sustainable Resource Use**  
+   We strive to use natural resources responsibly to reduce our impact on biodiversity:  
+   - Sourcing materials and resources sustainably.  
+   - Minimising waste and promoting circular practices such as recycling and reuse.  
+   - Conserving water and supporting measures that protect aquatic ecosystems.
 
-- Using sustainably sourced materials and resources.
-- Reducing waste and promoting recycling and reuse.
-- Implementing water conservation practices to protect aquatic biodiversity.
+3. **Biodiversity Awareness and Education**  
+   Raising awareness is integral to our approach:  
+   - Providing staff training on biodiversity and its relevance to business operations.  
+   - Engaging with local communities and stakeholders to support biodiversity initiatives.  
+   - Sharing our biodiversity efforts transparently with clients, partners, and the public.
 
-3. **Promoting Biodiversity Awareness:** We believe in raising awareness about the importance of biodiversity among our employees, customers, and the wider community. Our practices include:
+4. **Collaboration and Partnerships**  
+   We actively work with external stakeholders to enhance biodiversity:  
+   - Partnering with environmental organisations, local communities, and authorities on conservation projects.  
+   - Supporting scientific research and practical initiatives that promote ecosystem health.  
+   - Participating in public-private partnerships for biodiversity protection.
 
-- Providing training and education to our employees on biodiversity and its importance.
-- Engaging in community initiatives and partnerships that promote biodiversity conservation.
-- Communicating our biodiversity efforts to our stakeholders.
+5. **Continuous Improvement**  
+   We are committed to reviewing and enhancing our biodiversity practices:  
+   - Regularly updating the policy and associated action plans.  
+   - Establishing measurable biodiversity targets and tracking progress.  
+   - Integrating biodiversity considerations into strategic and operational decision-making.
 
-4. **Collaboration and Partnerships:** We will collaborate with local communities, environmental groups, and governments to enhance biodiversity. This includes:
+## Responsibilities
 
-- Participating in local and regional conservation projects.
-- Supporting research and initiatives that promote biodiversity.
+- **Management:** Implement and enforce this policy, providing necessary resources and guidance.  
+- **Employees:** Incorporate biodiversity considerations into daily activities and contribute to company initiatives.  
+- **Designated Biodiversity Coordinator/Department:** Oversee biodiversity initiatives, ensure alignment with overall environmental strategy, and report on progress.
 
-5. Engaging in public-private partnerships for biodiversity conservation.
+## Compliance
 
-6. **Continuous Improvement:** We are committed to continuously improving our biodiversity practices. This includes:
+- All operations will comply with applicable local, national, and international biodiversity laws and regulations.  
+- Breaches of this policy may result in corrective or disciplinary actions, depending on severity.
 
-- Regularly reviewing and updating our biodiversity policy and action plans.
-- Setting measurable targets for biodiversity conservation and monitoring our progress.
-- Incorporating biodiversity considerations into our business decision-making processes.
+## Review and Update
 
-**Responsibilities**
+This policy will be reviewed annually to incorporate new scientific knowledge, emerging environmental challenges, and best practices in biodiversity conservation.
 
-- Management is responsible for implementing this policy and ensuring compliance.
-- Employees are encouraged to contribute to our biodiversity goals and adhere to this policy in their daily activities.
-- The [Designated Department/Individual] will oversee biodiversity initiatives and ensure integration with our overall environmental strategy.
+## Approval
 
-**Compliance**
+This policy is endorsed by the executive leadership of Impact Orbit Creative Group, reaffirming our commitment to the protection and enhancement of biodiversity.
 
-- We will comply with all relevant local, national, and international laws and regulations regarding biodiversity.
-- Violations of this policy may lead to corrective action.
+## Contact Information
 
-**Review and Update**
-
-This policy will be reviewed annually and updated as necessary to reflect new scientific findings, environmental challenges, and best practices in biodiversity conservation.
-
-**Approval**
-
-This policy is endorsed by the highest level of management at [Your Business Name], demonstrating our commitment to the protection and enhancement of biodiversity.
-
-**Contact Information**
-
-For more information or inquiries about this policy, please contact [Contact Person/Department].
-
-|  | **Page | 1** |
-| --- | --- |
+For questions or further information regarding this policy, please contact the **Environmental Strategy Team** at [https://impactorbit.co#contact](https://impactorbit.co#contact).

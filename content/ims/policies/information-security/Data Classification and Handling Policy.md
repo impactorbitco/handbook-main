@@ -15,10 +15,10 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Data Classification and Handling Policy
+
 ## 1. Purpose and Scope
 
-This policy establishes guidelines for classifying and handling data within Green Orbit Digital to ensure appropriate protection of information assets. It applies to all employees, contractors, and third parties who have access to company data.
+This policy establishes guidelines for classifying and handling data within Impact Orbit Creative Group to ensure appropriate protection of information assets. It applies to all employees, contractors, and third parties who have access to company data.
 
 ## 2. Definitions
 
@@ -31,7 +31,7 @@ The following definitions apply throughout this policy:
 
 ## 3. Policy Statement
 
-Green Orbit Digital is committed to protecting its information assets through proper data classification and handling procedures. All data must be classified according to its sensitivity level and handled in accordance with the requirements specified for each classification level.
+Impact Orbit Creative Group is committed to protecting its information assets through proper data classification and handling procedures. All data must be classified according to its sensitivity level and handled in accordance with the requirements specified for each classification level.
 
 ## 4. Roles and Responsibilities
 

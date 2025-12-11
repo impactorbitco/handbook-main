@@ -9,7 +9,7 @@ IMS: IT Service Management System (https://www.notion.so/IT-Service-Management-S
   Documentation and Records Management (https://www.notion.so/Documentation-and-Records-Management-1b5d6625c6798087831bf44f4c4550a4?pvs=21),
   Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21)
 Last edited time: 7 October 2025 18:45
-Parent item: Information Governance and Data Security Policy (Information%20Governance%20and%20Data%20Security%20Policy%201c0d6625c679813f8302fe82c5e67869.md)
+Parent item: Information Governance and Data Security Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

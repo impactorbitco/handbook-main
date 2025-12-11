@@ -1,10 +1,6 @@
 ---
 title: Other Job-Protected Leave
 weight: 10
----
-
-# Other Job-Protected Leave
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,6 +11,7 @@ Last edited time: 8 October 2025 04:37
 Parent item: Leave of Absence Policy (Leave%20of%20Absence%20Policy%2027ed6625c67980b6b86dea63482c8ea9.md)
 Status: Not started
 Version Number: 1.1
+---
 
 The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `Workday`. If none applies, the team members should notify their manager and the Absence Management team `leaves@gitlab.com` to initiate leave.
 

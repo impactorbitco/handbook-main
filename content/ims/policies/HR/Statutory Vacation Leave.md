@@ -1,10 +1,6 @@
 ---
 title: Statutory Vacation Leave
 weight: 10
----
-
-# Statutory Vacation Leave
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,6 +11,7 @@ Last edited time: 8 October 2025 04:37
 Parent item: Leave of Absence Policy (Leave%20of%20Absence%20Policy%2027ed6625c67980b6b86dea63482c8ea9.md)
 Status: Not started
 Version Number: 1.1
+---
 
 Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the team member’s start date.
 
@@ -25,7 +22,7 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 
 ### Introduction
 
-At Green Orbit Digital, we recognize the importance of work-life balance and the value of taking time off to rest, recharge, and spend quality time with loved ones. Our vacation policy is designed to support the well-being and productivity of our employees by providing them with ample opportunities to take time off for vacation.
+At Impact Orbit Creative Group, we recognize the importance of work-life balance and the value of taking time off to rest, recharge, and spend quality time with loved ones. Our vacation policy is designed to support the well-being and productivity of our employees by providing them with ample opportunities to take time off for vacation.
 
 ### Eligibility
 
@@ -61,11 +58,11 @@ In addition to vacation time, employees will be entitled to observe public holid
 
 ### Conclusion
 
-At Green Orbit Digital, we believe that taking time off for vacation is essential for employee well-being, productivity, and job satisfaction. By providing a generous vacation policy and encouraging employees to make use of their accrued time off, we aim to foster a positive work environment where employees can thrive both personally and professionally.
+At Impact Orbit Creative Group, we believe that taking time off for vacation is essential for employee well-being, productivity, and job satisfaction. By providing a generous vacation policy and encouraging employees to make use of their accrued time off, we aim to foster a positive work environment where employees can thrive both personally and professionally.
 
 ### Introduction
 
-At Green Orbit Digital, we recognize the importance of work-life balance and the need for our employees to take time off to rest, recharge, and spend quality time with their loved ones. This Annual Leave Policy outlines the guidelines and procedures for requesting and taking annual leave to ensure fairness, consistency, and transparency across the organization.
+At Impact Orbit Creative Group, we recognize the importance of work-life balance and the need for our employees to take time off to rest, recharge, and spend quality time with their loved ones. This Annual Leave Policy outlines the guidelines and procedures for requesting and taking annual leave to ensure fairness, consistency, and transparency across the organization.
 
 ### Eligibility
 
@@ -73,9 +70,9 @@ All full-time employees are entitled to annual leave benefits in accordance with
 
 ### Entitlement
 
-1. **Accrual**: Annual leave is accrued based on the length of continuous service with Green Orbit Digital. The accrual rate increases with tenure and is calculated as [insert accrual rate] days per completed year of service, up to a maximum of [insert maximum days] days per year.
+1. **Accrual**: Annual leave is accrued based on the length of continuous service with Impact Orbit Creative Group. The accrual rate increases with tenure and is calculated as [insert accrual rate] days per completed year of service, up to a maximum of [insert maximum days] days per year.
 2. **Carryover**: Employees may carry over a maximum of [insert maximum carryover days] unused annual leave days from one year to the next. Any accrued leave days beyond the carryover limit will be forfeited at the end of the calendar year.
-3. **Public Holidays**: In addition to annual leave, employees are entitled to paid time off for recognized public holidays observed by Green Orbit Digital. The number of public holidays may vary depending on the employee's location and local regulations.
+3. **Public Holidays**: In addition to annual leave, employees are entitled to paid time off for recognized public holidays observed by Impact Orbit Creative Group. The number of public holidays may vary depending on the employee's location and local regulations.
 
 ### Requesting Annual Leave
 
@@ -85,7 +82,7 @@ All full-time employees are entitled to annual leave benefits in accordance with
 
 ### Recording and Tracking
 
-1. **Leave Management System**: All annual leave requests and approvals will be recorded and tracked using Green Orbit Digital's leave management system. Employees are responsible for accurately documenting their leave requests and ensuring that their leave balances are up to date.
+1. **Leave Management System**: All annual leave requests and approvals will be recorded and tracked using Impact Orbit Creative Group's leave management system. Employees are responsible for accurately documenting their leave requests and ensuring that their leave balances are up to date.
 2. **Balance Monitoring**: Employees can view their accrued leave balances, remaining entitlement, and usage history through the leave management system. It is the employee's responsibility to monitor their leave balance and plan their leave accordingly.
 
 ### Special Circumstances
@@ -95,7 +92,7 @@ All full-time employees are entitled to annual leave benefits in accordance with
 
 ### Conclusion
 
-Green Orbit Digital values the well-being and work-life balance of its employees and is committed to providing a fair and flexible annual leave policy that supports employees' needs while ensuring business continuity. By adhering to the guidelines outlined in this policy, employees can effectively plan and manage their annual leave to maximize their time off and maintain a healthy work-life balance.
+Impact Orbit Creative Group values the well-being and work-life balance of its employees and is committed to providing a fair and flexible annual leave policy that supports employees' needs while ensuring business continuity. By adhering to the guidelines outlined in this policy, employees can effectively plan and manage their annual leave to maximize their time off and maintain a healthy work-life balance.
 
 # **Annual Leave Policy**
 
@@ -107,7 +104,7 @@ Implemented November 2024  | Version 2.0
 
 **Purpose of the Annual Leave Policy**
 
-1. Green Orbit Digital (the **Employer**, **we**, **our** or **us**) recognises the right of our staff to take paid annual leave each year. We believe that it is important for you to rest and we strongly encourage you to make use of your annual leave.
+1. Impact Orbit Creative Group (the **Employer**, **we**, **our** or **us**) recognises the right of our staff to take paid annual leave each year. We believe that it is important for you to rest and we strongly encourage you to make use of your annual leave.
 2. The purpose of this policy is to ensure that both staff and managers are clear on the entitlements, rules and processes surrounding your entitlement to annual leave. If you have questions about the contents of this policy, please contact your line manager or the HR Department.
 3. This policy applies to all employees, irrespective of seniority, tenure and working hours, including all directors and officers, casual or agency staff, trainees, interns, fixed-term staff and workers (our **Staff**, **you** or **your**). It does not apply to self-employed contractors.
 4. Some of the entitlements and rules in this policy summarise statutory rights. If any statutory rights change and become inconsistent with this policy, we will amend the policy to reflect these changes.

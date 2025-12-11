@@ -5,28 +5,21 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-176
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Occupational Health and Safety Management, Social Responsibility Management System
 Last edited time: 7 October 2025 17:27
-Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
+Parent item: Fair Employment and Labour Standards Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Grievance and Remediation Policy
-| **Doc. ID** | POL/HR/2025/831-V1.1 | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented November 2024  | Version 2.0
 
 **1. Introduction**
 
-At Green Orbit Digital, we are committed to providing a positive work environment where employees feel respected, valued, and supported. However, we recognize that issues or concerns may arise from time to time, and it is important for employees to have a formal mechanism to address grievances. This Grievance Policy outlines the procedure for employees to raise and resolve grievances in a fair, timely, and confidential manner.
+At Impact Orbit Creative Group, we are committed to providing a positive work environment where employees feel respected, valued, and supported. However, we recognize that issues or concerns may arise from time to time, and it is important for employees to have a formal mechanism to address grievances. This Grievance Policy outlines the procedure for employees to raise and resolve grievances in a fair, timely, and confidential manner.
 
 **2. Scope**
 
-This policy applies to all employees of Green Orbit Digital, including full-time, part-time, temporary, and contract employees. It covers grievances related to employment conditions, work environment, interpersonal conflicts, discrimination, harassment, and other work-related issues.
+This policy applies to all employees of Impact Orbit Creative Group, including full-time, part-time, temporary, and contract employees. It covers grievances related to employment conditions, work environment, interpersonal conflicts, discrimination, harassment, and other work-related issues.
 
 **3. Principles**
 
@@ -34,7 +27,7 @@ This policy applies to all employees of Green Orbit Digital, including full-time
 - **Confidentiality**: Information related to grievances will be handled confidentially, with disclosure limited to individuals directly involved in the resolution process.
 - **Timeliness**: Grievances will be addressed promptly and resolved within a reasonable timeframe.
 - **Respect**: Employees raising grievances will be treated with respect and dignity throughout the process.
-- **No Retaliation**: Green Orbit Digital prohibits retaliation against employees who raise grievances in good faith.
+- **No Retaliation**: Impact Orbit Creative Group prohibits retaliation against employees who raise grievances in good faith.
 
 **4. Informal Resolution**
 
@@ -55,7 +48,7 @@ All documentation related to grievances, including written complaints, investiga
 
 **7. Training and Awareness**
 
-Green Orbit Digital will provide training to managers and HR personnel on handling grievances effectively, including conflict resolution skills, impartiality, confidentiality, and compliance with the grievance policy.
+Impact Orbit Creative Group will provide training to managers and HR personnel on handling grievances effectively, including conflict resolution skills, impartiality, confidentiality, and compliance with the grievance policy.
 
 **8. Review and Revision**
 
@@ -65,4 +58,4 @@ This Grievance Policy will be periodically reviewed and updated as necessary to 
 
 For questions or assistance regarding grievances, employees should contact the HR department.
 
-This Grievance Policy is effective as of [insert date] and applies to all grievances raised by employees of Green Orbit Digital from this date onwards.
+This Grievance Policy is effective as of [insert date] and applies to all grievances raised by employees of Impact Orbit Creative Group from this date onwards.

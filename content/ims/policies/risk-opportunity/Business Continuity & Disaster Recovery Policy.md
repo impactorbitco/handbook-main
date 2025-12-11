@@ -5,10 +5,9 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 23 April 2025 09:49
 ID: POL-104
-IMS: Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21),
-  Assets Management System (https://www.notion.so/Assets-Management-System-1b5d6625c6798030adf8e68571961f1e?pvs=21)
+IMS: Business Continuity Management System, Assets Management System
 Last edited time: 7 October 2025 18:37
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
 Version Number: 1.1
 weight: 10

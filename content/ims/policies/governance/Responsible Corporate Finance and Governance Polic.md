@@ -1,21 +1,17 @@
 ---
 title: Responsible Corporate Finance and Governance Polic
 weight: 10
----
-
-# Responsible Corporate Finance and Governance Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 24 March 2025 10:40
 ID: POL-47
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 17:31
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
 Version Number: 1.1
-
+---
 # **Introduction**
 
 At [Your Business Name], we are committed to responsible corporate finance and governance practices. This policy outlines our dedication to fair tax compliance, preventing anti-competitive behaviour and corruption, and maintaining financial responsibility.

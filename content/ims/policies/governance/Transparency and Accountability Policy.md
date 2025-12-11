@@ -1,10 +1,6 @@
 ---
 title: Transparency and Accountability Policy
 weight: 10
----
-
-# Transparency and Accountability Policy
-
 Owner: Ryan Laird
 Company Handbook: No
 Created time: 7 October 2025 18:59
@@ -15,3 +11,4 @@ Parent item: Information Governance and Data Security Policy (Information%20Gove
 Status: Not started
 Sub-item: Privacy Notice Management Policy (Privacy%20Notice%20Management%20Policy%20285d6625c679804490d5c55b4be70a1b.md), Audit & Assurance Policy (Audit%20&%20Assurance%20Policy%20285d6625c67980b2b7ebfea7f8aed4bd.md), Record Keeping & Evidence Policy (Record%20Keeping%20&%20Evidence%20Policy%20285d6625c6798056a09bef7d62555d11.md), Social Media & Communications Policy (Social%20Media%20&%20Communications%20Policy%2027ed6625c679809a973bdd7e20bbd2f3.md)
 Version Number: 1.1
+---

@@ -5,7 +5,7 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 20 April 2025 18:57
 ID: POL-34
-IMS: Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21)
+IMS: Information Security Management System
 Last edited time: 7 October 2025 19:12
 Status: Not started
 Version Number: 1.1

@@ -14,7 +14,6 @@ UN Global Compact principles: Principle 1 (https://www.notion.so/Principle-1-1d8
 Version Number: 1.1
 weight: 10
 ---
-# Human Rights Policy
 # **Introduction**
 
 At [Your Business Name], we recognize the importance of upholding and respecting human rights in all aspects of our operations. This policy is guided by international human rights principles, including the Universal Declaration of Human Rights and the United Nations Guiding Principles on Business and Human Rights.

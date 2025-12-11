@@ -13,10 +13,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-POL/WEB/2025/742-V1.1
-
-Implemented 03 January 2025  | Version 2.0
-
 # **1. INTRODUCTION**
 
 Welcome to the Green Orbit Digital website. This Cookie Policy explains how we use cookies and similar technologies on our [website](https://greenorbit.space/). We value your privacy and are committed to providing you with transparent information about our cookie practices.

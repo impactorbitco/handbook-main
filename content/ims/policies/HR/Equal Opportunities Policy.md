@@ -5,16 +5,16 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-117
-IMS: Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21)
+IMS: Social Responsibility Management System
 Last edited time: 7 October 2025 17:36
-Parent item: CSR policy (CSR%20policy%201c0d6625c679814fbf5cd13774f65f67.md)
+Parent item: CSR policy
 Status: Not started
-UN Global Compact principles: Principle 6 (https://www.notion.so/Principle-6-1d8d6625c67980f9bdcafcc8bdb540d6?pvs=21)
+UN Global Compact principles: Principle 6
 Version Number: 1.1
 weight: 10
 ---
 # Equal Opportunities Policy
-At Green Orbit Digital, we are committed to fostering an inclusive and diverse workplace where all employees are treated with respect and dignity. We believe that diversity strengthens our organization and drives innovation, creativity, and success. As such, we prohibit discrimination and harassment based on any protected characteristic under federal, state, or local laws.
+At Impact Orbit Creative Group, we are committed to fostering an inclusive and diverse workplace where all employees are treated with respect and dignity. We believe that diversity strengthens our organization and drives innovation, creativity, and success. As such, we prohibit discrimination and harassment based on any protected characteristic under federal, state, or local laws.
 
 ### Our Commitment
 
@@ -36,4 +36,4 @@ At Green Orbit Digital, we are committed to fostering an inclusive and diverse w
 
 ### Conclusion
 
-At Green Orbit Digital, we are committed to upholding the principles of equal opportunities and diversity in all aspects of our organization. We believe that by fostering an inclusive workplace where everyone has an equal chance to succeed, we can build a stronger and more resilient team that drives innovation and success.
+At Impact Orbit Creative Group, we are committed to upholding the principles of equal opportunities and diversity in all aspects of our organization. We believe that by fostering an inclusive workplace where everyone has an equal chance to succeed, we can build a stronger and more resilient team that drives innovation and success.

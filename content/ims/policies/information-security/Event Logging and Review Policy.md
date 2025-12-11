@@ -15,7 +15,6 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Event Logging and Review Policy
 
 ## Purpose
 

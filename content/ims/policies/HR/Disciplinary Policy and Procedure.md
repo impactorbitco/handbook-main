@@ -12,10 +12,9 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Disciplinary Policy and Procedure
 **Purpose and Scope**
 
-1. This Disciplinary Policy and Procedure for Green Orbit Digital is non-contractual and sets out how any issues with employee standards of conduct, attendance and job performance will be dealt with. The aim of this Disciplinary Policy and Procedure is to ensure consistent and fair treatment for all employees. If an employee has any queries in respect of this procedure, they should contact HR .
+1. This Disciplinary Policy and Procedure for Impact Orbit Creative Group is non-contractual and sets out how any issues with employee standards of conduct, attendance and job performance will be dealt with. The aim of this Disciplinary Policy and Procedure is to ensure consistent and fair treatment for all employees. If an employee has any queries in respect of this procedure, they should contact HR .
 
 **Primary Principles**
 
@@ -39,7 +38,7 @@ weight: 10
 at any stage of the disciplinary process, whilst an investigation is completed into an employee's conduct.
 
 1. The employee agrees that if the employer requests, they will not contact clients, employees, suppliers or other business contacts of the employer whilst suspended from work. The period of suspension will be as short as is reasonably practicable in the circumstances and is not a disciplinary penalty, or an indication as to the decision that will be made once the investigations have been completed by the employer.
-2. Green Orbit Digital processes personal data collected during the investigation stage and any subsequent stages of disciplinary action in accordance with its Data Protection Policy. In particular, data collected as part of the investigation stage and any subsequent stages of disciplinary action is held securely and accessed by, and disclosed to, individuals only for the purposes of completing the disciplinary procedure. Inappropriate access or disclosure of employee data constitutes a data breach and should be reported in accordance with Green Orbit Digital's Data Protection Policy immediately. It may also constitute a disciplinary offence, which will be dealt with under this disciplinary procedure.
+2. Impact Orbit Creative Group processes personal data collected during the investigation stage and any subsequent stages of disciplinary action in accordance with its Data Protection Policy. In particular, data collected as part of the investigation stage and any subsequent stages of disciplinary action is held securely and accessed by, and disclosed to, individuals only for the purposes of completing the disciplinary procedure. Inappropriate access or disclosure of employee data constitutes a data breach and should be reported in accordance with Impact Orbit Creative Group's Data Protection Policy immediately. It may also constitute a disciplinary offence, which will be dealt with under this disciplinary procedure.
 
 **Informal Discussions**
 

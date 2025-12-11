@@ -5,23 +5,21 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-167
-IMS: Compliance Management System (https://www.notion.so/Compliance-Management-System-1b5d6625c679802ba50ee129ca1d1028?pvs=21)
+IMS: Compliance Management System
 Last edited time: 7 October 2025 17:36
-Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
+Parent item: Fair Employment and Labour Standards Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
 
-# Policy for Employing Foreign Nationals in the UK
-
 ## 1. Introduction and Purpose
 
-This policy outlines Green Orbit Digital's approach to employing foreign nationals in the UK, ensuring compliance with UK immigration laws and promoting fair employment practices.
+This policy outlines Impact Orbit Creative Group's approach to employing foreign nationals in the UK, ensuring compliance with UK immigration laws and promoting fair employment practices.
 
 ## 2. Legal Requirements
 
-Before employing foreign nationals, Green Orbit Digital must:
+Before employing foreign nationals, Impact Orbit Creative Group must:
 
 - Check and verify the candidate's right to work in the UK - failure to do so may result in penalties of up to £20,000 per employee
 - Provide a written statement of employment terms within two months of the start date
@@ -41,7 +39,7 @@ The following checks must be completed:
 
 ## 4. Equal Opportunities
 
-Green Orbit Digital is committed to:
+Impact Orbit Creative Group is committed to:
 
 - Fair and unbiased recruitment processes
 - Creating an inclusive workplace culture

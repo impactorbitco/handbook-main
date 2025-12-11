@@ -5,32 +5,31 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:40
 ID: POL-66
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Occupational Health and Safety Management
 Last edited time: 7 October 2025 17:39
-Parent item: Environmental Management Policy (Environmental%20Management%20Policy%201c0d6625c67981c6b541fa5c32d9fb28.md)
+Parent item: Environmental Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Driving for Work Policy
 
 1. Purpose
 
-Green Orbit Digital is committed to ensuring the safety and well-being of its employees while driving for work purposes. This policy outlines the responsibilities of both the company and its employees to promote safe driving practices, ensure compliance with legal requirements, and reduce the risk of accidents or injuries associated with driving for work.
+Impact Orbit Creative Group is committed to ensuring the safety and well-being of its employees while driving for work purposes. This policy outlines the responsibilities of both the company and its employees to promote safe driving practices, ensure compliance with legal requirements, and reduce the risk of accidents or injuries associated with driving for work.
 
 1. Scope
 
-This policy applies to all employees of Green Orbit Digital who drive, or are required to drive, as part of their work duties. This includes employees driving company vehicles, their personal vehicles for business purposes, or rental vehicles. The policy is applicable during regular working hours, including travel to and from business meetings, site visits, conferences, and other work-related activities.
+This policy applies to all employees of Impact Orbit Creative Group who drive, or are required to drive, as part of their work duties. This includes employees driving company vehicles, their personal vehicles for business purposes, or rental vehicles. The policy is applicable during regular working hours, including travel to and from business meetings, site visits, conferences, and other work-related activities.
 
 1. Responsibilities
 
 Employer Responsibilities:
 
-Green Orbit Digital will ensure that employees who drive for work purposes are adequately trained and competent to do so.
+Impact Orbit Creative Group will ensure that employees who drive for work purposes are adequately trained and competent to do so.
 
 The company will provide appropriate resources, including safety training, vehicle maintenance, and insurance coverage for work-related driving.
 
-Green Orbit Digital will ensure that all vehicles used for work purposes, whether company-owned or personal, meet legal safety standards and are properly maintained.
+Impact Orbit Creative Group will ensure that all vehicles used for work purposes, whether company-owned or personal, meet legal safety standards and are properly maintained.
 
 Risk assessments will be conducted to identify potential hazards related to driving and work-related travel, including route planning and fatigue management.
 
@@ -48,7 +47,7 @@ Employees must notify their manager if they are involved in any accident or traf
 
 Company Vehicles:
 
-Vehicles provided by Green Orbit Digital for work purposes must be used solely for business-related travel.
+Vehicles provided by Impact Orbit Creative Group for work purposes must be used solely for business-related travel.
 
 The company will ensure that all vehicles are serviced regularly, insured, and comply with legal safety standards.
 
@@ -60,7 +59,7 @@ Employees using their personal vehicles for work purposes must ensure that their
 
 Personal vehicles must meet legal requirements, including having valid MOT certification (if applicable) and up-to-date tax and insurance.
 
-Green Orbit Digital will reimburse employees for reasonable fuel costs incurred while using their personal vehicles for work-related travel, based on company travel rates.
+Impact Orbit Creative Group will reimburse employees for reasonable fuel costs incurred while using their personal vehicles for work-related travel, based on company travel rates.
 
 1. Driver Eligibility and Medical Fitness
 
@@ -128,7 +127,7 @@ Employees should assess their workload and driving schedule to avoid the risk of
 
 1. Driver Training and Development
 
-Green Orbit Digital will provide driver safety training where necessary, including:
+Impact Orbit Creative Group will provide driver safety training where necessary, including:
 
 Defensive Driving: Training on techniques to avoid accidents and manage risk on the road.
 
@@ -138,7 +137,7 @@ First Aid and Emergency Procedures: Ensuring employees are prepared for emergenc
 
 1. Monitoring and Compliance
 
-Green Orbit Digital will regularly review driving-related safety performance and compliance with this policy. This may include:
+Impact Orbit Creative Group will regularly review driving-related safety performance and compliance with this policy. This may include:
 
 Monitoring driver behavior through feedback or accident/incident reports.
 
@@ -154,12 +153,12 @@ This policy will be reviewed periodically to ensure it remains effective and ali
 
 1. Conclusion
 
-Green Orbit Digital’s primary concern is the safety of its employees while driving for work. By adhering to this policy, employees can ensure that they are driving safely and legally, thereby minimizing risks and maintaining a productive and healthy work environment. If employees have any questions or concerns regarding this policy, they should contact their manager or HR for clarification.
+Impact Orbit Creative Group’s primary concern is the safety of its employees while driving for work. By adhering to this policy, employees can ensure that they are driving safely and legally, thereby minimizing risks and maintaining a productive and healthy work environment. If employees have any questions or concerns regarding this policy, they should contact their manager or HR for clarification.
 
 Policy Approved by:
 [Name]
 [Position]
-Green Orbit Digital
+Impact Orbit Creative Group
 
 Date:
 [Approval Date]

@@ -12,10 +12,10 @@ Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Career Break Policy
+
 **1. Introduction**
 
-At Green Orbit Digital, we understand that employees may need to take a break from their careers for various personal reasons, such as family commitments, personal development, or health-related issues. Our Career Break Policy is designed to support employees in taking extended periods of leave while maintaining a connection with the organization and facilitating a smooth transition back to work.
+At Impact Orbit Creative Group, we understand that employees may need to take a break from their careers for various personal reasons, such as family commitments, personal development, or health-related issues. Our Career Break Policy is designed to support employees in taking extended periods of leave while maintaining a connection with the organization and facilitating a smooth transition back to work.
 
 **2. Eligibility**
 
@@ -76,4 +76,4 @@ This Career Break Policy will be reviewed periodically to ensure its effectivene
 
 **Conclusion**
 
-At Green Orbit Digital, we recognize the importance of supporting our employees in achieving a healthy work-life balance and pursuing personal and professional growth opportunities. Our Career Break Policy reflects our commitment to providing flexible and supportive work arrangements that meet the diverse needs of our workforce.
+At Impact Orbit Creative Group, we recognize the importance of supporting our employees in achieving a healthy work-life balance and pursuing personal and professional growth opportunities. Our Career Break Policy reflects our commitment to providing flexible and supportive work arrangements that meet the diverse needs of our workforce.

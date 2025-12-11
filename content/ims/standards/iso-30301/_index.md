@@ -1,12 +1,16 @@
 ---
-title: Documentation and Records Management
+title: ISO-30301
+iso_number: '30301'
+acronym: DRMS
+description: ISO 30301:2015-aligned DRMS for Impact Orbit Creative Group
+owner: Ryan Laird
+status: Active
+implemented: November 2024
+version: '2.1'
 weight: 10
 ---
 
-| **Version** | **Date** | **Amendments** | **Author** |
-| --- | --- | --- | --- |
-| 1.0 | [Insert Date] | Initial Draft | Ryan Laird |
-| 1.1 | [Insert Date] | Updates to waste management | Sustainability Lead |
+# Documentation and Records Management
 
 Foreword
 

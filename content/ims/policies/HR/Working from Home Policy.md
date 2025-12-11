@@ -13,12 +13,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-| **Doc. ID** | POL/HR/2024/1357-V1.1 | **Date of Last Revision** | 5 December 2024 |
-| --- | --- | --- | --- |
-| **Effective Date** |  | **Version Number** | 1.0 |
-
-Implemented November 2024  | Version 2.0
-
 **Statement and Purpose of Policy**
 
 1. __________ (the **Employer**) supports working from home for all staff and will agree to an employee working from home in appropriate circumstances, in some cases on a regular basis (full or part-time working from home).

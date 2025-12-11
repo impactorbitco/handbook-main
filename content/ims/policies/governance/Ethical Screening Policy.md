@@ -13,8 +13,6 @@ Version Number: 1.1
 weight: 10
 ---
 
-# Ethical Screening Policy
-
 ## Purpose
 
 The purpose of this Ethical Screening Policy is to establish a framework for conducting ethical evaluations of processes, practices, and individuals within the organization. This policy aims to enhance screening processes, improve onboarding procedures, and align with the organization's commitment to maintaining ethical standards in all its operations.
@@ -94,13 +92,13 @@ This policy will be reviewed periodically, with updates made as necessary to ref
 
 The Ethical Screening Policy underscores the organization’s commitment to ethical practices and continuous improvement in screening and onboarding processes. By adhering to this policy, the organization ensures a robust ethical framework that supports its long-term strategic objectives.
 
-# **Green Orbit Digital Ethical Screening Policy**
+# **Impact Orbit Creative Group Ethical Screening Policy**
 
 POL/ETH/2025/1472-V1.1
 
 # **Mission Alignment**
 
-At **Green Orbit Digital**, our mission is to propel sustainable marketing in the space industry while minimising harm to people and the planet. Every project we take on is a launch opportunity—a chance to support ventures that align with our vision of a greener space sector. To ensure we stay on course, we apply a rigorous ethical screening process to all potential clients and projects, categorising them as **GO** for launch, **NO-GO** for ethical concerns, or requiring further **HOLD** status review.
+At **Impact Orbit Creative Group**, our mission is to propel sustainable marketing in the space industry while minimising harm to people and the planet. Every project we take on is a launch opportunity—a chance to support ventures that align with our vision of a greener space sector. To ensure we stay on course, we apply a rigorous ethical screening process to all potential clients and projects, categorising them as **GO** for launch, **NO-GO** for ethical concerns, or requiring further **HOLD** status review.
 
 # **Ethical Screening Flight Plan**
 
@@ -172,10 +170,10 @@ To maintain mission integrity, all decisions are logged for future reference in 
 
 As in spaceflight, conditions evolve. We **periodically recalibrate** our ethical policy to stay aligned with industry best practices and global sustainability standards. Team members and clients are encouraged to provide input for ongoing improvements.
 
-Green Orbit Digital’s **ethical trajectory is clear**: We support missions that contribute positively to the planet, space industry, and society while avoiding ventures that contradict our values.
+Impact Orbit Creative Group’s **ethical trajectory is clear**: We support missions that contribute positively to the planet, space industry, and society while avoiding ventures that contradict our values.
 
 🌍 **A more sustainable space sector begins with responsible choices.**
 
 *Last Updated: 4 May 2024*
 
-**Approved by:** Green Orbit Digital Mission Review Board
+**Approved by:** Impact Orbit Creative Group Mission Review Board

@@ -15,11 +15,11 @@ weight: 10
 
 **1. Introduction**
 
-At Green Orbit Digital, we recognize the importance of supporting employees during significant life events such as welcoming a new child into their family. Our Maternity, Paternity, Adoption, and Parental Leave Policy aims to provide comprehensive guidelines and support for employees navigating these transitions.
+At Impact Orbit Creative Group, we recognize the importance of supporting employees during significant life events such as welcoming a new child into their family. Our Maternity, Paternity, Adoption, and Parental Leave Policy aims to provide comprehensive guidelines and support for employees navigating these transitions.
 
 **2. Eligibility**
 
-This policy applies to all full-time and part-time employees who have completed at least 12 months of continuous service with Green Orbit Digital.
+This policy applies to all full-time and part-time employees who have completed at least 12 months of continuous service with Impact Orbit Creative Group.
 
 **3. Maternity Leave**
 
@@ -53,13 +53,13 @@ This policy applies to all full-time and part-time employees who have completed 
 **7. Return to Work**
 
 - **Guaranteed Position:** Employees returning from maternity, paternity, adoption, or parental leave will be guaranteed a position equivalent to their previous role or one with similar responsibilities.
-- **Flexible Work Arrangements:** Green Orbit Digital supports flexible work arrangements for returning parents, including options for part-time work, remote work, or adjusted schedules, subject to operational requirements.
+- **Flexible Work Arrangements:** Impact Orbit Creative Group supports flexible work arrangements for returning parents, including options for part-time work, remote work, or adjusted schedules, subject to operational requirements.
 - **Supportive Environment:** We strive to create a supportive and inclusive environment for returning parents, offering resources and assistance as they reintegrate into the workplace.
 
 **8. Additional Benefits**
 
 - **Lactation Facilities:** We provide lactation facilities for breastfeeding mothers, ensuring a comfortable and private space for expressing milk.
-- **Parental Support Programs:** Green Orbit Digital offers parental support programs, including workshops, counseling services, and resources to assist employees in managing the transition to parenthood.
+- **Parental Support Programs:** Impact Orbit Creative Group offers parental support programs, including workshops, counseling services, and resources to assist employees in managing the transition to parenthood.
 
 **9. Compliance**
 
@@ -96,7 +96,7 @@ Implemented November 2024  | Version 2.0
 
 **Statement and Purpose of Policy**
 
-1. Green Orbit Digital (the **Employer**, **we**, **our** or **us**) recognises and respects the rights of expectant and recent mothers to take time away from work in connection with their maternity and childbirth. No one will be subjected to a detriment for exercising their right to take maternity leave in accordance with this policy or for seeking to do so.
+1. Impact Orbit Creative Group (the **Employer**, **we**, **our** or **us**) recognises and respects the rights of expectant and recent mothers to take time away from work in connection with their maternity and childbirth. No one will be subjected to a detriment for exercising their right to take maternity leave in accordance with this policy or for seeking to do so.
 2. The purpose of this policy is to ensure that staff and managers are clear about entitlements to maternity leave, the process that should be followed for arranging leave and the terms that apply during and after maternity leave.
 3. This policy is intended to summarise your statutory rights except for the paragraphs dealing with the Employer's enhanced maternity pay policy. If there is a contradiction between any other section of this policy and the statutory maternity leave entitlements that apply at any time, this policy shall be deemed to be amended, as necessary, to comply with legislative requirements.
 4. This is a statement of policy only and does not form part of your contract of employment. We may amend this policy at any time, at our absolute discretion.

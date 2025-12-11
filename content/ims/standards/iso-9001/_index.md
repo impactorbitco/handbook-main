@@ -1,25 +1,27 @@
 ---
-title: Quality Management System
+title: ISO-9001
 iso_number: '9001'
 acronym: QMS
-description: Quality Management System (QMS) for Impact Orbit Creative Group
+description: ISO 9001:2015-aligned QMS for Impact Orbit Creative Group
 owner: Ryan Laird
 status: Active
 implemented: November 2024
-version: '2.0'
+version: '2.1'
 weight: 10
 ---
 
-# Foreword
+# Quality Management System
 
-Green Orbit Digital has implemented this Quality Management System (QMS) to ensure consistent delivery of high-quality, sustainable marketing services in the space sector. The QMS provides a structured framework for:
+## Foreword
+
+Impact Orbit Creative Group has established this Quality Management System to ensure consistent delivery of high-quality, sustainable marketing services for the space sector. The QMS provides a structured framework for:
 
 - Defining and achieving quality objectives  
 - Ensuring compliance with statutory and regulatory requirements  
-- Promoting continuous improvement and sustainable practices  
+- Promoting continuous improvement and sustainability  
 - Supporting evidence-based decision-making  
 
-It encompasses policies, procedures, work instructions, quality records, and other documentation required to ensure consistent quality and organisational accountability.
+It includes policies, procedures, work instructions, quality records, and other documentation to ensure consistent quality and organisational accountability.
 
 ---
 
@@ -27,32 +29,28 @@ It encompasses policies, procedures, work instructions, quality records, and oth
 
 ### 0.1 General
 
-Adopting a QMS enhances organisational performance, customer satisfaction, and sustainability outcomes.
+Implementing a QMS enhances:
 
-**Benefits include:**
+- Customer satisfaction and trust  
+- Operational consistency and efficiency  
+- Risk and opportunity management  
+- Conformance to ISO 9001:2015 requirements  
 
-- Consistent delivery of products and services meeting requirements  
-- Enhanced customer trust  
-- Proactive management of risks and opportunities  
-- Demonstrating ISO 9001:2015 conformity  
-
-The system uses a **process approach**, integrating:
+The system follows a **process approach** with:
 
 - **Plan-Do-Check-Act (PDCA) cycle**  
-- **Risk-based thinking**  
+- **Risk-based thinking**
 
-**Verbal forms used:**
+**Terms used in this document:**
 
-- **shall** – requirement  
-- **should** – recommendation  
-- **may** – permission  
-- **can** – possibility or capability  
-
-*Note: Guidance notes clarify without imposing mandatory actions.*
+- **Shall** – requirement  
+- **Should** – recommendation  
+- **May** – permission  
+- **Can** – possibility or capability  
 
 ### 0.2 Quality Management Principles
 
-Based on **ISO 9000 principles**:
+The QMS is based on ISO 9000 principles:
 
 1. Customer focus  
 2. Leadership  
@@ -64,57 +62,41 @@ Based on **ISO 9000 principles**:
 
 ### 0.3 Process Approach
 
-#### 0.3.1 General
+- **PDCA Cycle**: Plan objectives, implement activities, monitor performance, and take corrective action.  
+- **Risk-Based Thinking**: Identify risks and opportunities, implement preventive measures, and maximise value.  
 
-The QMS adopts a **process approach** to manage interrelated activities systematically, enhancing effectiveness and efficiency.
+### 0.4 Alignment with Standards
 
-#### 0.3.2 PDCA Cycle
+- ISO 9000 – Fundamentals and vocabulary  
+- ISO 9004 – Guidance for sustained success  
 
-- **Plan** – define objectives, resources, risks  
-- **Do** – implement controls and activities  
-- **Check** – monitor, measure, report deviations  
-- **Act** – take corrective and improvement actions  
-
-#### 0.3.3 Risk-Based Thinking
-
-Embedded to identify deviations, establish preventive measures, and maximise opportunities.
-
-### 0.4 Relationship with Other Standards
-
-Aligns with:
-
-- ISO 9000 – fundamentals and vocabulary  
-- ISO 9004 – guidance for sustained success  
-
-Supports integration with sector-specific QMS; excludes environmental, OH&S, or financial systems unless integrated.
+This QMS can be integrated with other management systems (environmental, OH&S, financial) where applicable.
 
 ---
 
 ## 1. Scope
 
-Covers all activities, processes, and functions delivering sustainable marketing in the space sector.
+Covers all activities supporting sustainable marketing in the space sector, including:
 
-Key aspects:
-
-- **Customer Focus**: Meet and exceed client expectations  
-- **Compliance**: Adhere to legal, statutory, regulatory requirements  
-- **Strategic Alignment**: Support sustainability objectives  
-
-Applies to:
-
-- Client communications  
+- Client communications and onboarding  
 - Service and campaign development  
 - Project planning and delivery  
-- Stakeholder management  
-- Performance monitoring  
+- Stakeholder engagement and supplier management  
+- Performance monitoring and continual improvement  
+
+Focus areas:
+
+- Customer satisfaction  
+- Compliance with legal and regulatory requirements  
+- Alignment with sustainability objectives  
 
 ---
 
 ## 2. Normative References
 
 - ISO 9001:2015 – Requirements  
-- ISO 9000:2015 – Fundamentals & Vocabulary  
-- ISO 9004:2018 – Sustained success guidance  
+- ISO 9000:2015 – Fundamentals & vocabulary  
+- ISO 9004:2018 – Guidance for sustained success  
 
 ---
 
@@ -130,26 +112,38 @@ Applies to:
 
 ## 4. Context of the Organisation
 
-### 4.1 Understanding Context
+### 4.1 Understanding the Organisation and Its Context
 
-Green Orbit Digital evaluates internal and external factors affecting QMS outcomes.
+Impact Orbit Creative Group evaluates internal and external factors that can affect QMS outcomes.  
 
-**Internal Factors:** strategic direction, culture, competence, operational structure, knowledge assets.  
-**External Factors:** regulatory, sector conditions, technology, environmental considerations, geopolitical changes.  
+**Internal factors:** strategic direction, culture, competence, operational structure.  
+**External factors:** regulatory environment, sector trends, technology, environmental considerations.  
 
-Evaluation uses **PESTLE**, **SWOT**, and management review.
+Evaluation tools: PESTLE, SWOT, management review.
 
-### 4.2 Needs of Interested Parties
+### 4.2 Understanding the Needs of Interested Parties
 
-Includes clients, employees, regulators, suppliers, community, and industry stakeholders. Monitored through feedback, audits, and trend analysis.
+Interested parties include:
 
-### 4.3 Scope Definition
+- Clients  
+- Employees  
+- Regulators  
+- Suppliers  
+- Community and industry stakeholders  
 
-Covers digital marketing strategy, campaign delivery, branding, communications, and advisory services in the space sector.
+Their needs are monitored via feedback, audits, and trend analysis.
+
+### 4.3 Scope of the QMS
+
+Applies to all marketing services including:
+
+- Digital strategy and branding  
+- Campaign planning and execution  
+- Advisory and consultancy services  
 
 ### 4.4 QMS Processes
 
-Processes include:
+Key processes:
 
 1. Leadership & governance  
 2. Client acquisition & onboarding  
@@ -165,31 +159,38 @@ Processes include:
 
 ### 5.1 Leadership and Commitment
 
-Top management integrates QMS into business processes, aligns with sustainability, ensures resource availability, and supports risk-based thinking.
+Top management ensures QMS integration with business strategy, sustainability alignment, and provision of necessary resources.  
 
 ### 5.2 Quality Policy
 
-Defines commitment to sustainable, high-quality digital marketing aligned with client needs. Communicated internally and externally, reviewed periodically.
+Impact Orbit Creative Group maintains a quality policy emphasizing:
 
-### 5.3 Roles, Responsibilities, Authorities
+- Sustainable, high-quality marketing solutions  
+- Alignment with client expectations and statutory requirements  
+- Communication internally and externally, with periodic review  
 
-Clearly documented roles, responsibilities, and delegated authority ensure QMS conformity.
+### 5.3 Roles, Responsibilities, and Authorities
+
+Documented responsibilities ensure QMS conformity and accountability across all functions.
 
 ---
 
 ## 6. Planning
 
-### 6.1 Risks and Opportunities
+### 6.1 Actions to Address Risks and Opportunities
 
-Embedded in strategic planning and operational processes. Tools: SWOT, PESTLE, stakeholder mapping. Documented in **Risk & Opportunity Register**.
+- Risk-based thinking embedded in strategy and operations  
+- Tools: SWOT, PESTLE, stakeholder mapping  
+- Documented in Risk & Opportunity Register
 
-### 6.2 Quality Objectives
+### 6.2 Quality Objectives and Planning to Achieve Them
 
-SMART objectives for customer satisfaction, sustainability, and process efficiency. Tracked with KPIs and performance data.
+- SMART objectives for customer satisfaction, process efficiency, and sustainability  
+- Monitored with KPIs and performance indicators  
 
-### 6.3 Change Planning
+### 6.3 Planning of Changes
 
-Changes controlled via impact assessment, resource planning, review, and feedback.
+Changes are controlled through impact assessment, resource allocation, and review.
 
 ---
 
@@ -197,54 +198,64 @@ Changes controlled via impact assessment, resource planning, review, and feedbac
 
 ### 7.1 Resources
 
-People, infrastructure, technology, financial resources maintained to ensure QMS effectiveness.
+People, infrastructure, and technology provided to ensure QMS effectiveness.
 
 ### 7.2 Competence
 
-Training and skill assessments ensure personnel meet requirements.
+Training, assessments, and professional development to ensure personnel capability.
 
 ### 7.3 Awareness
 
-Staff informed of quality policy, sustainability mission, and implications of nonconformance.
+Staff are aware of:
+
+- Quality policy  
+- Sustainability goals  
+- Implications of nonconformance  
 
 ### 7.4 Communication
 
-Internal and external communication ensures transparency and alignment.
+Clear internal and external communication ensures alignment and transparency.
 
 ### 7.5 Documented Information
 
-Controlled documents, retention policies, and traceability maintained.
+Document control, retention, and traceability maintained in compliance with ISO requirements.
 
 ---
 
 ## 8. Operation
 
-Covers planning, control, delivery, and continual improvement of marketing services.
+Covers service planning, delivery, control of externally provided services, and nonconformity management.  
 
-Sections include operational planning, meeting customer requirements, service design, control of external providers, service provision, and nonconformity management.
+Key activities:
+
+- Operational planning  
+- Meeting client requirements  
+- Campaign design and execution  
+- Supplier evaluation and control  
+- Handling nonconformities and corrective actions  
 
 ---
 
 ## 9. Performance Evaluation
 
-Includes monitoring, measurement, analysis, internal audits, and management review to ensure continual improvement.
+- Monitoring, measurement, and analysis of processes  
+- Internal audits  
+- Management review to ensure continual improvement  
 
 ---
 
 ## 10. Improvement
 
-Commitment to continual improvement:
+Commitment to continual improvement includes:
 
-- Embedded in culture  
-- Evidence-based actions  
-- Nonconformity management  
-- Customer focus  
-- Solopreneur considerations  
+- Embedding improvement culture  
+- Evidence-based corrective actions  
+- Customer focus and satisfaction  
+- Lessons learned and process refinement  
 
 ---
 
 ## Annexes
 
-### A. Clarification of Structure, Terminology, Concepts
-
-### B. Other ISO Standards Relevant to QMS
+- **A. Clarification of Structure, Terminology, Concepts**  
+- **B. Relevant ISO Standards for QMS Integration**  

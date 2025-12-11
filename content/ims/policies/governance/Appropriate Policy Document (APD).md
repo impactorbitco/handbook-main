@@ -1,89 +1,89 @@
 ---
 title: Appropriate Policy Document (APD)
-Verification: Expired
 Owner: Ryan Laird
 Company Handbook: false
 Created time: 1 December 2024 13:26
 ID: POL-105
-IMS: Compliance Management System (https://www.notion.so/Compliance-Management-System-1b5d6625c679802ba50ee129ca1d1028?pvs=21),
-  Social Responsibility Management System (https://www.notion.so/Social-Responsibility-Management-System-1bcd6625c679802ebb29cba68047cbf5?pvs=21),
-  Innovation Management System (https://www.notion.so/Innovation-Management-System-1b5d6625c67980ff851afbbabdf60f0d?pvs=21),
-  IT Service Management System (https://www.notion.so/IT-Service-Management-System-1b5d6625c67980c9a30bd487bffe9a47?pvs=21),
-  Event Sustainability Management System (https://www.notion.so/Event-Sustainability-Management-System-1e2d6625c679808fa8a2f0412ac81423?pvs=21),
-  Business Continuity Management System (https://www.notion.so/Business-Continuity-Management-System-1b5d6625c679800480a2c3ef20abba4f?pvs=21),
-  Facility Management System (https://www.notion.so/Facility-Management-System-1b5d6625c67980fc8911cf753d275394?pvs=21),
-  Energy Management System (https://www.notion.so/Energy-Management-System-1b5d6625c6798099a75ad3638967935d?pvs=21),
-  UN Global Compact (https://www.notion.so/UN-Global-Compact-1b5d6625c67980a3b175c5a15d87b249?pvs=21),
-  PMP (https://www.notion.so/PMP-1ded6625c67980fcb10bed8eed0acb03?pvs=21), Knowledge
-  Management System (https://www.notion.so/Knowledge-Management-System-1b5d6625c67980c3b86fc38778e465bb?pvs=21),
-  Risk Management System (https://www.notion.so/Risk-Management-System-1b6d6625c67980bdb161f333b4bd4c00?pvs=21),
-  Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21),
-  Quality Management System (https://www.notion.so/Quality-Management-System-132d6625c67980ffa524f05f5d52ad89?pvs=21),
-  Supply Chain Security Management (https://www.notion.so/Supply-Chain-Security-Management-1b5d6625c6798010a208eb0e026912ab?pvs=21),
-  Documentation and Records Management (https://www.notion.so/Documentation-and-Records-Management-1b5d6625c6798087831bf44f4c4550a4?pvs=21),
-  Environmental Management System (https://www.notion.so/Environmental-Management-System-149d6625c679802bb2fcdbee1e6fc647?pvs=21),
-  Assets Management System (https://www.notion.so/Assets-Management-System-1b5d6625c6798030adf8e68571961f1e?pvs=21),
-  Collaborative Business Relationship Management (https://www.notion.so/Collaborative-Business-Relationship-Management-1b5d6625c67980dc8b2dc08864940c12?pvs=21),
-  Information Security Management System (https://www.notion.so/Information-Security-Management-System-1b5d6625c67980228168d60bad8c1c14?pvs=21),
-  B Corp / Ethical Charter (https://www.notion.so/B-Corp-Ethical-Charter-1ded6625c67980159f45ebf8e1202e97?pvs=21)
+IMS: Compliance Management System, Social Responsibility Management System, Innovation Management System, IT Service Management System, Event Sustainability Management System, Business Continuity Management System, Facility Management System, Energy Management System, UN Global Compact, PMP, Knowledge Management System, Risk Management System, Occupational Health and Safety Management, Quality Management System, Supply Chain Security Management, Documentation and Records Management, Environmental Management System, Assets Management System, Collaborative Business Relationship Management, Information Security Management System, B Corp / Ethical Charter
 Last edited time: 7 October 2025 18:33
-Parent item: Integrated Management System Policy (Integrated%20Management%20System%20Policy%20285d6625c67980c4a581e1c7edd84c98.md)
+Parent item: Integrated Management System Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Appropriate Policy Document (APD)
 
 ## Overview
 
-The Appropriate Policy Document (APD) serves as a strategic directive to outline policies for information security management and documentation within the organization. Classified under Level 1 – Strategic Direction, this document is aligned with ISO standards and provides a framework to ensure compliance, consistency, and effective information security practices.
-
-## Document Details
-
-- **Abbreviations & Acronyms**: APD
-- **Date Created**: May 1, 2025, 11:13 PM
-- **Doc. Classification**: Policy
-- **IMS Ref.**: DRMS/A5.1/POL/1354
-- **ISO Group**: A5.1 - Policies for Information Security
-- **Management Functions**: Management
-- **Mgt Code**: MGT
-- **Owner**: Ryan Laird
-- **Priority Level**: Low
-- **Publishing Status**: In progress
-- **Standards**: ISO 30301: Documentation and Records Management
-- **Status**: In Review
-- **Version Number**: 1.1
-- **Visibility**: Public
+The Appropriate Policy Document (APD) provides a strategic framework for the management of information security and organizational documentation within **Impact Orbit Creative Group**. Classified as a Level 1 – Strategic Direction document, the APD ensures that information is handled consistently, securely, and in compliance with international standards.
 
 ## Purpose
 
-The APD is designed to establish a foundation for information security policies within the organization. It ensures that all documentation and records management processes adhere to the requirements set out in **ISO 30301** and related standards. By aligning with these standards, the APD aims to maintain organizational integrity, protect sensitive information, and promote a culture of compliance.
+The purpose of this document is to establish a foundation for all information security and records management policies. The APD ensures that the organization’s documentation processes adhere to **ISO 30301** standards and related guidelines. Through this framework, the organization aims to:
+
+- Protect sensitive and critical information.
+- Maintain organizational integrity and transparency.
+- Promote a culture of compliance and accountability.
 
 ## Scope
 
-This document applies to all aspects of **information security policies** within the organization and is relevant to management and operational staff. The APD is a strategic directive that supports both internal operations and external compliance requirements.
+This document applies to all activities and personnel involved in:
+
+- Developing, maintaining, and implementing information security policies.
+- Creating, managing, storing, or processing organizational records.
+- Ensuring compliance with internal policies and external regulatory requirements.
+
+It is relevant to all management, operational staff, and any individuals with responsibility for organizational documentation and information security.
 
 ## Key Objectives
 
-1. **Policy Framework**: To provide a comprehensive framework for managing information security policies in accordance with ISO standards.
-2. **Compliance**: To ensure alignment with ISO 30301 and other relevant documentation and records management standards.
-3. **Strategic Direction**: To support the organization's strategic goals in documentation and information security management.
-4. **Governance**: To establish clear ownership, responsibilities, and accountabilities for policy management.
-5. **Visibility**: To ensure public access and transparency where appropriate.
+1. **Policy Framework**  
+   Establish a comprehensive framework for developing, implementing, and maintaining information security and records management policies.
+
+2. **Compliance**  
+   Ensure adherence to ISO 30301 and other relevant documentation and records management standards.
+
+3. **Strategic Direction**  
+   Support the organization’s broader strategic goals by providing clear guidelines for the secure management of information.
+
+4. **Governance**  
+   Define ownership, responsibilities, and accountability for the creation, review, and enforcement of policies.
+
+5. **Transparency and Visibility**  
+   Promote transparency by ensuring appropriate access to policies and documentation for internal and external stakeholders.
 
 ## Responsibilities
 
-- **Owner**: Ryan Laird is responsible for overseeing the development, approval, and implementation of the APD.
-- **Management Functions**: The Management team is tasked with supporting and enforcing the policies outlined in this document.
-- **Verification**: The APD has been verified and is currently under review to ensure alignment with organizational and ISO standards.
+- **Owner**: Ryan Laird is responsible for overseeing the development, approval, and implementation of the APD.  
+- **Management Functions**: The management team is responsible for enforcing policies, monitoring compliance, and supporting operational staff.  
+- **Verification**: Policies under this APD are verified periodically to ensure alignment with organizational objectives and ISO standards.
+
+## Implementation
+
+- All staff must follow the guidance provided in the APD when handling information and records.  
+- Policies must be applied consistently across all departments to maintain security, accuracy, and compliance.  
+- Training and awareness programs will be provided to ensure employees understand their responsibilities under this APD.
 
 ## Publishing and Review
 
-- **Publishing Status**: The document is currently "In progress" and will be published upon final approval.
-- **Review Status**: The APD is classified as "In Review" and will undergo further scrutiny to ensure accuracy and compliance.
+- **Publishing Status**: The document is currently "In Progress" and will be published upon final approval.  
+- **Review Frequency**: The APD will be reviewed annually or as needed to reflect changes in organizational operations, technology, or standards.  
+- Updates will be documented, and staff will be informed of any changes affecting their responsibilities.
+
+## Continuous Improvement
+
+- The APD is a living document and will be updated to incorporate best practices in information security and records management.  
+- Feedback from audits, staff, and stakeholders will be considered in future revisions.  
+- Continuous improvement ensures ongoing compliance with ISO standards and organizational objectives.
 
 ## Summary
 
-The Appropriate Policy Document (APD) is an integral part of the organization's information security strategy. As a Level 1 – Strategic Direction document, it provides a structured approach to policy development and governance while ensuring compliance with ISO standards. The document is verified, publicly visible, and managed under the leadership of Ryan Laird. The APD represents the organization's commitment to safeguarding information and maintaining robust documentation and records management practices.
+The APD provides a structured and strategic approach to information security and records management. It defines clear responsibilities, aligns with ISO 30301 standards, and supports the organization’s commitment to compliance, transparency, and integrity. Managed under the leadership of Ryan Laird, the APD demonstrates the organization’s proactive approach to safeguarding information and maintaining robust documentation practices.
 
-This draft serves as the initial framework for the APD and will be updated as necessary during the review process.
+## Approval
+
+This policy has been approved by the highest level of management at **Impact Orbit Creative Group**, underscoring its strategic importance and the organization’s commitment to compliance, information security, and effective records management.
+
+## Contact Information
+
+For questions, guidance, or reporting related to this policy, please contact:  
+**Contact Person/Department:** [Insert appropriate contact details]

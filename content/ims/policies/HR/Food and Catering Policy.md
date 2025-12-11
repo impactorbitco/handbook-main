@@ -5,28 +5,17 @@ Owner: Ryan Laird
 Company Handbook: false
 Created time: 24 March 2025 10:41
 ID: POL-75
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Occupational Health and Safety Management
 Last edited time: 7 October 2025 17:35
-Parent item: Environmental Management Policy (Environmental%20Management%20Policy%201c0d6625c67981c6b541fa5c32d9fb28.md)
+Parent item: Environmental Management Policy
 Status: Not started
 Version Number: 1.1
 weight: 10
 ---
-# Food and Catering Policy
-
-**Policy Number:** S
-
-**Version:** 1.0
-
-**Effective Date:** [Insert Date]
-
-**Last Reviewed:** 5 December 2024
-
----
 
 ## **1. Purpose and Principles**
 
-Green Orbit Digital is committed to leading by example in climate action—including how we source, serve, and consume food.
+Impact Orbit Creative Group is committed to leading by example in climate action—including how we source, serve, and consume food.
 
 This policy ensures that all food procurement and catering practices:
 
@@ -46,7 +35,7 @@ Food is a powerful tool for climate justice, equity, and systems change.
 
 ## **2. Scope**
 
-This policy applies to all Green Orbit Digital staff, contractors, and project partners where relevant, covering:
+This policy applies to all Impact Orbit Creative Group staff, contractors, and project partners where relevant, covering:
 
 - Business travel and work-related meals
 - Team and client meetings
@@ -85,7 +74,7 @@ The following are *not* reimbursable unless exempted (see Section 6):
 
 ### 🍽 Green Orbit-Organised
 
-All food and drink provided by Green Orbit Digital at:
+All food and drink provided by Impact Orbit Creative Group at:
 
 - Internal meetings and workshops
 - Public events, panels, and launch receptions
@@ -211,7 +200,7 @@ Implemented 03 January 2025  | Version 2.0
 
 # **1. Purpose and Principles**
 
-Green Orbit Digital is committed to leading by example in climate action—including how we source, serve, and consume food.
+Impact Orbit Creative Group is committed to leading by example in climate action—including how we source, serve, and consume food.
 
 This policy ensures that all food procurement and catering practices:
 
@@ -229,7 +218,7 @@ Food is a powerful tool for climate justice, equity, and systems change.
 
 # **2. Scope**
 
-This policy applies to all Green Orbit Digital staff, contractors, and project partners where relevant, covering:
+This policy applies to all Impact Orbit Creative Group staff, contractors, and project partners where relevant, covering:
 
 - Business travel and work-related meals
 - Team and client meetings
@@ -264,7 +253,7 @@ The following are *not* reimbursable unless exempted (see Section 6):
 
 **🍽 Green Orbit-Organised**
 
-All food and drink provided by Green Orbit Digital at:
+All food and drink provided by Impact Orbit Creative Group at:
 
 - Internal meetings and workshops
 - Public events, panels, and launch receptions

@@ -1,5 +1,5 @@
-# Secure Use of Cryptography
-
+---
+title: Secure Use of Cryptography
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -10,8 +10,7 @@ Last edited time: 7 October 2025 19:15
 Parent item: Encryption Policy (Encryption%20Policy%201ddd6625c67980f3a920e25fa22c9220.md)
 Status: Not started
 Version Number: 1.1
-
-# Policy on the Secure Use of Cryptography
+---
 
 ## 1. Introduction
 

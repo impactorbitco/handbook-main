@@ -1,10 +1,6 @@
 ---
 title: Safer Recruitment Policy
 weight: 10
----
-
-# Safer Recruitment Policy
-
 Verification: Expired
 Owner: Ryan Laird
 Company Handbook: No
@@ -15,6 +11,7 @@ Last edited time: 7 October 2025 17:28
 Parent item: Fair Employment and Labour Standards Policy (Fair%20Employment%20and%20Labour%20Standards%20Policy%20285d6625c679807ba5efe51b1cf97c93.md)
 Status: Not started
 Version Number: 1.1
+---
 
 **Introduction:**
 At Green Orbit Digital, we are committed to ensuring the safety and well-being of all individuals involved in our operations. Our Safer Recruitment Policy outlines our procedures and principles to promote a safe and secure recruitment process, safeguarding both our employees and the integrity of our organization.

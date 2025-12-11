@@ -4,17 +4,17 @@ Verification: Expired
 Owner: Ryan Laird
 Company Handbook: true
 Created time: 24 March 2025 10:40
-GRI Disclosures: 406-1 Incidents of discrimination and corrective actions taken (https://www.notion.so/406-1-Incidents-of-discrimination-and-corrective-actions-taken-1dad6625c679802e98bff3bb49ca5da0?pvs=21)
+GRI Disclosures: 406-1
 ID: POL-194
-IMS: Occupational Health and Safety Management (https://www.notion.so/Occupational-Health-and-Safety-Management-1b5d6625c679806a9549eedb564e326a?pvs=21)
+IMS: Occupational Health and Safety Management
 Last edited time: 7 October 2025 16:28
-Parent item: Health, Safety, and Wellbeing Policy (Health,%20Safety,%20and%20Wellbeing%20Policy%201c0d6625c6798137a51fc57a6c4ef9d9.md)
+Parent item: Health, Safety, and Wellbeing Policy
 Status: Not started
-UN Global Compact principles: Principle 6 (https://www.notion.so/Principle-6-1d8d6625c67980f9bdcafcc8bdb540d6?pvs=21)
+UN Global Compact principles: Principle 6
 Version Number: 1.1
 weight: 10
 ---
-# Harassment and Bullying at Work
+
 Our Anti-Discrimination and Anti-Harassment policies go hand-in-hand, and reflect our commitment to our [Equal Opportunities Policy](https://www.wholegraindigital.com/granary/post/equal-opportunities-policy).
 
 We aim to ensure that Wholegrain Digital is a happy place to work; discrimination and harassment will not be tolerated. We want our team members to feel safe, respected and valued.
