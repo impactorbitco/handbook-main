@@ -31,6 +31,11 @@ jobs:
         run: |
           npm install -D postcss postcss-cli autoprefixer
 
+      - name: Build site
+        run: |
+          hugo --minify --gc --enableGitInfo
+          touch public/.nojekyll
+
       # Setup Hugo Extended version
       - name: Setup Hugo (extended)
         uses: peaceiris/actions-hugo@v3
