@@ -13,26 +13,39 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
 
+      # Install Node for PostCSS
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      # Install PostCSS + Autoprefixer required by Docsy
+      - name: Install PostCSS
+        run: |
+          npm install -D postcss postcss-cli autoprefixer
+
+      # Setup Hugo Extended version
       - name: Setup Hugo (extended)
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.152.2'  # recommended stable version
           extended: true
 
+      # Build the site
       - name: Build site
         run: |
           hugo --minify --gc --enableGitInfo
-          # Add .nojekyll for GitHub Pages
           touch public/.nojekyll
-          # List contents for debugging
           ls -R public
 
+      # Upload artifact for GitHub Pages
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
