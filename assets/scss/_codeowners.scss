@@ -1,0 +1,44 @@
+$codeowners-avatar-size: 30px !default;
+
+.codeowners {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: 1em 0;
+
+  &.codeowners-group {
+    .codeowner-with-image .codeowner-name {
+      display: none;
+    }
+  }
+}
+
+.codeowner {
+  align-items: center;
+  display: flex;
+  margin-right: 10px;
+
+  a {
+    text-decoration: none;
+  }
+
+  .codeowner-avatar {
+    // Normally we"d want rem units but the _scaffolding.scss resets to font-size to 10px and then .container.md-page sets to 16px. I"d refactor _scaffolding.scss, but don"t know the impact across the site at the moment.
+    width: $codeowners-avatar-size;
+    height: $codeowners-avatar-size;
+
+    // Defensive styling in case img url is broke so it still looks OK
+    max-width: $codeowners-avatar-size;
+    max-height: $codeowners-avatar-size;
+    overflow: hidden;
+
+    margin-right: 10px;
+
+    border-radius: 50%;
+    border: 1px solid lightgray;
+  }
+
+  .codeowner-username {
+    font-size: 12px;
+  }
+}

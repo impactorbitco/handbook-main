@@ -1,0 +1,162 @@
+@import "codeowners";
+@import "handbook";
+@import "internal-handbook";
+@import "label";
+@import 'td/code-dark'
+
+img.avatar {
+  width: 30px;
+  height: 30px;
+  max-width: 30px;
+  max-height: 30px;
+  overflow: hidden;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 1px solid lightgray;
+  aspect-ratio: auto 90 / 90;
+  overflow-clip-margin: content-box;
+}
+
+img.member-img {
+  width: 120px;
+  height: 120px;
+  max-width: 120px;
+  max-height: 120px;
+  overflow: hidden;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 5px solid lightgray;
+  aspect-ratio: auto 90 / 90;
+  overflow-clip-margin: content-box;
+  filter: unquote("grayscale()");
+}
+
+img.member-img:hover, img.member-img-color {
+    width: 120px;
+    height: 120px;
+    max-width: 120px;
+    max-height: 120px;
+    overflow: hidden;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 5px solid lightgray;
+    aspect-ratio: auto 90 / 90;
+    overflow-clip-margin: content-box;
+}
+
+.member-expertise {
+    color: orange;
+    padding-left: 1.5rem;
+    font-size: 85%;
+}
+
+.td-footer {
+  background-color: $primary;
+}
+
+.gdoc {
+  display:flex;
+  margin:0;
+  padding:0;
+  height: 30em;
+  width: 100%;
+  border-radius: $border-radius;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  resize:both;
+  overflow:hidden
+}
+
+.gdoc > iframe {
+  flex-grow:1;
+  margin:0;
+  padding:0;
+  border:0;
+  height: 100%;
+  width:100%;
+}
+
+.td-page body {
+  scroll-margin-top: 4.5rem !important; /* height of sticky header */
+}
+
+.td-main main {
+  padding-right: 3rem !important;
+}
+
+.td-404 .td-main main {
+  padding-right: 0 !important;
+}
+
+.td-sidebar-toc {
+  @extend .td-sidebar-nav;
+}
+
+.td-navbar .nav-link {
+  white-space: nowrap;
+}
+
+.table thead th,
+.td-content > table thead th,
+.td-box .row.section > table thead th {
+  white-space: nowrap;
+}
+
+.section-index .entry {
+  .section-summary-content {
+    margin-top: .5rem;
+  }
+}
+
+.td-content > .td-byline {
+  max-width: 80%;
+}
+
+.note {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.output {
+    margin: 2rem 0;
+}
+.output div {
+    padding-top: 16px;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem
+}
+
+/* details elements */
+details {
+    border: 1px solid $gray-200;
+    border-radius: 4px;
+    padding: .5em .5em;
+    margin-bottom: 1em;
+}
+
+details > details {
+  margin-top: 1em;
+  margin-bottom: 0em;
+}
+
+summary {
+    line-height: 1.2;
+    font-weight: 500;
+    padding: 0.5em;
+    color: $primary;
+}
+
+details[open] > summary {
+  margin-bottom: 1em;
+}
+
+details[open].normalmode{
+  border: 0px solid $gray-200;
+  border-radius: $border-radius;
+  padding: 0em;
+  margin: 0em;
+}
+
+details[open].normalmode > summary{
+ display: none;
+}

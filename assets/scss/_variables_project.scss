@@ -1,0 +1,36 @@
+$primary: #6e49cb;
+$secondary: #fca121;
+$success: #28a745;
+$warning: #ffc107;
+$important: #E24329;
+$orange: #fd7e14;
+
+$border-radius: .25rem;
+
+// $grid-gutter-width: 20px;
+// $display1-size: 4.5rem !default;
+$display-font-sizes: (
+  1: 4.5rem,
+  2: 4rem,
+  3: 3.5rem,
+  4: 3rem,
+  5: 2.5rem,
+  6: 2rem
+);
+
+$google_font_name: "Inter";
+
+.home-section-h {
+  padding: 2em !important;
+}
+
+h3 > a > sup {
+  font-size: 0.4em;
+  padding-left: 0.5em;
+  top: -1em;
+}
+
+.data-yellow {
+  color: $warning;
+  font-weight: 800;
+}

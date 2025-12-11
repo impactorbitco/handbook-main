@@ -1,5 +1,5 @@
 ---
-title: Customer Experience Journey Research
+title: Green Orbit Academy
 description: Understanding the current customer experience, identifying opportunities
   where we can improve, and leveraging metrics to advocate key experience improvement
   initiatives.
