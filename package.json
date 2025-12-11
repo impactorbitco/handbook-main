@@ -1,10 +1,10 @@
 {
-  "name": "internal-handbook",
+  "name": "handbook-main",
   "private": true,
-  "description": "View the internal handbook at <https://internal.gitlab.com>",
+  "description": "View the handbook at <https://handbook.impactorbit.co>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com:gitlab-com/content-sites/internal-handbook.git"
+    "url": "git+ssh://git@github.com:impactorbitco/handbook-main.git"
   },
   "scripts": {
     "sync-data": "./scripts/sync-data.sh",
