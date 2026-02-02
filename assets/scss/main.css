@@ -54,9 +54,9 @@ h3 > a > sup, .h3 > a > sup, .td-footer__links-item > a > sup {
   --bs-danger: #ed6a5a;
   --bs-light: #d3f3ee;
   --bs-dark: #00bfa6;
-  --bs-primary-rgb: 110, 73, 203;
-  --bs-secondary-rgb: 252, 161, 33;
-  --bs-success-rgb: 40, 167, 69;
+  --bs-primary-rgb: 53, 80, 92;
+  --bs-secondary-rgb: 227, 161, 39;
+  --bs-success-rgb: 0, 191, 166;
   --bs-info-rgb: 192, 224, 222;
   --bs-warning-rgb: 255, 193, 7;
   --bs-danger-rgb: 237, 106, 90;
