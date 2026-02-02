@@ -8,6 +8,10 @@ IMS:
 - Information Security Management System
 - Supply Chain Security Management
 ---
+# Impact Orbit Creative Group  
+## Code of Confidentiality
+
+---
 
 ## Table of Contents
 1. [Purpose](#purpose)
@@ -26,12 +30,13 @@ IMS:
 ---
 
 ## Purpose
-The Code of Confidentiality establishes the principles and responsibilities for protecting sensitive and proprietary information at Impact Orbit Creative Group. It ensures that employees, contractors, and associates understand the importance of confidentiality and act consistently to protect the interests of our clients, partners, and the company.  
+The **Code of Confidentiality** establishes the principles and responsibilities for protecting sensitive and proprietary information at **Impact Orbit Creative Group**. It ensures that employees, contractors, and associates understand the importance of confidentiality and act consistently to protect the interests of our clients, partners, and the company.  
 
 ---
 
 ## Scope
 This Code applies to all individuals associated with Impact Orbit Creative Group, including:  
+
 - Employees  
 - Board members and investors  
 - Contractors and consultants  
@@ -43,6 +48,7 @@ It covers all divisions, including Green Orbit Digital, Green Orbit Space Commun
 
 ## Definition of Confidential Information
 Confidential Information includes, but is not limited to:  
+
 - Intellectual property (trade secrets, patents, copyrights)  
 - Business plans, strategies, and financial data  
 - Client, partner, and vendor information  
@@ -97,6 +103,7 @@ All personnel must comply with this Code, internal policies, and applicable laws
 
 ## Consequences of Violations
 Violations of this Code may result in:  
+
 - Disciplinary action, up to and including termination of employment or contract  
 - Legal consequences, including civil liability or criminal prosecution  
 
@@ -104,9 +111,5 @@ Violations of this Code may result in:
 
 ## Acknowledgment
 By accepting employment or engagement with Impact Orbit Creative Group, individuals acknowledge their understanding of, and agreement to comply with, this Code of Confidentiality.  
-
-**Date of Adoption:**  
-**Authorised Signatory:**  
-**For Impact Orbit Creative Group**  
 
 This Code reflects our commitment to maintaining trust and protecting the interests of our clients, employees, and stakeholders.

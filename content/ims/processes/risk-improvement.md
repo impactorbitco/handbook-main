@@ -1,71 +1,118 @@
 ---
-title: Risk Improvement
+title: Risk and Improvement Management
 weight: 10
 ---
 
-The Cash Management job family will focus on leading and enhancing day-to-day cash management and treasury operations for the organization, including potential hedging of intercompany and foreign currency expense and stock administration. The VP, Cash Management will work closely with finance management to ensure appropriate financial systems and processes have been put in place to effectively manage corporate treasury risks. This job family will oversee all aspects of the cash management function worldwide.
+## 1. Purpose
 
-## Responsibilities
+This procedure defines how the organisation identifies, assesses, manages, and improves risks within the Integrated Management System (IMS). The purpose is to ensure that risks are proactively controlled, mitigated, and monitored while promoting continual improvement across quality, environmental, information security, health and safety, and other IMS areas.
 
-- Direct Responsible Individual and owner of and will lead the monthly close process for our GitLab's equity and treasury management and is responsible for achieving our target for days to close.
-- Handle Project Management as directed by the PAO.  This will include projects on close to report efficiency, cash management and other projects as needed.
-- Will develop and ensure compliance of GitLab's cash management and stock administration  policies and procedures in full compliance with US GAAP and SEC reporting standards.
-- Will direct compliance for Treasury management which includes investment of cash, hedging activity of expenses and intercompany activity and overall banking arrangements.  This may include revolving line of credit management and debt covenant reporting.
-- If the company does common stock issuances, preferred stock offerings or debt financing, this role will handle the accounting and management of these items.
-- Drive processes  to optimize and automate accounting cash, treasury and stock operations to drive efficient monthly/quarterly close cycles and improve accuracy and efficiency.
-- As part of this role, will work with the PAO and CFO on insurance management.
-- Will assist in driving overall banking arrangements and bank strategy.  This will include foreign exchange management and limit foreign exchange expenses.
-- Partner effectively with other finance team members and non-accounting functions to drive improved controls and process enhancements.
-- Subject matter expert to make decisions, prioritize effectively and meet deadlines while maintaining the highest level of standards for completeness and accuracy.
-- Sets the standard as a leader and coach for increased levels of employee job satisfaction and employee engagement through development and mentoring of the stock and treasury team.
-- Leader in hiring and developing remote employees.
+⸻
 
-## Requirements
+## 2. Scope
 
-- Proven experience developing and leading a high-performing cash management group.
-- Leadership experience at the Vice-President level in a software or global technology company.  Will have both Public and Private Company experience.
-- Detailed experience with specific knowledge of strategic and tactical vision and understands and drives best-practices to guide a high-performing cash management team.
-- The VP has demonstrated strong business judgment applied to routine and complex financial issues.
-- Professional acumen and demonstrated ability in addressing business issues and ability to explain to all levels of management.
-- Demonstrated ability to work with investor facing teams to showcase the company's cash and stock strategies.
-- Has driven international teams working with overseas cash and stock operations.
-- Leader in driving change management and process efficiency.
-- Over fifteen to twenty (15-20) years of experience dealing with complex cash and stock matters.
-- Experience driving banking arrangements and insurance management.
-- Proven success as a VP  managing complex global business entities, and proven ability to handle the cash/stock/debt reporting duties.
-- Demonstrated technical experience with complex stock/cash/debt management.
-- Demonstrated ability to understand the details behind transactions, understand business processes and resolve issues at a deep level with the acumen to drive process efficiencies.
-- Demonstrated ability to drive change in processes while improving employee engagement and ownership.
-- Self-motivated team player who can credibly communicate with and relate to individuals at all levels in the organization and other associated internal customer teams, with demonstrated experience in mentor and lead distributed teams.
-- Ability to work with the FP&A/Tax/Investor Relations/CIO organization on all aspects of PMO functions and cash/stock/debt management.
-- Proven ability to explain complex issues across the organization and resolve those issues.
-- Ability to both grow in the role and grow with the company, demonstrating leadership capabilities and upward progression.  Viewed as the DRI on all cash/stock/debt issues and processes.
-- Ability to use GitLab
+This procedure applies to:
+- All organisational processes and activities within the IMS
+- All personnel, including employees, contractors, and third parties
+- All types of risks, including strategic, operational, compliance, financial, and reputational
 
-## Job Grade
+⸻
 
-The VP, Cash Management is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+## 3. Principles
 
-## Performance Indicators
+The organisation adopts the following principles in risk and improvement management:
+- Risk-based decision-making and prioritisation
+- Early identification and assessment of risks
+- Integration of risk management into business and operational processes
+- Linkage between risk management and continual improvement
+- Learning from incidents, audits, and feedback
+- Proportionate controls and monitoring
 
-- Debt covenant management
-- Foreign exchange hedging strategy
-- [New hire location factor](https://about.gitlab.com/#new-hire-location-factor)
-- Cash efficiency and investment strategy
+⸻
 
-## Career Ladder
+## 4. Risk Identification
 
-The next step in the Cash and Project Management job family is to move to a senior leader or executive leadership job family which could be the PAO role or similar.
+Risks are identified through:
+- Internal and external audits
+- Process monitoring and measurement
+- Incident, near miss, and nonconformity reports
+- Management review
+- Stakeholder feedback and consultation
+- Changes in legal, regulatory, or strategic context
 
-## Hiring Process
+All identified risks are logged in the risk register.
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+⸻
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/candidate-faq/#screening-call) with one of our Global Recruiters.
-- Meet with PAO for 50 minutes
-- Meet with Key Reports and Key Finance Leaders - Director of Treasury, VP Corporate Controller, Sr. Director Revenue - for 30 minutes each
-- Meet with People Business Partner for the CFO Organization for 25 minutes
-- Meet with VP of Finance for 50 minutes
-- Meet with CFO for 50 minutes
+## 5. Risk Assessment
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Each identified risk is assessed in terms of:
+- Likelihood of occurrence
+- Potential impact on objectives, stakeholders, or compliance
+- Interaction with other risks or processes
+- Level of existing controls
+
+Risk assessment results in prioritisation for treatment and monitoring.
+
+⸻
+
+## 6. Risk Treatment
+
+Risk treatment involves:
+- Defining mitigation actions or controls to reduce likelihood or impact
+- Assigning ownership and accountability for implementation
+- Establishing timelines and monitoring methods
+- Ensuring treatment actions are proportionate to risk
+
+⸻
+
+## 7. Improvement Integration
+
+Improvement activities are linked to risk management by:
+- Capturing opportunities identified during risk assessments
+- Incorporating corrective actions from incidents and nonconformities
+- Updating processes, controls, or procedures to prevent recurrence
+- Tracking and monitoring improvement effectiveness
+
+⸻
+
+## 8. Monitoring and Review
+
+The organisation monitors risks and improvements by:
+- Regular review of the risk register
+- Evaluating the effectiveness of mitigation actions
+- Reviewing trends and recurring issues
+- Reporting to management and including outputs in management review
+
+⸻
+
+## 9. Communication
+
+Information on risk and improvement is communicated to:
+- Relevant personnel responsible for risk mitigation
+- Management for decision-making and resource allocation
+- Stakeholders where appropriate
+
+Transparent communication ensures shared understanding and accountability.
+
+⸻
+
+## 10. Documentation and Records
+
+Records maintained include:
+- Risk registers and assessment documents
+- Mitigation and improvement action plans
+- Incident and nonconformity reports linked to risk
+- Management review outputs related to risk and improvement
+
+All records are controlled under IMS document and records control procedures.
+
+⸻
+
+## 11. Continual Improvement
+
+The organisation ensures continual improvement of risk management by:
+- Analysing risk management performance and trends
+- Reviewing lessons learned from incidents, audits, and feedback
+- Updating risk assessment methodology and controls as required
+- Embedding learning into processes and policies

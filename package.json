@@ -1,7 +1,8 @@
 {
   "name": "handbook-main",
   "private": true,
-  "description": "View the handbook at <https://handbook.impactorbit.co>",
+  "version": "1.0.0",
+  "description": "View the handbook",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:impactorbitco/handbook-main.git"
@@ -11,7 +12,9 @@
     "build": "npm run sync-data && hugo --minify",
     "start": "hugo server",
     "preview": "hugo server -D",
-    "deploy": "npm run build && gh-pages -d public"
+    "deploy": "npm run build && gh-pages -d public",
+    "predeploy": "npm run build",
+    "prepare": "npm install"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.22",

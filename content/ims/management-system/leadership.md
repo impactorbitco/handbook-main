@@ -3,149 +3,101 @@ title: Leadership
 weight: 10
 ---
 
-## Levels
+1. Purpose
 
-### Associate Technology Partner Manager
+Leadership is fundamental to the effectiveness of the Integrated Management System (IMS). This section defines how top management demonstrates leadership and commitment to the IMS, ensuring it is aligned with the organisation’s strategic direction, values, and long-term objectives.
 
-The Associate Technology Partner Manager reports to Manager, Technology Partner Managers.
+Effective leadership ensures that quality, environmental responsibility, information security, health and safety, and other applicable management disciplines are embedded into day-to-day decision-making rather than treated as standalone compliance activities.
 
-#### Associate Technology Partner Manager Job Grade
+⸻
 
-The Associate Technology Partner Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+2. Leadership Commitment
 
-#### Associate Technology Partner Manager Responsibilities
+Top management demonstrates leadership and commitment to the IMS by:
+	•	Taking overall accountability for the effectiveness of the IMS
+	•	Ensuring the IMS is aligned with the organisation’s strategic objectives and purpose
+	•	Integrating IMS requirements into business processes and operational planning
+	•	Promoting a culture of continual improvement, risk awareness, and responsible behaviour
+	•	Ensuring that ethical, legal, regulatory, and contractual obligations are understood and met
 
-1. Execute annual partner plans with technology companies including ISVs and cloud companies.
-1. Evaluate effectivity of partner relationships and engagements in delivering positive ROI.
-1. Be the central point of contact and advocacy at GitLab, orchestrating the partner engagements across the various departments: product, content, marketing, and sales
-1. Ensure successful execution of marketing and sales acceleration programs, with a drive for measurable outcomes and revenue yield
-1. Facilitate meaningful relationships between GitLab and our technology partners' teams. This includes partners executive leaders, product managers, engineering, sales and marketing.
-1. Identify new opportunities for quality, high ROI engagements with partners
-1. 1. Ability to travel if needed and comply with the company's [travel policy](/handbook/finance/travel/)
+Leadership commitment is demonstrated through visible actions, clear decision-making, and ongoing engagement rather than delegation alone.
 
-#### Associate Technology Partner Manager Requirements
+⸻
 
-1. Sales management and/or business development experience in the technology/cloud services industry, preferably in the DevOps space
-1. Demonstrated repeated success leading partner/client engagement plans to fruitful executions, consistently exceeding key performance metrics
-1. Strong presentation skills and the ability to articulate complex concepts to cross functional audiences
-1. Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers
-1. Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
-1. Excellent time management and written/verbal communication skills
-1. Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
-1. [Leadership at GitLab](/handbook/company/structure/#management-group)
-1. Ability to travel if needed and comply with the company's [travel policy](/handbook/finance/travel/)
-1. Ability to use GitLab
+3. Policy and Strategic Direction
 
-### Technology Partner Manager (Intermediate)
+Top management is responsible for establishing, approving, and maintaining IMS-related policies that:
+	•	Are appropriate to the organisation’s purpose, context, and scale of activities
+	•	Provide a clear framework for setting objectives and targets
+	•	Include commitments to compliance, prevention of harm, and continual improvement
+	•	Are communicated, understood, and applied across the organisation
 
-The Technology Partner Manager (Intermediate) reports to Manager, Technology Partner Managers.
+Policies are reviewed periodically to ensure continued relevance and alignment with strategic direction and stakeholder expectations.
 
-#### Technology Partner Manager (Intermediate) Job Grade
+⸻
 
-The Technology Partner Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+4. Roles, Responsibilities, and Authorities
 
-#### Technology Partner Manager (Intermediate) Responsibilities
+Top management ensures that roles, responsibilities, and authorities related to the IMS are:
+	•	Clearly defined and documented
+	•	Assigned to competent individuals
+	•	Communicated and understood throughout the organisation
 
-- Extends that of the Junior Technology Partner Manager responsibilities
-- Lead the strategy, sales and integrations for our key partners
-- The role will interface significantly with our PM org and be responsible for initial technical scoping and detailed business strategy
+Specific responsibilities include:
+	•	Appointing an IMS Lead or equivalent role with authority to oversee system implementation and maintenance
+	•	Ensuring managers are accountable for IMS performance within their areas of responsibility
+	•	Empowering employees to take ownership of IMS-related responsibilities relevant to their roles
 
-#### Technology Partner Manager (Intermediate) Requirements
+⸻
 
-- Extends that of the Technology Partner Manager (Intermediate) Requirements
-- Sales management and/or business development experience in the technology/cloud services industry, preferably in the DevOps space
+5. Resource Provision
 
-### Senior Technology Partner Manager
+Leadership ensures that adequate resources are provided to establish, implement, maintain, and improve the IMS, including:
+	•	People with appropriate competence and training
+	•	Time and capacity to manage IMS activities effectively
+	•	Financial and technological resources
+	•	Tools, systems, and infrastructure required to support compliance and performance
 
-The Senior Technology Partner Manager reports to Manager, Technology Partner Managers.
+Resource needs are reviewed regularly as part of planning and management review processes.
 
-#### Senior Technology Partner Manager Job Grade
+⸻
 
-The Senior Technology Partner Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+6. Communication and Engagement
 
-#### Senior Technology Partner Manager Responsibilities
+Top management promotes effective communication and engagement by:
+	•	Communicating the importance of effective IMS management and conformity to requirements
+	•	Encouraging open dialogue on risks, opportunities, incidents, and improvement ideas
+	•	Supporting consultation and participation of employees and relevant stakeholders
+	•	Leading by example in applying IMS principles and controls
 
-Extends that of the Technology Partner Manager (Intermediate) responsibilities
+This approach supports transparency, trust, and shared accountability across the organisation.
 
-1. Own and lead C-Suite relationships
-1. Speak regularly in public as the voice for GitLab and the partner
-1. SA level expertise with GitLab AND the partners technology
-1. Proactively identify, develop and drive longer-term strategies and initiatives that will deliver rapid business growth globally in conjunction with alliance partners.
+⸻
 
-#### Senior Technology Partner Manager Requirements
+7. Culture and Continual Improvement
 
-- Extends that of the Technology Partner Manager (Intermediate) Requirements
-- Sales management and/or business development experience in the technology/cloud services industry, preferably in the DevOps space
+Leadership is responsible for fostering a culture that:
+	•	Encourages proactive risk identification and mitigation
+	•	Supports learning from incidents, nonconformities, and feedback
+	•	Values sustainability, security, quality, and wellbeing
+	•	Recognises and rewards responsible and compliant behaviour
 
-### Manager, Technology Partner Managers
+Top management ensures that the IMS is continually improved through performance monitoring, audits, management reviews, and corrective actions.
 
-The Manager, Technology Partner Managers reports to the VP, Alliances.
+⸻
 
-#### Manager, Technology Partner Managers Job Grade
+8. Management Review
 
-The Manager, Technology Partner Managers is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Top management conducts regular management reviews to:
+	•	Assess IMS performance and effectiveness
+	•	Review risks, opportunities, and changes in organisational context
+	•	Evaluate achievement of objectives and targets
+	•	Identify opportunities for improvement and resource needs
 
-#### Manager, Technology Partner Managers Responsibilities
+Outputs from management reviews are documented and used to drive informed decision-making and continual improvement.
 
-- Execute annual partner plans with technology companies including ISVs, cloud, and infrastructure companies.
-- Evaluate the effectiveness of partner relationships and engagements in delivering positive ROI and impact to bottom line revenue.
-- Be the central point or an escalation point of contact at GitLab, orchestrating the partner engagements across the * various departments: product, content, marketing, and sales.
-- Ensure successful execution of marketing and sales acceleration programs, with a drive for measurable outcomes and revenue yield
-- Facilitate meaningful relationships between GitLab and our technology partners' teams. This includes partners, executive leaders, product managers, engineering, sales and marketing.
-- Identify and nurture new opportunities for quality, high ROI engagements with partners.
+⸻
 
-#### Manager, Technology Partner Managers Requirements
-
-- Business development experience or directly managing partner relationships a GTM strategies in the technology/cloud services industry, preferably in the DevOps space.
-- Demonstrated repeated success leading partner/client engagement plans to fruitful executions, consistently exceeding key performance metrics.
-- Build out and own executive VP and C-level relationships across various technology partners.
-- Strong presentation skills and the ability to articulate complex concepts to cross functional audiences.
-- Presentation skills with a high degree of comfort speaking with executives, IT Management, and developers
-- Significant experience with executive presence and a proven ability to lead and facilitate executive meetings including architecture whiteboards
-- Excellent time management and written/verbal communication skills
-- Works collaboratively between partners and GitLab sales team to drive white space discussion and opportunity generation.
-- Ability to quickly understand technical concepts and explain them to audiences of varying technical expertise
-- Leadership at GitLab
-- Ability to use GitLab
-
-### Senior Manager, Technology Partner Managers
-
-The Senior Manager, Technology Partner Managers reports to the Director or VP, Alliances.
-
-#### Senior Manager, Technology Partner Managers Job Grade
-
-The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Senior Manager, Technology Partner Managers Responsibilities
-
-- Extends that of the Manager, Technology Partner Managers responsibilities
-- Sr Manager should have capabilities to build out and manage the automation of multiple partner portal technologies / platforms such as IMPartner, SFDC and CrossBeam
-- Sr. Manager knows how to scale revenue from the vast partnerships that they build.  GTM practices is second nature when hunting and gathering the ISV Partners that they recruit.
-- Sr. Manager has self awareness of when to course correct when it comes to partnership and the people that report to them.  Awareness about "partnership performance" should come from the meta data that they build into the scorecarding of those partnerships.  Nothing should ever come as a surprise to them when it comes to the overarching health of that partnership.
-- GitLab is a revenue generating public company.  This person will be able to track their value add and partnerships in the organization because they know partnership through their experience.
-- Sr. Manager should always be thinking about partner related sales pipeline when it comes to their GTM campaigns with partners and marketing.  A well thought out and instrumented Alliance GTM plan id necessary to drive a strong quarter close and avoid misses throughout the year.
-
-#### Senior Manager, Technology Partner Managers Requirements
-
-- Extends that of the Manager, Technology Partners Managers requirements
-
-## Performance Indicators
-
-- $ derived from GitLab + Technology partner joint customers
-- Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://internal.gitlab.com/handbook/company/performance-indicators/product/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners. This person has the wherewithal to drive revenue derived from the largest of Clouds to the smallest of ISVs
-
-## Career Ladder
-
-The next step for the Technology Partner Manager Job Family has not yet been defined.
-
-## Hiring Process
-
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
-
-- Selected candidates will be invited to schedule a 30min screening call with one of our Global Recruiters
-- Next, candidates will be invited to schedule a first interview with the Hiring Manager
-- Next, candidates will be invited to interview with 2-5 team members
-- There may be a final executive interview
-
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Document Owner: IMS Lead
+Approval Authority: Senior Management
+Review Cycle: Annual or upon significant organisational change

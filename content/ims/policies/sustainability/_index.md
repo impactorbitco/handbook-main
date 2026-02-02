@@ -1,5 +1,5 @@
 ---
 title: "Sustainability"
 cascade:
-  type: job-families
+  type: ims
 ---

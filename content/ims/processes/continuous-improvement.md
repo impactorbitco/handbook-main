@@ -3,106 +3,134 @@ title: Continuous Improvement
 weight: 10
 ---
 
-The Chief of Staff to the CEO is a very talented individual who serves as a trusted advisor and confidant to the Chief Executive Officer (CEO). The Chief of Staff to the CEO and the CEO work closely together to get twice as much done as the CEO would be able to do alone. The Chief of Staff to the CEO leads the Office of the CEO at GitLab.
+## 1. Purpose
 
-This is a senior leadership role. This role does not do any work our [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) (EBAs) are already doing, for example, calendaring. The Chief of Staff to the CEO has some EBA support.
+This procedure defines how the organisation identifies, manages, and implements continual improvement within the Integrated Management System (IMS). The purpose is to enhance the effectiveness, suitability, and performance of the IMS by systematically learning from experience, performance data, and stakeholder feedback.
 
-## Job Grade
+Continual improvement ensures that the IMS evolves in line with organisational objectives, changing risks, stakeholder expectations, and applicable requirements.
 
-The Chief of Staff to the CEO is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+⸻
 
-## Q&A Videos
+## 2. Scope
 
-- [2019-07-24 Chief of Staff to the CEO Q&A Video with the CEO](https://youtu.be/uUwmlJfim6U)
-- [2021-12-15 Chief of Staff partnership with the CEO Q&A Video](https://youtu.be/jdlNhxFTAnM)
+This procedure applies to:
+- All processes, activities, and controls within the IMS
+- All personnel, including employees, contractors, and relevant third parties
+- Improvements related to quality, environmental performance, information security, health and safety, and governance
 
-## Responsibilities
+⸻
 
-The responsibilities include both directed work that will mostly be triggered by a direction from the CEO as well as leadership work that is self-directed. The mix will shift from majority directed work to majority leadership work. As the Head of the Office of the CEO, the Chief of Staff to the CEO is responsible for managing team members within the Office of the CEO and supporting their success in their roles.
+## 3. Principles of Continual Improvement
 
-### Directed Work
+The organisation’s approach to continual improvement is based on the following principles:
+- Proactive identification of improvement opportunities
+- Risk-based and evidence-led decision-making
+- Learning from successes, failures, and near misses
+- Incremental and sustainable change
+- Shared responsibility across the organisation
 
-1. Create written material and presentations on behalf of the CEO.
-1. Suggest changes to processes via [the handbook](/handbook/about/handbook-usage/) based on discussions during meetings or from the CEO and address any comments on them. The [CEO shadows](/handbook/ceo/shadow/) will keep doing the majority of these.
-1. Ensure upcoming [E-Group Weekly](/handbook/company/e-group-weekly/) meetings are relevant, well structured, and that the preparation is complete and correct.
-1. Moderate the [E-Group](/handbook/company/structure/#e-group) meetings.
-1. Ensure action points coming out of meetings (i.e. executive, OKR, key, or incident meetings) are implemented.
-1. Reinforce [communication guidelines](/handbook/communication/).
-1. Prep for the CEO Quarterly Kick-offs.
-1. Draft blog posts and articles about areas of interest to the CEO.
+⸻
 
-### Leadership Work
+## 4. Sources of Improvement Opportunities
 
-1. Identify opportunities to acknowledge success and ensure that they are appropriately recognized by the CEO.
-1. Own agenda for the [E-Group offsite](/handbook/company/offsite/).
-1. Serve as a proxy for the CEO by attending meetings in place of the CEO and making decisions on the CEO's behalf.
-1. Participate in every E-Group meeting. The person will not be an executive or part of the E-Group, but they will take part in E-Group activities.
-1. Act as a communication arm for the CEO with team members and other stakeholders.
-1. Act as a sounding board to the CEO for new ideas and initiatives.
-1. Prepare ahead of formal and informal Board meetings. Ensure CEO has up to date information from every function in advance of questions from the board.
-1. Run special projects that are urgent and important, for example building a company wide [compensation model](/handbook/total-rewards/compensation/compensation-calculator/).
-1. Lead key many-functional efforts.
+Improvement opportunities may arise from:
+- Monitoring and measurement of process performance
+- Internal and external audit findings
+- Incidents, nonconformities, and near misses
+- Client and stakeholder feedback
+- Management reviews
+- Changes in legal, regulatory, or strategic context
+- Employee suggestions and lessons learned
 
-## Requirements
+All sources are considered valid inputs to the continual improvement process.
 
-1. Capacity to be a [senior leader](/handbook/company/structure/#directs-group) at GitLab.
-1. Proven ability to quickly learn new things.
-1. Concise written and verbal communication.
-1. Ability to work during Pacific Time (PT) friendly hours.
-1. Structured about how to prioritize work and time.
-1. Able to make a clear business case for proposals.
-1. Master's degree in Engineering or Business Administration or equivalent experience.
-1. Experience with data analysis.
-1. Proven success in project coordination and reporting.
-1. Proven track record of effectively interacting with senior stakeholders on cross-functional projects.
-1. Experience leading a team.
-1. 5+ years combined experience in:
-   - Senior operating role at a significant fast-growing startup,
-   - Strategy consulting,
-   - or Venture capital.
-1. 3+ years people management experience.
-1. Operational experience in a previous role.
-1. Ability to use GitLab.
+⸻
 
-### Preferred Requirements
+## 5. Identification and Logging of Improvements
 
-1. Knows how to use git.
+Improvement opportunities are:
+- Identified through routine activities or specific reviews
+- Logged in an improvement register or equivalent system
+- Described clearly, including the issue, opportunity, or desired outcome
 
-## Performance Indicators
+Opportunities may range from minor process enhancements to significant systemic changes.
 
-- Meetings shifted from CEO - hours spent in meetings decreases overtime by Chief of Staff to the CEO stepping in, supported by Internal Consultants
-- Throughput - Issues or merge requests closed as measurement of projects iterated on
+⸻
 
-## Hiring Process
+## 6. Assessment and Prioritisation
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
+Identified improvement opportunities are assessed to:
+- Understand potential benefits and impacts
+- Evaluate associated risks and resource requirements
+- Determine priority based on significance, urgency, and alignment with objectives
 
-   1. Qualified candidates will be invited to schedule a 25 minute screening call with a Recruiter
-   1. Next, candidates will be invited to schedule a 25 minute interview with the CEO
-   1. Then, candidates will be invited to schedule a 50 minute interview with the Director, Strategy & Operations and a 50 minute interview with the Senior Engineering Manager, Infrastructure (second team member)
-   1. In tandem, candidates will be asked to complete a project
-   1. Next, candidates will be invited to schedule a 50 minute interview with the Chief Revenue Officer and a 50 minute interview with the Chief Technology Officer
-   1. Then, candidates will be asked to complete another project
-   1. Next, candidates will be invited to a 80 minute face to face interview with the CEO
-   1. Finally, candidates may be asked to do another call with a Board Member, CEO Mentor, or other industry professional
+Not all improvement opportunities require formal action; decisions are proportionate and documented where appropriate.
 
-As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+⸻
 
-## References
+## 7. Planning and Implementation
 
-- [What Is a Chief of Staff to the CEO and When Do You Need One?](https://www.bridgespan.org/insights/chief-of-staff-role#sidebar-two) by Madeleine Niebauer 2018-09-26
-- [The Chief of Staff to the CEO role in Silicon Valley](https://medium.com/@juliadewahl/the-chief-of-staff-role-in-silicon-valley-182eb93e636e) by Julia DeWahl 2019-04-29
-- [The Unrepentant Generalist: How to Be a Great Chief of Staff in Tech](https://www.nehrlich.com/blog/2019/10/31/how-to-be-a-great-chief-of-staff-in-tech/)
-- [NYT: Hail to the Chief of Staff](https://www.nytimes.com/2019/11/07/style/what-does-a-chief-of-staff-do.html)
-- 2020 March: [Chief of Staff in the Tech Industry](https://medium.com/@alexismonville/chief-of-staff-in-the-tech-industry-c7dc3a43dae6)
-- [Emilie Schario's Notes on the CoS to the CEO Book](https://docs.google.com/document/d/1ZjWmqhv78eic57gxR825FvC9GMHo91pYakb3Jc7ximU/edit?usp=sharing)
-- [Chief of Staff Tech Network](https://www.chiefofstaff.network/)
-- [Chief of Staff Resources](https://chiefofstaff.expert/)
-- [Prime Chief of Staff](https://primechiefofstaff.com)
-- [The First 90 Days](https://medium.com/@robdickins/a-90-day-impact-plan-for-a-new-chief-of-staff-97768d9b04bd)
-- [I've Logged 10,000 Hours as a Chief of Staff in a Large Tech Company](https://medium.com/@robdickins/ive-logged-10-000-hours-as-a-chief-of-staff-in-a-large-tech-company-here-s-my-pov-on-the-role-7c4aa095f5e8)
-- [The Role of a Corporate Chief of Staff](https://medium.com/cos-tech-forum/part-1-the-role-of-a-corporate-chief-of-staff-8db0142318f1)
-- [Better CoS to the CEO: Decision Making](https://medium.com/@robdickins/better-cos-decision-making-5d97d14152e3)
-- [Becoming a Chief of Staff with Brian Rumao](https://www.linkedin.com/learning/become-a-chief-of-staff)
-- [HBR: The Case for a Chief of Staff](https://hbr.org/2020/05/the-case-for-a-chief-of-staff)
-- [How a Chief of Staff Makes Leaders more Effective](https://www.inc.com/inc-masters/how-a-chief-of-staff-makes-leaders-more.html)
+For approved improvement actions, the organisation:
+- Defines clear actions, responsibilities, and timescales
+- Assesses risks associated with implementation
+- Allocates necessary resources
+- Implements changes in a controlled manner
+
+Where improvements involve changes to processes or controls, change management procedures are applied.
+
+⸻
+
+## 8. Corrective Action and Effectiveness Review
+
+Where improvement actions address incidents or nonconformities:
+- Root causes are identified and addressed
+- Corrective actions are implemented to prevent recurrence
+- Effectiveness of actions is reviewed after implementation
+
+If actions are not effective, further improvement measures are defined.
+
+⸻
+
+## 9. Monitoring and Measurement
+
+The organisation monitors improvement activities by:
+- Tracking progress against agreed actions and milestones
+- Measuring impact on performance indicators where applicable
+- Reviewing outcomes through audits or management reviews
+
+Evidence of improvement is retained to demonstrate effectiveness and learning.
+
+⸻
+
+## 10. Communication and Learning
+
+Continual improvement is supported through:
+- Communication of improvements and lessons learned
+- Sharing good practice across teams
+- Encouraging employee involvement and suggestions
+
+This supports a culture of openness, learning, and accountability.
+
+⸻
+
+## 11. Management Review and Strategic Alignment
+
+Top management reviews continual improvement activities to:
+- Assess overall IMS performance and maturity
+- Ensure improvements align with strategic objectives
+- Identify systemic issues or opportunities
+- Prioritise future improvement initiatives
+
+Outputs from management review inform planning and resource allocation.
+
+⸻
+
+## 12. Records and Documentation
+
+Records related to continual improvement include:
+- Improvement registers and action logs
+- Corrective action records
+- Review findings and outcomes
+- Evidence of implemented improvements
+
+All records are controlled in accordance with IMS document and records control procedures.

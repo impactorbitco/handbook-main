@@ -1,6 +1,6 @@
 ---
 title: GDPR
 cascade:
-  type: job-families
+  type: IMS
 weight: 10
 ---

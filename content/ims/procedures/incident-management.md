@@ -3,49 +3,138 @@ title: Incident Management
 weight: 10
 ---
 
-### Chief of Staff to the CFO
+1. Purpose
 
-The Chief of Staff to the CFO reports to the Chief Financial Officer
+This procedure defines how the organisation identifies, reports, manages, investigates, and learns from incidents within the Integrated Management System (IMS). The purpose is to minimise harm, reduce the likelihood of recurrence, and ensure continual improvement across quality, environmental management, information security, health and safety, and other applicable IMS areas.
 
-#### Chief of Staff to the CFO Job Grade
+Effective incident management supports transparency, accountability, compliance, and organisational learning.
 
-The Chief of Staff to the CFO can be a [grade 11 or a grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+⸻
 
-## Role
+2. Scope
 
-The Chief of Staff to the CFO is a trusted member of the CFO leadership team and is responsible for  both directed work that will mostly be triggered by a direction from the CFO, as well as leadership work that is self-directed and includes inputs and priorities from the CFO leadership team.  This role will drive operational excellence and execution of strategic and important projects in Finance. The CoS to the CFO will enable communication, collaboration, strategy execution and special projects across the CFO organization. The CoS will be a sounding board for the CFO and execute on projects and programs that are important to the success of the division and GitLab overall.
+This procedure applies to:
+	•	All incidents, near misses, and adverse events related to IMS activities
+	•	All personnel, including employees, contractors, and relevant third parties
+	•	All operational, digital, physical, and remote working environments
+	•	Incidents arising from internal activities or external parties under the organisation’s control
 
-## Responsibilities
+⸻
 
-Lead and execute on urgent and strategic key projects for the CFO and Finance organization
-Serve as a sounding board for the CFO on new ideas and initiatives
-Initiate and guide OKR process for Finance
-Lead coordination and development of Board decks
-Lead preparation and strategy for Finance leadership meetings, including offsite cadence, content, action items, and execution follow up
-Collaborate with the CFO, VP, IR, and other key stakeholders in preparation for quarterly earnings activities
-Manage Finance budget in partnership with FP&A
-Management of cross functional Finance processes and DRI on ensuring handbook alignment to those current Finance processes/programs (with support from process owners and Executive Business Admins)
-Support communication of key messaging within Finance, GitLab, and externally
-Interact with senior leaders across GitLab
+3. Definitions
+	•	Incident: An unplanned event that has resulted in, or could have resulted in, harm, loss, disruption, nonconformity, or breach of requirements.
+	•	Near Miss: An event that did not result in harm or loss but had the potential to do so.
+	•	Nonconformity: Failure to meet a requirement of the IMS, applicable standards, or legal obligations.
+	•	Corrective Action: Action taken to eliminate the cause of an incident or nonconformity to prevent recurrence.
 
-## Requirements
+⸻
 
-Deep understanding of Finance as a function in a public company, and strong general business acumen
-Deep project management experience with demonstrated success leading complex project through inception to completion
-Demonstrated ability to do whatever it takes to solve complex problems and build scalable processes.
-Works consistently with abstract ideas or situations across multiple areas of the Finance division
-Proven ability to quickly learn new things.
-Comfort working in a high-growth, constantly changing environment.
-Experience handling sensitive and confidential financial material in a public company
-Ability to work collaboratively and efficiently with stakeholders throughout the organization
-Experience interacting with the Board and C-Suite with ease and confidence
-Concise and effective written and verbal communication.
-Ability to work independently and deliver results autonomously when needed, while also able to inspire collaborative solutions and achieve results through others
-Problem solver, analytical and organized thinker
-[Short toes](/handbook/values/#short-toes) and an aptitude for working well with a wide range of people.
-"Calm under fire" demeanor
-Willingness to take on new challenges has led to opportunities for increased scope overtime
+4. Principles of Incident Management
 
-## Performance Indicators
+The organisation manages incidents in accordance with the following principles:
+	•	Prompt reporting and response
+	•	Proportionate investigation based on risk and impact
+	•	Focus on root causes rather than blame
+	•	Transparency and clear communication
+	•	Learning and continual improvement
 
-- TBD
+⸻
+
+5. Incident Identification and Reporting
+
+All personnel are responsible for identifying and reporting incidents and near misses as soon as practicable.
+
+Incidents may include, but are not limited to:
+	•	Quality failures or service disruptions
+	•	Information security or data protection incidents
+	•	Environmental incidents or spills
+	•	Health and safety incidents or hazards
+	•	Legal, regulatory, or contractual breaches
+
+Incidents are reported using approved reporting channels and recorded in the incident log or management system.
+
+⸻
+
+6. Initial Response and Containment
+
+Upon identification of an incident, appropriate actions are taken to:
+	•	Ensure the safety and wellbeing of people
+	•	Contain or limit further impact or damage
+	•	Secure affected systems, information, or environments
+	•	Preserve evidence where investigation is required
+
+Escalation to management or specialist support occurs where the incident exceeds defined thresholds or poses significant risk.
+
+⸻
+
+7. Classification and Assessment
+
+Reported incidents are:
+	•	Classified by type, severity, and potential impact
+	•	Assessed to determine actual and potential consequences
+	•	Evaluated against legal, regulatory, contractual, and IMS requirements
+
+The level of investigation and response is proportionate to the risk and severity of the incident.
+
+⸻
+
+8. Investigation and Root Cause Analysis
+
+Where required, incidents are investigated to:
+	•	Understand what happened and why
+	•	Identify immediate, underlying, and systemic causes
+	•	Determine whether IMS controls were adequate and effective
+
+Appropriate investigation techniques may be used depending on complexity and impact.
+
+⸻
+
+9. Corrective and Preventive Actions
+
+Following investigation, corrective actions are defined and implemented to:
+	•	Eliminate root causes of the incident or nonconformity
+	•	Prevent recurrence of similar incidents
+	•	Address identified weaknesses in processes, controls, or training
+
+Actions are assigned owners, target dates, and monitored for effectiveness.
+
+⸻
+
+10. Communication and Reporting
+
+Incidents are communicated appropriately to:
+	•	Affected personnel and stakeholders
+	•	Senior management
+	•	Customers, partners, or regulators where required
+
+Communication is timely, accurate, and proportionate to the incident’s impact and obligations.
+
+⸻
+
+11. Records and Documentation
+
+Records related to incident management include:
+	•	Incident reports and logs
+	•	Investigation findings and evidence
+	•	Corrective action plans and outcomes
+	•	Communications and notifications
+
+All records are controlled in accordance with IMS document and records control procedures.
+
+⸻
+
+12. Review and Continual Improvement
+
+Incident data is reviewed to:
+	•	Identify trends and recurring issues
+	•	Evaluate effectiveness of controls and responses
+	•	Inform risk assessments and process improvements
+	•	Support management review and decision-making
+
+Lessons learned are shared where appropriate to strengthen organisational awareness and resilience.
+
+⸻
+
+Document Owner: IMS Lead
+Approval Authority: Senior Management
+Review Cycle: Annual or upon significant organisational change
